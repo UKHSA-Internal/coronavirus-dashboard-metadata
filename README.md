@@ -1,1 +1,1 @@
-# coronavirus-dashboard-metadata
+# Coronavirus Dashboard Metadata
