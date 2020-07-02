@@ -1,4 +1,4 @@
-Data are not updated at weekends.  The UK figure is updated weekly when the data for Scotland become available.
+Data are not updated at weekends.  The UK figure is the sum of the four nations' figures: data for some nations are not updated as frequently as others.
 
 England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in the 24 hours previous to the reporting date whilst in hospital. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis.
 

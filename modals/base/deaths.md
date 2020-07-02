@@ -2,6 +2,8 @@
 
 Deaths of people who have tested positively for COVID-19 could in some cases be due to a different cause.
 
+Data can be presented by date of death or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.
+
 Data on deaths are collected separately in each fo the 4 Nations of the UK.
 
 ## England
