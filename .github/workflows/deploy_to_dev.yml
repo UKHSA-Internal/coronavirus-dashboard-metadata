@@ -18,4 +18,5 @@ jobs:
       - uses: muinmomin/webhook-action@v1.0.0
         with:
           url: ${{ secrets.DEVPUBLISHPROFILE }}
-          data: "{'command': 'publish'}"
+          data: >
+            {"command": "publish"}
