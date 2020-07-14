@@ -4,11 +4,9 @@
 
 ## Daily and cumulative numbers of tests
 
-The number of tests, across all types of testing, reported on or up to the reporting date.
+Number of tests, across all types of testing, reported on or up to the reporting date.
 
-These figures include all tests carried out and sent out as part of the government's mass testing programme.
-
-{inc:base/fourPillars.md|modals}
+{inc:base/tests_processed.md|modals}
 
 ## Testing capacity
 
@@ -18,9 +16,7 @@ Total number of tests capable of being performed by laboratories on the reportin
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a lab-confirmed positive test on or up to the reporting date or specimen date.
-
-These figures include cases for the 4 Nations identified through NHS, PHE and commercial partner testing.
+Number of people with a lab-confirmed positive test on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
@@ -44,6 +40,6 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 
 ## Daily and cumulative COVID19-associated deaths
 
-Total number of deaths of people who have had a positive test result for COVID-19 reported on or up to the reporting date or date of death.
+Total number of deaths of people who had had a positive test result for COVID-19 reported on or up to the date of death or reporting date (depending on availability).
 
-{inc:base/deaths.md|modals}
+{inc:base/deaths_long.md|modals}

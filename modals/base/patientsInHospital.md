@@ -2,8 +2,4 @@
 
 England data are for NHS Hospital Acute Trusts with a type 1 A&E department.
 
-England and Scotland data include 'confirmed' COVID-19 cases; Wales and Northern Ireland data include ‘confirmed’ and ‘suspected’ COVID-19 cases.
-
-Due to the way Northern Ireland report, the UK figure is calculated by taking the most recent day for Great Britain plus the previous day for Northern Ireland.
-
-Community hospitals are included in figures for Wales from 23 April onwards.
+England, Northern Ireland and Scotland data include 'confirmed' COVID-19 cases; from 26 May, data for Wales include 'confirmed' and 'recovering' patients.
