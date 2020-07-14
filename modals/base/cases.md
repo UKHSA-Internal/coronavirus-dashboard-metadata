@@ -4,13 +4,13 @@ Data can be presented by specimen date (the date when the sample was taken from 
 
 Data from the start of the epidemic include cases identified through pillar 1 testing (see below) for each nation.
 
-More recent data for England, Northern Ireland and Scotland include cases identified through pillar 2 as well.  Scotland data include pillar 2 tests from 15 June onwards, Northern Ireland data from 26 June onwards and England data from 2 July onwards.  This is why there are step increases in the time series for each nation.
-
-Data for Wales do not include cases diagnosed by pillar 2 tests conducted in non-NHS Wales laboratories. These cases are also excluded from the UK total.
+More recent data for each nation include cases identified through pillar 2 as well.  Scotland data include pillar 2 tests from 15 June onwards, Northern Ireland data from 26 June onwards, England data from 2 July onwards and Wales data from 14 July onwards.  This is why there are step increases in the time series for each nation.
 
 Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
 
 In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  These are people who have tested positive via a pillar 1 test and a pillar 2 test.  This is why the number of cases reported reduced from 1 July to 2 July.
+
+On 14 July when Wales included 842 historic pillar 2 cases not previously reported, these caused an increase in the reported UK total.
 
 {inc:base/fourPillars.md|modals}
 
