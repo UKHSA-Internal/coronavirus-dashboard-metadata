@@ -1,3 +1,3 @@
-﻿Coronavirus tests are processed in a number of laboratories. Projected laboratory capacity is an estimate of each the number of tests all lab can process each day based on the availability staff, chemical reagents and other resources it requires. These estimates are made locally by the labs themselves, aggregated and reported by the Department for Heath and Social Care (DHSC).
+﻿Coronavirus tests are processed in a number of laboratories. Projected laboratory capacity is an estimate of each the number of tests all lab can process each day based on the availability staff, chemical reagents and other resources it requires. These estimates are made locally by the labs themselves, aggregated and published weekly by the Department for Heath and Social Care.
 
 {inc:base/fourPillars.md|modals}
