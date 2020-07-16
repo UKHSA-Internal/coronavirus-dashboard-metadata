@@ -1,4 +1,4 @@
-# Number of people tested by date reported
+# Number of people tested
 
 Daily and cumulative total number of individual people tested up to {date}.
 
