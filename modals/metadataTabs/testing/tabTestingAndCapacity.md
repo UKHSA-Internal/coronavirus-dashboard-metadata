@@ -1,4 +1,4 @@
-## Daily and cumulative number of tested processed 
+## Daily and cumulative number of tests processed 
 
 Number of lab-confirmed positive or negative COVID-19 test results by test type.
 
