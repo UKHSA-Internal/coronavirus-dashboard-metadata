@@ -1,5 +1,5 @@
 ﻿# Daily number of tests
 
-The number of tests newly reported on {date}.
+The number of lab-confirmed positive or negative COVID-19 test results newly reported on {date}.
 
 {inc:base/tests_processed.md|modals}

@@ -4,7 +4,7 @@
 
 ## Daily and cumulative numbers of tests
 
-Number of tests, across all types of testing, reported on or up to the reporting date.
+Number of lab-confirmed positive or negative COVID-19 test results, across all types of testing, reported on or up to the reporting date.
 
 {inc:base/tests_processed.md|modals}
 
@@ -16,7 +16,7 @@ Total number of tests capable of being performed by laboratories on the reportin
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a lab-confirmed positive test on or up to the specimen date or reporting date (depending on availability).
+Number of people with a lab-confirmed positive COVID-19 antigen test on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
