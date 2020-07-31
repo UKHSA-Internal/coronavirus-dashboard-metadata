@@ -1,11 +1,11 @@
-## Daily and cumulative number of tests processed 
+### Daily and cumulative number of tests processed 
 
 Number of lab-confirmed positive or negative COVID-19 test results by test type.
 
 {inc:base/tests_processed.md|modals}
 
 
-## Daily and cumulative testing capacity 
+### Daily and cumulative testing capacity 
 
 Estimated number of tests that can be performed based on staff availability and other resources.
 
