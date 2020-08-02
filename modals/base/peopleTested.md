@@ -1,4 +1,6 @@
-People tested includes all individuals who have had one or more lab-confirmed positive or negative COVID-19 antigen test results.
+NOT FINISHED - REFER TO cases.md
+
+People tested includes all individuals who have had one or more lab-confirmed positive or negative COVID-19 antigen test result.
 
 COVID-19 cases are identified by taking specimens from people and sending these specimens to laboratories around the UK to be tested for COVID-19 antigens. If the test is positive, this is a referred to as a lab-confirmed case.  If a person has had more than one test result they are only counted as one person tested.  If any of their tests were positive they count as a case.  If all their tests were negative they count as one person tested negative.  The people tested figure is the sum of cases and people tested negative.
 

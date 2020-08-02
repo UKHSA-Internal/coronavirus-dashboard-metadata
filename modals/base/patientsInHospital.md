@@ -1,3 +1,3 @@
-﻿National data may not be directly comparable as data about COVID-19 patients in hospitals are collected differently across nations. Data are not updated at weekends and data are not all provided from each nation every day, so the UK figure presented may lag as it is calculated by summing the four nations' counts.
+﻿The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day.  Caution is needed when interpreting the data as the definitions are not always consistent between the four nations.
 
-England data are for NHS Hospital Acute Trusts with a type 1 A&E department.
+England data only include NHS Hospital Acute Trusts with a type 1 A&E department.

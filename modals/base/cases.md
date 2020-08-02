@@ -4,15 +4,23 @@ Data can be presented by specimen date (the date when the sample was taken from 
 
 UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.
 
-For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included since 15th June for Scotland, 26th June for Northern Ireland, 2nd July for England and 14th July for Wales.  This is why there are step increases in the time series for each nation.  National data are not directly comparable due to differences in data collection and reporting. 
+For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included, from different dates, for all nations.
+
+#### England
+
+Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included.
+
+#### Northern Ireland
+
+Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included.
 
 #### Scotland
 
-Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
+Data include only pillar 1 cases until 15 June, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
 
 #### Wales
 
-On 14 July Wales included 842 historic pillar 2 cases that had not previously been reported, these caused an increase in the reported UK total.
+Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
 {inc:base/fourPillars.md|modals}
 

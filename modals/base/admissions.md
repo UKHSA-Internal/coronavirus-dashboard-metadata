@@ -1,4 +1,4 @@
-Data are not updated at weekends.  The UK figure is the sum of the four nations' figures and is updated when the data for all nations become available.  However, the definitions are not consistent between the four nations (see below), so rates are not comparable.
+The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day.  Caution is needed when interpreting the data as the definitions are not always consistent between the four nations.
 
 #### England
 
