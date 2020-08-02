@@ -1,18 +1,24 @@
 ﻿
-Tests made available or sent out but not processed are not included.
+Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
 
 #### UK
 
-UK data include results from all types of test (see below) but results from pillar 3 and 4 testing are not available by nation so are excluded from the individual nation data.  
+UK data include all types of test (see below) but results from pillar 3 and 4 testing are not available by nation so are excluded from the individual nation data.  
 
-#### England, Northern Ireland and Wales
+#### England and Wales
 
-Initially only results from pillar 1 testing were included but results from pillar 2 testing (see below) have been included since 8th July for Scotland, 3rd July for Northern Ireland, 14th July for England and 14th July for Wales.  This is why there are step increases in the time series for each nation.  
+Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 14 July.
+
+#### Northern Ireland
+
+Data are only available from 21 April 2020. Up to 2 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 3 July.  Northern Ireland do not report at weekends, so data shown on Saturdays and Sundays are figures for the previous Friday.  The daily tests headline figure shown on Monday is the total for Friday to Monday.
 
 #### Scotland
 
-Initially only results from pillar 1 testing were included but on 15th June Scotland included results from pillar 2 testing done at drive through centres and mobile units (but not home testing kits) - historic data have been updated to reflect these additional pillar 2 inclusions.  From 8th July results from all pillar 2 testing were included - this is why there is a step increase in the time series at this point.  
+Data are only available from 1 April 2020. Pillar 1 tests were included throughout the time series, but pillar 2 tests have been added at various times.
 
+Until 7 July 2020, the total number of COVID-19 tests carried out each day by Regional Testing Centres (RTC) as part of pillar 2 of the UK Government's testing programme were reported through the Department of Health and Social Care based on data from the contractors who operate the centres. This included tests done at the drive through centres and mobile units, but not tests processed from home testing kits.
 
+From 8 July 2020 onwards, the total number of COVID-19 tests with results in the Health Protection Scotland ECOSS system reported from the UK Government testing programme are reported, including those processed from home testing kits and the social care portal, as well as drive throughs and mobile units. These now reflect all test results reported on across pillars 1 and 2.  Void tests are not included. 
 
 {inc:base/fourPillars.md|modals}
