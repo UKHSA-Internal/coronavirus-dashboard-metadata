@@ -4,4 +4,4 @@ Total number of deaths of people who had had a positive test result for COVID-19
 
 {inc:base/deaths.md|modals}
 
-{inc:base/rollingAverages.md|modals}
+{inc:base/rolling_averages.md|modals}

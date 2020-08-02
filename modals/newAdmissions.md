@@ -1,4 +1,4 @@
-# Daily number of patients admitted to hospital
+### Daily number of patients admitted to hospital
 
 Number of patients admitted to hospital with COVID-19 on {date}.
 

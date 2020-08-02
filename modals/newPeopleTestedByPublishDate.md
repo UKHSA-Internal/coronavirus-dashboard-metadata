@@ -1,4 +1,4 @@
-# Daily number of people tested
+### Daily number of people tested
 
 Number of individual people with a lab-confirmed positive or negative COVID-19 test result newly reported on {date}.
 

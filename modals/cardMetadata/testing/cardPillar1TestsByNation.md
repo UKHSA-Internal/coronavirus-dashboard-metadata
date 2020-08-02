@@ -1,5 +1,5 @@
-### Daily and cumulative number of NHS and, in England, PHE tests, by nation 
+### Daily and cumulative numbers of pillar 1 tests processed, by nation
 
-Number of people with at least one lab-confirmed positive or negative COVID-19 test result from a pillar 1 (NHS or, in England, PHE) test.
+Number of lab-confirmed positive or negative COVID-19 antigen test results from testing in NHS and (in England) PHE labs.
 
 {inc:base/tests_processed.md|modals}

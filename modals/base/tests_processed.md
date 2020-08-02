@@ -1,5 +1,4 @@
-﻿
-Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
+﻿Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
 
 #### UK
 

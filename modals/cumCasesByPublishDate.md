@@ -1,4 +1,4 @@
-# Cumulative number of cases 
+### Cumulative number of cases 
 
 Total number of people with a lab-confirmed positive COVID-19 antigen test reported up to {date}.
 

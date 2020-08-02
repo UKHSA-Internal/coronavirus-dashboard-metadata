@@ -1,4 +1,4 @@
-# Patients in mechanical ventilation beds
+### Patients in mechanical ventilation beds
 
 Total number of mechanical ventilation beds that are occupied by COVID-19 patients on {date}.
 

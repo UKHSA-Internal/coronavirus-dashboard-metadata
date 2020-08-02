@@ -1,6 +1,6 @@
-﻿Number of deaths of people who had had a positive test result for COVID-19. The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
+﻿The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
 
-Death data can be presented in two ways and the availability of each of these time series varies by area:
+Death data can be presented by when death occurred (date of death) or when the death was reported (date reported) and the availability of each of these time series varies by area:
 
 * Deaths by date of death - each death is assigned to the date that the person died irrespective of how long it took for the death to be reported.  Previously reported data are therefore continually updated
 * Deaths by date reported - each death is assigned to the date when it was first included in the published totals.  The specific 24 hour periods reported against each date vary by nation and are defined below

@@ -4,4 +4,4 @@ Number of people with at least one lab-confirmed positive or negative COVID-19 t
 
 {inc:base/peopleTested.md|modals}
 
-{inc:base/rollingAverages.md|modals}
+{inc:base/rolling_averages.md|modals}
