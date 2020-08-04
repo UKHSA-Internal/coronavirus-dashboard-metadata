@@ -38,7 +38,8 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 
 ## Daily and cumulative COVID19-associated deaths
 
-Total number of deaths of people who had had a positive test result for COVID-19 reported on or up to the date of death or reporting date (depending on availability).
+Total number of deaths of people who had had a positive test result for COVID-19 reported on or up to
+the date of death or reporting date (depending on availability).
 
 {inc:base/deaths.md|modals}
 
@@ -47,3 +48,16 @@ Total number of deaths of people who had had a positive test result for COVID-19
 {inc:base/rates.md|modals}
 
 {inc:base/rolling_averages.md|modals}
+
+## Legacy CSV downloads
+
+The CSV downloads provided from the previous version of the dashboard are available on the links below.
+
+* [Cases](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_latest.csv)
+
+* [Deaths](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv)
+
+These files will be updated alongside the main website on a daily basis for the foreseeable future.
+However, users are strongly recommended to use the API instead, which give access to the full range of
+data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
+for details.
