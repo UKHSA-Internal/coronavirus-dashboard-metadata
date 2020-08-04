@@ -1,4 +1,4 @@
-The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day.  Caution is needed when interpreting the data as the definitions are not always consistent between the four nations.
+The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day and Scotland have stopped reporting it.  The definitions are not consistent between the four nations.  The UK figure will be discontinued shortly, but data for each nation will continue to be made available.
 
 #### England
 
@@ -10,9 +10,10 @@ Northern Ireland data include confirmed COVID-19 admissions by admission date.
 
 #### Scotland
 
-Data for Scotland include admissions into hospital for patients who tested positive for COVID-19 in the 14 days prior to admission to hospital, on the day of their admission, or during their stay in hospital. The data are published weekly by [Public Health Scotland](
-https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/).
+Data for Scotland include admissions into hospital for patients who tested positive for COVID-19 in the 14 days prior to admission to hospital, on the day of their admission, or during their stay in hospital. The data were published weekly by [Public Health Scotland](
+https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/) until 22 July, when they stopped reporting admissions.
 
 #### Wales
 
-Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am.
+Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am.  The numbers of admissions
+are not comparable with other nations.
