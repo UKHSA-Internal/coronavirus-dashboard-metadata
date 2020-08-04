@@ -1,10 +1,19 @@
-Data are not updated at weekends.  The UK figure is the sum of the four nations' figures and is updated when the data for all nations become available.  However, the definitions are not consistent between the four nations, so rates are not comparable.
+The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day and Scotland stopped reporting it on 22 July.  The definitions are not consistent between the four nations.  The UK figure can no longer be reported, but data for each nation will continue to be made available.
 
-England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in the 24 hours previous to the reporting date whilst in hospital. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis.
+#### England
+
+England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in hospital after admission. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis. Admissions to all NHS acute hospitals and mental health and learning disability trusts, as well as independent service providers commissioned by the NHS. Data are reported daily by trusts to NHS England and NHS Improvement.
+
+#### Northern Ireland
 
 Northern Ireland data include confirmed COVID-19 admissions by admission date.
 
-Data for Scotland include admissions into hospital for patients who tested positive for COVID-19 in the 14 days prior to admission to hospital, on the day of their admission, or during their stay in hospital. The data are published weekly by [Public Health Scotland](
-https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/).
+#### Scotland
 
-Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am. The status of COVID/non-COVID is as at the time of reporting, not at time of admission.
+Data for Scotland include admissions into hospital for patients who tested positive for COVID-19 in the 14 days prior to admission to hospital, on the day of their admission, or during their stay in hospital. The data were published weekly by [Public Health Scotland](
+https://beta.isdscotland.org/find-publications-and-data/population-health/covid-19/covid-19-statistical-report/) until 22 July, when they stopped reporting admissions.
+
+#### Wales
+
+Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am.  The numbers of admissions
+are not comparable with other nations.
