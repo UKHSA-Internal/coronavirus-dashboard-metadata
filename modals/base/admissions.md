@@ -1,4 +1,4 @@
-The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day and Scotland have stopped reporting it.  The definitions are not consistent between the four nations.  The UK figure will be discontinued shortly, but data for each nation will continue to be made available.
+The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day and Scotland stopped reporting it on 22 July.  The definitions are not consistent between the four nations - W.  The UK figure can no longer be reported, but data for each nation will continue to be made available.
 
 #### England
 
