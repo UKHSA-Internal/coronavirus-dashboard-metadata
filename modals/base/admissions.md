@@ -15,4 +15,4 @@ https://beta.isdscotland.org/find-publications-and-data/population-health/covid-
 
 #### Wales
 
-Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am. The status of COVID/non-COVID is as at the time of reporting, not at time of admission.
+Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am.
