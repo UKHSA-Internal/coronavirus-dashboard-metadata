@@ -2,7 +2,7 @@ The UK figure is the sum of the four nations' figures and can only be calculated
 
 #### England
 
-England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in the 24 hours previous to the reporting date whilst in hospital. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis.
+England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in hospital after admission. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis. Admissions to all NHS acute hospitals and mental health and learning disability trusts, as well as independent service providers commissioned by the NHS. Data are reported daily by trusts to NHS England and NHS Improvement.
 
 #### Northern Ireland
 

@@ -2,7 +2,7 @@ The UK figure is the sum of the four nations' figures and can only be calculated
 
 #### England
 
-England figures are the numbers of COVID-19 patients in beds which are capable of delivering mechanical ventilation and includes Nightingale hospitals.
+England figures are the numbers of COVID-19 patients in beds which are capable of delivering mechanical ventilation and includes Nightingale hospitals. Data are reported daily by trusts to NHS England and NHS Improvement.
 
 #### Northern Ireland
 

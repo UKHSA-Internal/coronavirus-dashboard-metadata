@@ -5,6 +5,8 @@ Death data can be presented by when death occurred (date of death) or when the d
 * Deaths by date of death - each death is assigned to the date that the person died irrespective of how long it took for the death to be reported.  Previously reported data are therefore continually updated
 * Deaths by date reported - each death is assigned to the date when it was first included in the published totals.  The specific 24 hour periods reported against each date vary by nation and are defined below
 
+Deaths are allocated to the deceased's usual area of residence.
+
 #### England
 
 Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day. Deaths are included if the deceased had had a positive test for COVID-19, however long after the test they died. Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).

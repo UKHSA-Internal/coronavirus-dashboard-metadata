@@ -2,6 +2,8 @@ COVID-19 cases are identified by taking specimens from people and sending these 
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.
 
+Cases are allocated to the person's area of residence.
+
 UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.
 
 For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included, from different dates, for all nations.
