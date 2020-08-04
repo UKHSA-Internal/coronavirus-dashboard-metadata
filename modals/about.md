@@ -1,6 +1,4 @@
-﻿# About the data
-
-## Table of contents
+﻿## Table of contents
 
 ## Daily and cumulative numbers of tests
 
@@ -28,7 +26,7 @@ Numbers of patients admitted to hospital with COVID-19 on or up to the reporting
 
 ## Patients in hospital
 
-Total number of patients in hospital with COVID-19 on the reporting date.
+Total number of confirmed COVID-19 patients in hospital on the reporting date.
 
 {inc:base/patientsInHospital.md|modals}
 
@@ -43,3 +41,9 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 Total number of deaths of people who had had a positive test result for COVID-19 reported on or up to the date of death or reporting date (depending on availability).
 
 {inc:base/deaths.md|modals}
+
+## Methodologies
+
+{inc:base/rates.md|modals}
+
+{inc:base/rolling_averages.md|modals}

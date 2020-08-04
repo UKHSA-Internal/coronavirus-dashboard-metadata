@@ -29,5 +29,5 @@ Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have 
 More details of the processes for counting cases in the devolved administrations are available on their websites:
 
 * [Scottish Government coronavirus information](https://www.gov.scot/coronavirus-covid-19/)
-* [Public Health Wales coronavirus information](https://covid19-phwstatement.nhs.wales/)
+* [Public Health Wales coronavirus information](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
 * [Northern Ireland Department of Health coronavirus information](https://www.health-ni.gov.uk/news/)
