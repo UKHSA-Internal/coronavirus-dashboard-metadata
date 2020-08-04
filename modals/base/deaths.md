@@ -1,4 +1,6 @@
-﻿The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
+﻿The definitions used for deaths are currently under review.  It is likely that revised data, which more accurately reflect the current and overall burden of COVID-19 will be published shortly.
+
+The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
 
 Death data can be presented by when death occurred (date of death) or when the death was reported (date reported) and the availability of each of these time series varies by area:
 
