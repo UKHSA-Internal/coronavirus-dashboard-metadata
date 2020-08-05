@@ -4,7 +4,7 @@ Number of lab-confirmed positive or negative COVID-19 test results.
 
 {inc:base/tests_processed.md|modals}
 
-{inc:base/rolling_averages|modals}
+{inc:base/rolling_averages.md|modals}
 
 
 ### Daily and cumulative testing capacity 
