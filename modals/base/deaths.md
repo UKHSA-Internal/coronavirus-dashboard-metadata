@@ -11,7 +11,7 @@ Deaths are allocated to the deceased's usual area of residence.
 
 #### England
 
-Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day. Deaths are included if the deceased had had a positive test for COVID-19, however long after the test they died. Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
+Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day. Deaths are included if the deceased had had a positive test for COVID-19, however long after the test they died. Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).  Data were revised on 10 August 2020 to remove 69 deaths from the time series which were found not to have been confirmed positive cases.
 
 #### Northern Ireland
 
