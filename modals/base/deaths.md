@@ -1,4 +1,6 @@
-﻿The definitions used for deaths are currently under review.  It is likely that revised data, which more accurately reflect the current and overall burden of COVID-19 will be published shortly.
+﻿England data were revised on 10 August 2020 to remove 69 deaths from the time series which were found not to have been confirmed positive cases.  This also resulted in the cases being removed from the UK data. 21 new cases were reported for England and the UK, but the cumulative total reduced from to 46,574 (which was reported on 9 August) to 46,526.
+
+The definitions used for deaths are currently under review.  It is likely that revised data, which more accurately reflect the current and overall burden of COVID-19 will be published shortly.
 
 The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
 
@@ -11,7 +13,7 @@ Deaths are allocated to the deceased's usual area of residence.
 
 #### England
 
-Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day. Deaths are included if the deceased had had a positive test for COVID-19, however long after the test they died. Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
+Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day. Deaths are included if the deceased had had a positive test for COVID-19, however long after the test they died. Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).  Data were revised on 10 August 2020 to remove 69 deaths from the time series which were found not to have been confirmed positive cases.
 
 #### Northern Ireland
 
