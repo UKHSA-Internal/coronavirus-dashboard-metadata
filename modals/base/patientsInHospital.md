@@ -4,6 +4,10 @@
 
 Data only include NHS Hospital Acute Trusts with a type 1 A&E department and are reported daily by trusts to NHS England and NHS Improvement.
 
+#### Northern Ireland
+
+Data published before 12 August 2020 included suspected cases as well as confirmed cases.  The full series was revised on 12 August.
+
 #### Scotland
 
 Details about the data are available in the Trends in daily COVID-19 data spreadsheets available on the [Scottish Government website[(https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
