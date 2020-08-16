@@ -10,7 +10,7 @@ Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tes
 
 #### Northern Ireland
 
-Data are only available from 21 April 2020. Up to 2 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 3 July.  Northern Ireland do not report at weekends, so data shown on Saturdays and Sundays are figures for the previous Friday.  The daily tests headline figure shown on Monday is the total for Friday to Monday.
+Data are only available from 21 April 2020. Up to 2 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 3 July.  Northern Ireland did not report at weekends between 4 July and 10 August, so cumulative figures shown on Saturdays and Sundays are figures for the previous Friday.
 
 #### Scotland
 
