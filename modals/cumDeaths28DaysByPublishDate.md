@@ -1,4 +1,4 @@
-﻿### Cumulative COVID-19 associated deaths
+﻿### Cumulative deaths within 28 days of positive test
 
 Total deaths within 28 days of a positive test result for COVID-19 reported up to {date}.
 

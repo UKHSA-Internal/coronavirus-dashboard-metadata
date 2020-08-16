@@ -1,8 +1,6 @@
-﻿The definitions used for deaths are currently under review.  It is likely that revised data, which more accurately reflect the current and overall burden of COVID-19 will be published shortly.
+﻿People who died more than 28 days after their first positive test are not included, whether or not COVID-19 was the cause of death.  People who died within 28 days of a positive test are included: the actual cause of death may not be COVID-19 in all cases.  People who died from COVID-19 but had not been tested or had not tested positive are not included.
 
-Currently, two indicators are provided: the UK figures are the sum of the four nations.  Only one figure is available for Northern Ireland, Scotland and Wales, but two are available for England (overall and 28 days).  See below for details.
-
-The actual cause of death may not be COVID-19 in all cases. People who died from COVID-19 but had not tested positive are not included.
+Deaths based on death certificate information are also available on the website - these give a more complete picture of deaths from COVID-19 but are subject to a lag in reporting of at least 11 days.
 
 Death data can be presented by when death occurred (date of death) or when the death was reported (date reported) and the availability of each of these time series varies by area:
 
@@ -15,17 +13,17 @@ Deaths are allocated to the deceased's usual area of residence.
 
 Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day.
 
-Deaths are only included if the deceased had had a positive test for COVID-19.  Data are presented both for the total number of positive cases that have died, however long after the test they died, and for those that died within 28 days of a positive test result.
+Deaths are only included if the deceased had had a positive test for COVID-19 and died within 28 days of the first positive test.
 
 Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
 #### Northern Ireland
 
-Data for Northern Ireland include all cases reported to the Public Health Agency (PHA) where the deceased had a positive test for COVID-19 and died within 28 days. COVID-19 may not have been the cause of death in some cases. Deaths caused by COVID-19 more than 28 days after the positive test are not included. PHA sources include reports by healthcare workers (eg Health and Social Care Trusts, GPs) and information from local laboratory reports. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
+Data for Northern Ireland include all cases reported to the Public Health Agency (PHA) where the deceased had a positive test for COVID-19 and died within 28 days.  PHA sources include reports by healthcare workers (eg Health and Social Care Trusts, GPs) and information from local laboratory reports. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
 
 #### Scotland
 
-Data for Scotland include deaths in all settings which have been registered with National Records of Scotland (NRS) where a laboratory confirmed report of COVID-19 in the 28 days prior to death exists. COVID-19 may not have been the cause of death in some cases. Deaths caused by COVID-19 more than 28 days after the positive test are not included. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
+Data for Scotland include deaths in all settings which have been registered with National Records of Scotland (NRS) where a laboratory confirmed report of COVID-19 in the 28 days prior to death exists. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
 
 #### Wales
 
