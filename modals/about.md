@@ -36,10 +36,10 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 
 {inc:base/covidPatientsInMVBeds.md|modals}
 
-## Daily and cumulative COVID19-associated deaths
+## Daily and cumulative deaths within 28 days of a positive test
 
-Total number of deaths of people who had had a positive test result for COVID-19 reported on or up to
-the date of death or reporting date (depending on availability).
+Total number of people who had a positive test result for COVID-19 and died within 28 days of the first
+positive test, reported on or up to the date of death or reporting date (depending on availability).
 
 {inc:base/deaths.md|modals}
 
