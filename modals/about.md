@@ -55,7 +55,7 @@ The CSV downloads provided from the previous version of the dashboard are availa
 
 * [Cases](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_latest.csv)
 
-* [Deaths](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv)
+* The legacy deaths download is no longer available as the data series has been discontinued.
 
 These files will be updated alongside the main website on a daily basis for the foreseeable future.
 However, users are strongly recommended to use the API instead, which give access to the full range of
