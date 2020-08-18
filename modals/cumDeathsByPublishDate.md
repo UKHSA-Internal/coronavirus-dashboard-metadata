@@ -2,4 +2,4 @@
 
 Total number of deaths of people who had had a positive test result for COVID-19 reported up to {date}.
 
-{inc:base/deaths.md|modals}
+{inc:base/deaths28Days.md|modals}

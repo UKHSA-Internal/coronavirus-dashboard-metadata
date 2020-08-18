@@ -41,7 +41,7 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 Total number of people who had a positive test result for COVID-19 and died within 28 days of the first
 positive test, reported on or up to the date of death or reporting date (depending on availability).
 
-{inc:base/deaths.md|modals}
+{inc:base/deaths28Days.md|modals}
 
 ## Methodologies
 
