@@ -2,7 +2,7 @@ Data are not reported by each nation every day and Scotland's data are only publ
 
 #### England
 
-England data include people admitted to hospital who already had a confirmed COVID-19 status at point of admission, and those who tested positive in hospital after admission. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis. Admissions to all NHS acute hospitals and mental health and learning disability trusts, as well as independent service providers commissioned by the NHS. Data are reported daily by trusts to NHS England and NHS Improvement.
+England data include people admitted to hospital who tested positive for COVID-19 in the 14 days prior to admission, and those who tested positive in hospital after admission. Inpatients diagnosed with COVID-19 after admission are reported as being admitted on the day prior to their diagnosis. Admissions to all NHS acute hospitals and mental health and learning disability trusts, as well as independent service providers commissioned by the NHS are included. Data are reported daily by trusts to NHS England and NHS Improvement.  Full NHS definition can be found in the estimated admissions section of the Publication Definitions document available on the [NHS COVID-19 Hospital Activity website](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/).  Data reported in the dashboard lags behind the NHS reported figures by 1 day.
 
 #### Northern Ireland
 
