@@ -4,4 +4,4 @@
 
 {inc:base/admissions.md|modals}
 
-{inc:base/rolling_averages|modals}
+{inc:base/rolling_averages.md|modals}
