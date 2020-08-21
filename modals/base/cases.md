@@ -1,6 +1,8 @@
 COVID-19 cases are identified by taking specimens from people and sending these specimens to laboratories around the UK to be tested for COVID-19 antigens. If the test is positive, this is a referred to as a lab-confirmed case.  If a person has had more than one positive test they are only counted as one case.
 
-Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.
+Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
+
+Up to 20th August, a time series of positive cases by specimen date was published on the [Coronavirus daily statistics webpage](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#time-series-documents) for the UK and the four nations. This page has now been retired although the version published on August 20th remains available. This time series is not currently available in this dashboard for Northern Ireland or the UK but we are working to make this available in the near future. 
 
 Cases are allocated to the person's area of residence.
 
