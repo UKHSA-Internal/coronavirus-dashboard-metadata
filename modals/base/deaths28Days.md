@@ -13,6 +13,8 @@ Data on COVID-19 associated deaths in England are produced by Public Health Engl
 
 Deaths are only included if the deceased had had a positive test for COVID-19 and died within 28 days of the first positive test.
 
+Regional, UTLA and LTLA death counts exclude England deaths for which the exact location of residence is unknown and therefore may not sum to the England total.
+
 Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
 #### Northern Ireland
