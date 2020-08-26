@@ -1,3 +1,5 @@
+## Table of contents
+
 ## Introduction
 
 This accessibility statement applies to [coronavirus.data.gov.uk](https://coronavirus.data.gov.uk).
