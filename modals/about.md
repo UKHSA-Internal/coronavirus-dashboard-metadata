@@ -50,10 +50,13 @@ positive test, reported on or up to the date of death or reporting date (dependi
 {inc:base/rolling_averages.md|modals}
 
 
+## Downloads
+
+
 {inc:base/lsoaCases.md|modals}
 
 
-## Legacy CSV downloads
+### Legacy CSV downloads
 
 The CSV downloads provided from the previous version of the dashboard are available on the links below.
 

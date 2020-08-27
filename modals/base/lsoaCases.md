@@ -1,4 +1,4 @@
-#### Cases by Lower Super Output Area (LSOA)
+### Cases by Lower Super Output Area (LSOA)
 
 Weekly number of cases time series data are now available to download for English LSOAs via the following links. The data are updated on Thursdays. Counts less than 2 are denoted by -99.
 
