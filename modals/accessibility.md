@@ -34,9 +34,9 @@ This website is partially compliant with the [Web Content Accessibility Guidelin
 
 The content listed below is non-accessible for the following reasons.
 
-## Non-compliance with the accessibility regulations
+### Non-compliance with the accessibility regulations
 
-### Contrast and use of colour
+#### Contrast and use of colour
 
 Some content lacks contrast with the background, for example:
 
@@ -48,7 +48,7 @@ This fails WCAG 2.1 success criterion 1.4.11 (Non-text Contrast).
 We are working on a new colourmap which will be implemented soon. It should address the issue with contrast of graph colours. The buttons are part of third party software, so unfortunately we cannot fix these issues.
 
 
-### Keyboard navigation
+#### Keyboard navigation
 
 If you are navigating with keyboard only, you cannot tab to some parts of the content. This affects graph-viewing tools that appear on hover, such as the zoom and image download buttons.
 
@@ -56,7 +56,7 @@ This fails WCAG 2.1 success criterion 2.1.1 (Keyboard).
 
 The graphs are created using third party software, so unfortunately we cannot fix this issue.
 
-### Screen reader accessibility
+#### Screen reader accessibility
 
 If you are using a screen reader, such as Jaws or NVDA, some parts of the website are announced unexpectedly. Using Jaws, all the content in the graphs is announced. Using NVDA, there is an unexpected repetition of the word ‘clickable’.
 
