@@ -2,6 +2,6 @@
 
 Testing capacity data are available for the UK only so data cannot be presented separately for the four nations.
 
-A breakdown showing testing capacity for pillars 1, 2 and 4 is available as this provides a best estimate of antigen testing capacity.
+Testing capacity data are available for all pillars combined or for different pillar combinations.  Capacity for pillar 1, 2 and 4 testing combined provides the best estimate of antigen testing capacity.  Capacity for pillar 3 testing provides the best estimate of antibody serum testing.  These are both best estimates because pillar 4 testing includes both antigen and antibody testing and utilises the testing capacity for pillars 2 and 4.  For the same reason it is not possible currently to estimate capacity for pillar 4 testing alone.
 
 {inc:base/fourPillars.md|modals}
