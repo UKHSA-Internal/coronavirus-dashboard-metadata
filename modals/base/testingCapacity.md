@@ -2,4 +2,6 @@
 
 Testing capacity data are available for the UK only so data cannot be presented separately for the four nations.
 
+A breakdown showing testing capacity for pillars 1, 2 and 4 is available as this provides a best estimate of antigen testing capacity.
+
 {inc:base/fourPillars.md|modals}
