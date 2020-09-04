@@ -1,4 +1,6 @@
-﻿## Table of contents
+﻿> 4 September 2020: Read the Public Health Matters blog [The COVID-19 dashboard: bringing together data and statistics in one place](https://publichealthmatters.blog.gov.uk/2020/09/04/the-covid-19-dashboard-bringing-together-data-and-statistics-in-one-place/)
+
+## Table of contents
 
 ## Daily and cumulative numbers of tests
 
