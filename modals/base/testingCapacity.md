@@ -2,6 +2,6 @@
 
 Testing capacity data are available for the UK only so data cannot be presented separately for the four nations.
 
-Testing capacity data are available for all pillars combined or for different pillar combinations.  Capacity for pillar 1, 2 and 4 testing combined provides the best estimate of antigen swab testing capacity.  Capacity for pillar 3 testing provides the best estimate of antibody serology testing.  These are both best estimates because pillar 4 testing includes both antigen and antibody testing and utilises the testing capacity for pillars 2 and 4.
+Testing capacity data are available for all pillars combined or for different pillar combinations.  Capacity for pillar 1, 2 and 4 testing combined provides the best estimate of antigen swab testing capacity.  Capacity for pillar 3 testing provides the best estimate of antibody serology testing capacity.  These are both best estimates because pillar 4 surveillance testing includes both antigen and antibody testing and utilises the testing capacity for pillars 2 and 4.
 
 {inc:base/fourPillars.md|modals}
