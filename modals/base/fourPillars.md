@@ -1,4 +1,4 @@
-﻿#### Testing Pillars
+﻿Testing Pillars
 
 The government's mass testing programme includes four types of tests known as pillars:
 
