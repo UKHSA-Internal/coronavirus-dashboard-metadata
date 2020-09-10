@@ -6,8 +6,8 @@ available by nation so are excluded from the individual nation data.
 #### UK
 
 UK data are available for all types of testing or for different pillar combinations.  Pillar 1, 2 and 4 testing combined 
-provides the best estimate of antigen swab tests processed.  Pillar 3 testing provides the best estimate of antibody serology tests processed.  
-These are both best estimates because pillar 4 surveillance testing includes both antigen and antibody testing.  
+provides the best estimate of antigen swab tests processed.  Pillar 3 testing provides the best estimate of antibody serology 
+tests processed. These are both best estimates because pillar 4 surveillance testing includes both antigen and antibody testing.  
 
 #### England and Wales
 
