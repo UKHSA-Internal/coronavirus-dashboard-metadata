@@ -1,4 +1,6 @@
-﻿The government's mass testing programme includes four types of tests known as pillars:
+﻿#### Testing Pillars
+
+The government's mass testing programme includes four types of tests known as pillars:
 
 * Pillar 1: NHS and PHE Testing – antigen swab testing in Public Health England (PHE) labs and NHS hospitals for those with a clinical need, and health and care workers
 * Pillar 2: Commercial partner testing – antigen swab testing for the wider population, as set out in government guidance - pillar 2 testing reported in this dashboard only includes tests that were processed by a lab
