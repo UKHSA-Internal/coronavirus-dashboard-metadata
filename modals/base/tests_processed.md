@@ -1,10 +1,13 @@
 ﻿Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
 
+Data are not reported by each nation every day so the UK data are only updated weekly.  Results from pillar 4 testing (see below) are not 
+available by nation so are excluded from the individual nation data.  
 
 #### UK
 
-UK data include all types of test (see below) but results from pillar 4 testing are not available by nation so are excluded from the individual nation data.
-Data are not reported by each nation every day so the UK data are only updated weekly.
+UK data are available for all types of testing or for different pillar combinations.  Pillar 1 and 2 testing combined is an estimate 
+of antigen swab tests processed.  Pillar 3 testing is an estimate of antibody serology tests processed. These are both estimates because 
+pillar 4 surveillance testing includes both antigen and antibody testing.  
 
 #### England and Wales
 
