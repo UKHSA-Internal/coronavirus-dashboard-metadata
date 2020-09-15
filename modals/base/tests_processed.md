@@ -6,8 +6,8 @@ available by nation so are excluded from the individual nation data.
 #### UK
 
 UK data are available for all types of testing or for different pillar combinations.  Pillar 1 and 2 testing combined is an estimate 
-of antigen swab tests processed.  Pillar 3 testing is an estimate of antibody serology tests processed. These are both estimates because 
-pillar 4 surveillance testing includes both antigen and antibody testing.  
+of PCR swab tests processed.  Pillar 3 testing is an estimate of antibody serology tests processed. These are both estimates because 
+pillar 4 surveillance testing includes both PCR and antibody testing.  
 
 #### England and Wales
 
