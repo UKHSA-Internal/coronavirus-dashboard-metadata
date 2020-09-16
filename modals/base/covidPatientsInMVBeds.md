@@ -10,7 +10,7 @@ Northern Ireland figures are the numbers COVID-19 patients in beds which are cap
 
 #### Scotland
 
-Scottish figures include people in intensive care units with confirmed or suspected COVID-19, and may include a small number of patients who are not on mechanical ventilation.
+Scottish figures include people in intensive care units with confirmed or suspected COVID-19, and may include a small number of patients who are not on mechanical ventilation.  On 11 September 2020 the data were updated to exclude people (in larger NHS Boards) who had previously tested positive for COVID-19 but remain in intensive care units for another reason.
 
 #### Wales
 

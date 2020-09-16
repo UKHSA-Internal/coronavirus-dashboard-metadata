@@ -10,4 +10,4 @@ Data published before 12 August 2020 included suspected cases as well as confirm
 
 #### Scotland
 
-Details about the data are available in the Trends in daily COVID-19 data spreadsheets available on the [Scottish Government website[(https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
+On 11 September 2020 the data were updated to exclude people (in larger NHS Boards) who had previously tested positive for COVID-19 but remain in hospital for another reason.  Further details about the data are available in the Trends in daily COVID-19 data spreadsheets available on the [Scottish Government website[(https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
