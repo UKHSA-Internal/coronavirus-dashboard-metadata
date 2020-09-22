@@ -11,4 +11,4 @@ More information on the government’s national testing strategy, and the method
 
 * [Coronavirus (COVID-19): scaling up testing programmes](https://www.gov.uk/government/publications/coronavirus-covid-19-scaling-up-testing-programmes)
 
-* [Coronavirus (COVID-19): testing data methodology](https://www.gov.uk/government/publications/coronavirus-covid-19-testing-data-methodology)
+* [Coronavirus (COVID-19): NHS Test and Trace statistics (England): methodology](https://www.gov.uk/government/publications/nhs-test-and-trace-statistics-england-methodology/nhs-test-and-trace-statistics-england-methodology)
