@@ -13,7 +13,7 @@ pillar 4 surveillance testing includes both PCR and antibody testing.
 
 Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 14 July. From 8 August 2020 all pillar 3 cases are reported by DHSC as England.
 
-Data are updated weekly on a Thursday.
+Data are updated on weekdays.
 
 #### Northern Ireland
 
