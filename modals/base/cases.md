@@ -2,8 +2,6 @@ COVID-19 cases are identified by taking specimens from people and sending these 
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
-Up to 20th August, a time series of positive cases by specimen date was published on the [Coronavirus daily statistics webpage](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#time-series-documents) for the UK and the four nations. This page has now been retired although the version published on August 20th remains available. This time series is not currently available in this dashboard for Northern Ireland or the UK but we are working to make this available in the near future. 
-
 Cases are allocated to the person's area of residence.
 
 UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.
