@@ -1,23 +1,20 @@
 ﻿Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
 
-Data are not reported by each nation every day so the UK data are only updated weekly.  Results from pillar 4 testing (see below) are not 
-available by nation so are excluded from the individual nation data.  
+There are two types of test being carried out:  
+* PCR swab tests that test for the presence of COVID-19 antigens.  These include pillar 1 and 2 tests and, in England, PCR swab tests undertaken in pillar 4.
+* Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4 and are all reported as England by DHSC.
 
 #### UK
 
-UK data are available for all types of testing or for different pillar combinations.  Pillar 1 and 2 testing combined is an estimate 
-of PCR swab tests processed.  Pillar 3 testing is an estimate of antibody serology tests processed. These are both estimates because 
-pillar 4 surveillance testing includes both PCR and antibody testing.  
+UK data are available for PCR swab testing and antibody serology testing.  
 
 #### England and Wales
 
-Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 14 July. From 8 August 2020 all pillar 3 cases are reported by DHSC as England.
-
-Data are updated on weekdays.
+Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 14 July.
 
 #### Northern Ireland
 
-Data are only available from 21 April 2020. Up to 2 July 2020, only pillar 1 tests were included. The breakdown of pillar 2 tests by nation has been available since 3 July.  Northern Ireland did not report at weekends between 4 July and 10 August, so cumulative figures shown on Saturdays and Sundays are figures for the previous Friday.
+Data are only available from 22 April 2020. Up to 2 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 3 July.  Northern Ireland did not report at weekends between 4 July and 10 August, so daily figures for Saturdays, Sundays and Mondays are missing and cumulative figures shown on Saturdays and Sundays are figures for the previous Friday.
 
 #### Scotland
 
