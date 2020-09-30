@@ -4,15 +4,15 @@
 
 #### UK
 
-UK data are available for PCR swab testing and antibody serology testing.  
+UK data are available for PCR swab testing and antibody serology testing. UK Data are not available for weekends between 4 July and 10 August 2020 because Northern Ireland did not report at weekends during this period.  
 
 #### England and Wales
 
-Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 14 July.
+Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 14 July 2020.
 
 #### Northern Ireland
 
-Data are only available from 22 April 2020. Up to 2 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 3 July.  Northern Ireland did not report at weekends between 4 July and 10 August, so daily figures for Saturdays, Sundays and Mondays are missing and cumulative figures shown on Saturdays and Sundays are figures for the previous Friday.
+Data are only available from 22 April 2020. Up to 2 July 2020, only pillar 1 tests were included. Pillar 2 tests are available from 3 July 2020.  Northern Ireland did not report at weekends between 4 July and 10 August 2020, so daily figures for Saturdays, Sundays and Mondays are missing and cumulative figures shown on Saturdays and Sundays are figures for the previous Friday.
 
 #### Scotland
 
