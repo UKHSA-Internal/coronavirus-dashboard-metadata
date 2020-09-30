@@ -1,8 +1,6 @@
-﻿Tests processed by laboratories around the UK.  Tests made available or sent out but not processed are not included.
-
-There are two types of test being carried out:  
-* PCR swab tests that test for the presence of COVID-19 antigens.  These include pillar 1 and 2 tests and, in England, PCR swab tests undertaken in pillar 4.
-* Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4 and are all reported as England by DHSC.
+﻿There are two types of test being carried out:  
+* PCR swab tests that test for the presence of COVID-19 antigens.  These include pillar 1 and 2 tests and PCR swab tests undertaken in pillar 4.
+* Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
 
 #### UK
 
