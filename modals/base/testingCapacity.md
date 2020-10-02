@@ -6,6 +6,4 @@ Testing capacity data are available by test type:
 
 Testing capacity data are available for the UK only so data cannot be presented separately for the four nations.  Data for PCR testing are available from 18 May 2020, and for antibody testing from 30 May 2020.  Data are not available for weekends between 4 July 2020 and 16 Aug 2020.
 
-Capacity data are no longer presented for the separate pillars now that data are available for the two specific test types.  
-
 {inc:base/fourPillars.md|modals}
