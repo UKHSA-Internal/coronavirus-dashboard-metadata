@@ -4,13 +4,15 @@ Data can be presented by specimen date (the date when the sample was taken from 
 
 Cases are allocated to the person's area of residence.
 
-UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.
+#### UK
+
+UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
 
 For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included, from different dates, for all nations.
 
 #### England
 
-Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included.
+Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included. A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September and 2 October.  These cases were instead reported on 3 and 4 October creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected. 
 
 #### Northern Ireland
 
