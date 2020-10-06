@@ -57,6 +57,8 @@ positive test, reported on or up to the date of death or reporting date (dependi
 
 {inc:base/lsoaCases.md|modals}
 
+{inc:base/msoaCases.md|modals}
+
 
 ### Legacy CSV downloads
 
