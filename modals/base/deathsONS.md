@@ -2,8 +2,6 @@
 
 Data are published weekly by the national statistics bodies in the four nations: deaths registered up to any Friday are published 11 days later on the Tuesday.
 
-Deaths based only on deaths within 28 days of a first confirmed positive test result are also available on the website - these are available more quickly but exclude deaths from COVID-19 where the person had not been tested positive and died within 28 days.
-
 Deaths based on death certificates are currently presented by registration date (the date the death was registered). Deaths are allocated to the deceased's usual area of residence.
 
 Bank Holidays can affect the number of registrations made within a given week.
