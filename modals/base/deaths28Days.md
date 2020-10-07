@@ -1,4 +1,4 @@
-﻿People who died more than 28 days after their first positive test are not included, whether or not COVID-19 was the cause of death.  People who died within 28 days of a positive test are included: the actual cause of death may not be COVID-19 in all cases.  People who died from COVID-19 but had not been tested or had not tested positive are not included.
+﻿People who died more than 28 days after their first positive test are not included, whether or not COVID-19 was the cause of death.  People who died from COVID-19 but had not been tested or had not tested positive are not included.
 
 Death data can be presented by when death occurred (date of death) or when the death was reported (date reported) and the availability of each of these time series varies by area:
 
