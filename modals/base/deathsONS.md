@@ -1,4 +1,4 @@
-﻿Provisional counts of the number of deaths registered in the UK where COVID-19 is mentioned as a cause on the death certificate.  The deceased may not have had a confirmed positive test for COVID-19.  The underlying cause may not be COVID-19 in all cases.  Some cases where the person died from COVID-19 may not have had this mentioned on the death certificate - this may have resulted in some undercounting, especially early in the pandemic.
+﻿Provisional counts of the number of deaths registered in the UK where COVID-19 is mentioned as a cause on the death certificate.  The deceased may not have had a confirmed positive test for COVID-19.  People who had had COVID-19 but did not have it mentioned on their death certificate as a cause of death are excluded.
 
 Data are published weekly by the national statistics bodies in the four nations: deaths registered up to any Friday are published 11 days later on the Tuesday.
 
