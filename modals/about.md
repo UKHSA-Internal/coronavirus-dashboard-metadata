@@ -2,6 +2,13 @@
 
 ## Table of contents
 
+## R number and daily growth rate
+
+Estimated COVID-19 R number and daily growth rate on the reporting date, expressed as ranges.
+
+{inc:base/rNumberRate.md|modals}
+
+
 ## Daily and cumulative numbers of tests
 
 Number of lab-confirmed positive or negative COVID-19 test results, across all types of testing, reported on or up to the reporting date.
@@ -46,6 +53,8 @@ positive test, reported on or up to the date of death or reporting date (dependi
 {inc:base/deaths28Days.md|modals}
 
 ## Methodologies
+
+{inc:base/sevenDayMetrics.md|modals}
 
 {inc:base/rates.md|modals}
 
