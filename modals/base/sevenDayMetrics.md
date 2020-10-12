@@ -2,9 +2,11 @@
 
 Metrics representing the last seven days are provided to give insight into what is happening with the COVID-19 epidemic in real time.
 
-Counts show the total number of events that were reported in seven day period ending on the date shown.
+Counts show the total number of events that were reported in the seven day period ending on the date shown.
 
-A comparison to the previous, non-overlapping, seven day period is shown on a coloured background with red indicating an increasing trend and green indicating a decreasing trend.  This comparison is expressed as a count and a percentage change with directional arrow.  Positive changes represent increasing trends and negative changes represent decreasing trends.  The percentage change is calculated by subtracting the seven day count for the previous, non-overlapping, seven day period from the latest seven day count and then dividing this difference by the seven day count for the previous seven day period and multiplying by 100.  
+The change in the seven day count shows the difference between the seven day count for the latest period and the seven day count for the previous, non-overlapping, seven day period. This is calculated by subtracting the previous seven day count from the latest seven day count.  In cases where an area's previous seven day count was suppressed (counts of 0-2) but the latest seven day count is displayed, the previous seven day count will have been assumed to have been 2 when calculating the change in the seven day count.  Positive changes represent increasing trends and are indicated by an upwards arrow.  Negative changes represent decreasing trends and are indicated by a downwards arrow.  The percentage change is also calculated by expressing this change as a percentage of the previous seven day count. 
 
-Seven day rates are expressed per 100,000 population and are calculated by dividing the seven day count by the area population and multiplying by 100,000.  
+For metrics for which movement in a particular direction can be defined as good or bad, the seven day change figures are displayed on a green background to indicate that the metric is moving in the desired direction or a red background to indicate that the metric is moving in an undesirable direction.
+
+Seven day rates are crude rates expressed per 100,000 population and are calculated by dividing the seven day count by the area population and multiplying by 100,000.
 
