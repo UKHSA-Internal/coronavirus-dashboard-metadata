@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-## R number and daily growth rate
+## R number and growth rate
 
-Estimated COVID-19 R number and daily growth rate on the reporting date, expressed as ranges.
+Estimated COVID-19 R number and growth rate on the reporting date, expressed as ranges.
 
 {inc:base/rNumberRate.md|modals}
 
