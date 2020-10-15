@@ -2,7 +2,7 @@
 
 The growth rate is an approximation of the percentage change in the number of infections each day and indicates how quickly the number of infections is changing. If the growth rate is greater than 0 (+ positive), then the number of new cases per day is increasing. If the growth rate is less than 0 (- negative) then the number of new cases per day is decreasing. The size of the growth rate indicates the speed of this change.
 
-The R number and growth rate are available as estimated ranges for the UK, the four nations and NHS Regions and represent the transmission of COVID-19 over the past few weeks due to the time delay between someone being infected, having symptoms and needing healthcare.  As they are averages over very different epidemiological situations they should be regarded as a guide to the general trend rather than a description of the epidemic state.
+The R number and growth rate are available as estimated ranges for the UK, the four nations and NHS England Regions and represent the transmission of COVID-19 over the past few weeks due to the time delay between someone being infected, having symptoms and needing healthcare.  As they are averages over very different epidemiological situations they should be regarded as a guide to the general trend rather than a description of the epidemic state.
 
 When the numbers of cases or deaths fall to low levels and/or there is a high degree of variability in transmission across a region, then care should be taken when interpreting estimates of R and the growth rate. For example, a significant amount of variability across a region due to a local outbreak may mean that a single average value does not accurately reflect the way infections are changing throughout that region.
 
