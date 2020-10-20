@@ -2,6 +2,17 @@
 
 ## Table of contents
 
+## Introduction
+
+The dashboard presents progress of the coronavirus pandemic as an up to date and authoritative summary of key information. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  It presents a dynamic contemporary picture and is updated daily. 
+
+It meets a strongly expressed need from the public for timely updates at national and local level to ensure good understanding of the day to day progress of the pandemic. This is achieved through interactive maps and trends over time of key measures relating to testing capacity and activity, newly confirmed cases, hospital admissions and deaths.
+
+The dashboard provides a tool for developers and analysts by supporting reuse of data through access to the results in machine readable files and via an API.
+To ensure high public value and quality, the statistics are presented in line with the Code of Practice for Statistics. Information is provided on the strengths and weaknesses of the data to help users to interpret them correctly. 
+
+Full definitions for the metrics presented in the dashboard are provided below.
+
 ## R number and growth rate
 
 Estimated COVID-19 R number and growth rate on the reporting date, expressed as ranges.
