@@ -1,5 +1,5 @@
 ﻿There are two types of test being carried out:  
-* Lab-based virus tests that test for the presence of COVID-19.  These include pillar 1 and 2 tests and virus tests undertaken in pillar 4.
+* Virus tests that test for the presence of COVID-19.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
 
 #### UK
