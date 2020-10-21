@@ -1,10 +1,10 @@
 ﻿There are two types of test being carried out:  
-* PCR swab tests that test for the presence of COVID-19 antigens.  These include pillar 1 and 2 tests and PCR swab tests undertaken in pillar 4.
+* Lab-based virus tests that test for the presence of COVID-19.  These include pillar 1 and 2 tests and virus tests undertaken in pillar 4.
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
 
 #### UK
 
-UK data are available for PCR swab testing and antibody serology testing. UK Data are not available for weekends between 4 July and 10 August 2020 because Northern Ireland did not report at weekends during this period.  
+UK data are available for virus testing and antibody serology testing. UK Data are not available for weekends between 4 July and 10 August 2020 because Northern Ireland did not report at weekends during this period.  
 
 #### England and Wales
 

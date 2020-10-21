@@ -1,4 +1,4 @@
-COVID-19 cases are identified by taking specimens from people and sending these specimens to laboratories around the UK for PCR swab testing. If the test is positive, this is a referred to as a lab-confirmed case.  If a person has had more than one positive test they are only counted as one case.
+COVID-19 cases are identified by taking specimens from people and sending these specimens to laboratories around the UK for virus testing. If the test is positive, this is a referred to as a lab-confirmed case.  If a person has had more than one positive test they are only counted as one case.
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
