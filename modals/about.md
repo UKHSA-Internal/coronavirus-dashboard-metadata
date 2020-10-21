@@ -74,6 +74,8 @@ positive test, reported on or up to the date of death or reporting date (dependi
 
 {inc:base/msoaCases.md|modals}
 
+We are no longer publishing data at LSOA level on advice from the Statistical Disclosure Control unit at the Office for National Statistics. 
+
 ### Legacy CSV downloads
 
 The CSV downloads provided from the previous version of the dashboard are available on the links below.
