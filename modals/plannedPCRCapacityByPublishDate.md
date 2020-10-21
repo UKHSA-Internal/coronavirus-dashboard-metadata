@@ -1,5 +1,5 @@
-﻿### PCR Testing capacity
+﻿### Virus Testing capacity
 
-Total number of PCR swab tests capable of being performed by laboratories on {date}.
+Total number of virus tests capable of being performed by laboratories on {date}.
 
 {inc:base/testingCapacity.md|modals}

@@ -21,7 +21,7 @@ Estimated COVID-19 R number and growth rate on the reporting date, expressed as 
 
 ## Daily and cumulative numbers of tests
 
-Number of lab-confirmed positive or negative COVID-19 test results, across all types of testing, reported on or up to the reporting date.
+Number of lab-confirmed positive, negative or void COVID-19 test results, across all types of testing, reported on or up to the reporting date.
 
 {inc:base/tests_processed.md|modals}
 
@@ -33,7 +33,7 @@ Total number of tests capable of being performed by laboratories on the reportin
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a lab-confirmed positive COVID-19 PCR test on or up to the specimen date or reporting date (depending on availability).
+Number of people with a lab-confirmed positive COVID-19 virus test on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
@@ -73,6 +73,8 @@ positive test, reported on or up to the date of death or reporting date (dependi
 ## Downloads
 
 {inc:base/msoaCases.md|modals}
+
+We are no longer publishing data at LSOA level on advice from the Statistical Disclosure Control unit at the Office for National Statistics. 
 
 ### Legacy CSV downloads
 
