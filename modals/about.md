@@ -74,7 +74,7 @@ positive test, reported on or up to the date of death or reporting date (dependi
 
 {inc:base/msoaCases.md|modals}
 
-We are no longer publishing data at LSOA level on advice from the Statistical Disclosure Control unit at the Office for National Statistics. 
+We are no longer publishing data at LSOA level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
 
 ### Legacy CSV downloads
 
