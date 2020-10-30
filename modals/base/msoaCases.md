@@ -5,3 +5,7 @@ Weekly rolling sums and population-based rates of new cases by specimen date tim
 * [Weekly COVID-19 cases by MSOA in CSV format](/downloads/msoa_data/MSOAs_latest.csv)
 * [Weekly COVID-19 cases by MSOA in JSON format](https://coronavirus.data.gov.uk/downloads/msoa_data/MSOAs_latest.json)
 
+A geographic lookup of English MSOAs to local authorities and regions is also available to download.
+
+* [Geographic lookup in CSV format](/downloads/supplements/lookup_table.csv)
+
