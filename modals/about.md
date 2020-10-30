@@ -74,10 +74,11 @@ positive test, reported on or up to the date of death or reporting date (dependi
 
 {inc:base/msoaCases.md|modals}
 
-{inc:base/ageCases.md|modals}
 
 We are no longer publishing data at LSOA level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
 
+
+{inc:base/ageCases.md|modals}
 ### Legacy CSV downloads
 
 The CSV downloads provided from the previous version of the dashboard are available on the links below.
