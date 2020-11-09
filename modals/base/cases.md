@@ -1,6 +1,6 @@
 COVID-19 cases are identified by taking specimens from people and testing them for the presence of the COVID-19 virus. If the test is positive, this is a referred to as a case.  If a person has had more than one positive test they are only counted as one case.  
 
-Not all tests are performed in, and confirmed by, a laboratory.  For example, swab tests performed using a lateral flow device do not need to go to a lab and can provide results within one hour.
+Cases data includes all positive virus test results, even if they are not confirmed by a lab.  For example, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
