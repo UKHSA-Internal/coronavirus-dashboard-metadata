@@ -33,7 +33,7 @@ Total number of tests capable of being performed by laboratories on the reportin
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a lab-confirmed positive COVID-19 virus test on or up to the specimen date or reporting date (depending on availability).
+Number of people with a positive COVID-19 virus test on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
