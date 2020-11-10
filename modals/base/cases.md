@@ -1,4 +1,6 @@
-COVID-19 cases are identified by taking specimens from people and sending these specimens to laboratories around the UK for virus testing. If the test is positive, this is a referred to as a lab-confirmed case.  If a person has had more than one positive test they are only counted as one case.
+COVID-19 cases are identified by taking specimens from people and testing them for the presence of the COVID-19 virus. If the test is positive, this is a referred to as a case.  If a person has had more than one positive test they are only counted as one case.  
+
+Cases data includes all positive virus test results, even if they are not confirmed by a lab.  For example, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
@@ -6,7 +8,7 @@ Cases are allocated to the person's area of residence.
 
 #### UK
 
-UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data.  This is why the number of cases reported reduced from 1 July to 2 July.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
+UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data. This is why the number of cases reported reduced from 1 July to 2 July.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
 
 For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included, from different dates, for all nations.
 
