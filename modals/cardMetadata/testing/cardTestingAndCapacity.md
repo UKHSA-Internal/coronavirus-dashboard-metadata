@@ -9,6 +9,6 @@ Number of lab-confirmed positive, negative or void COVID-19 test results.
 
 ### Daily and cumulative testing capacity 
 
-Estimated number of tests that can be performed based on staff availability and other resources.
+Estimated number of lab-based tests that can be performed based on staff availability and other resources.
 
 {inc:base/testingCapacity.md|modals}

@@ -27,13 +27,13 @@ Number of lab-confirmed positive, negative or void COVID-19 test results, across
 
 ## Testing capacity
 
-Total number of tests capable of being performed by laboratories on the reporting date.
+Total number of lab-based tests capable of being performed by laboratories on the reporting date.
 
 {inc:base/testingCapacity.md|modals}
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a positive COVID-19 virus test on or up to the specimen date or reporting date (depending on availability).
+Number of people with a positive COVID-19 virus test (either lab-reported or lateral flow device) on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
