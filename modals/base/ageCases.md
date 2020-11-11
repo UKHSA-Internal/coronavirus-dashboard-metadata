@@ -4,4 +4,5 @@ Daily number of cases data aggregated by age into 0-59, 60 plus and individual f
 
 * [Daily COVID-19 cases by age and specimen date in unstacked CSV format](/downloads/demographic/cases/specimenDate_ageDemographic-unstacked.csv)
 * [Daily COVID-19 cases by age and specimen date in stacked CSV format](/downloads/demographic/cases/specimenDate_ageDemographic-stacked.csv)
-* [Daily COVID-19 cases by age and reporting date in unstacked CSV format](/downloads/demographic/cases/publish_date-latest.csv)
+* [Daily COVID-19 cases by age and reporting date in unstacked CSV format](/downloads/demographic/cases/publishDate_ageDemographic-unstacked.csv)
+* [Daily COVID-19 cases by age and reporting date in stacked CSV format](/downloads/demographic/cases/publishDate_ageDemographic-stacked.csv)
