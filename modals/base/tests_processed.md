@@ -3,7 +3,7 @@
 There are three types of test being carried out:  
 * Lab-based virus tests that test for the presence of COVID-19.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
-* Lateral flow device virus tests that test for the presence of COVID-19.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020. Lateral flow device test data are currently available for England only and are reported separately to lab-based virus tests processed.
+* Lateral flow device virus tests that test for the presence of COVID-19.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020. Lateral flow device test data are currently available for England only.
 
 #### UK
 

@@ -21,7 +21,7 @@ Estimated COVID-19 R number and growth rate on the reporting date, expressed as 
 
 ## Daily and cumulative numbers of tests
 
-Number of lab-confirmed positive, negative or void COVID-19 test results, across all types of testing, reported on or up to the reporting date.
+Number of positive, negative or void COVID-19 test results, across all types of testing, reported on or up to the reporting date.
 
 {inc:base/tests_processed.md|modals}
 

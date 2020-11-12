@@ -11,20 +11,21 @@ Virus testing in Public Health England (PHE) labs and NHS hospitals for those wi
 **Pillar 2: UK Government testing programme** 
 
 
-Virus testing for the wider population, as set out in government guidance - pillar 2 testing reported in this dashboard only includes tests that were processed by a lab
+Virus testing for the wider population, as set out in government guidance.
 
 Pillar 2 uses Lighthouse laboratories and has partnership arrangements with public, private and academic sector laboratories
  
 * Lighthouse laboratories 
 
-
 Capacity is the maximum number of samples the Lighthouse laboratories estimate they will be able to process the following day. The figure takes into account equipment, laboratory facilities, anticipated machine down time, and staffing. Since the 27th of October we have been able to report a more accurate figure which is estimated daily by each laboratory and takes into account known operational issues within the laboratory at the time of reporting (e.g. stock shortages, staff sickness), as opposed to weekly.
  
 * Partner laboratories 
 
+Capacity for partner laboratories is the daily number of tests that the laboratory has been contracted to complete.
 
-Capacity for partner laboratories is the daily number of tests that the laboratory has been contracted to complete. 
+* Lateral flow device testing
 
+Lateral flow device tests test for the presence of COVID-19 and are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020.
 
 **Pillar 3: Antibody testing** 
 
