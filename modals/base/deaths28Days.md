@@ -5,7 +5,7 @@ Death data can be presented by when death occurred (date of death) or when the d
 * Deaths by date of death - each death is assigned to the date that the person died irrespective of how long it took for the death to be reported.  Previously reported data are therefore continually updated
 * Deaths by date reported - each death is assigned to the date when it was first included in the published totals.  The specific 24 hour periods reported against each date vary by nation and are defined below
 
-Deaths are allocated to the deceased's usual area of residence.
+Deaths are allocated to the deceased's usual area of residence. Where available, postcode of residence for deaths is obtained from the information collected at the time of testing. Following this, postcode of residence is obtained if available from ONS mortality records, Health Protection Team reports, and NHS summary care records. 
 
 #### England
 
