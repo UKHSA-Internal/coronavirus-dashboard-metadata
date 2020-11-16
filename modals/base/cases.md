@@ -6,6 +6,8 @@ Data can be presented by specimen date (the date when the sample was taken from 
 
 Cases are allocated to the person's area of residence. From 16 November 2020, PHE has updated the way it records the location of people who test positive or negative for COVID-19. It now prioritises addresses given at the point of testing over the details registered on a patient’s NHS Summary Care Record. This better reflects the distribution of cases and testing. However, it may give rise to differences in previously reported numbers of cases and rates in some areas. The change has been retrospectively applied to tests carried out from 1 September 2020, and data in the dashboard was updated to reflect this change on 16 November 2020. Due to reallocation of cases in this way, the number of cases reported by local authority may be artificially high or low on 16 November 2020.
 
+PHE has published [an comparison of geographic allocation methodologies](https://www.gov.uk/government/publications/lower-tier-local-authority-covid-19-cases-in-england-comparison-of-geographic-allocation-methodologies) for cases by specimen date at lower tier local authority level.
+
 #### UK
 
 UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data. This is why the number of cases reported reduced from 1 July to 2 July.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
