@@ -5,7 +5,7 @@ Death data can be presented by when death occurred (date of death) or when the d
 * Deaths by date of death - each death is assigned to the date that the person died irrespective of how long it took for the death to be reported.  Previously reported data are therefore continually updated
 * Deaths by date reported - each death is assigned to the date when it was first included in the published totals.  The specific 24 hour periods reported against each date vary by nation and are defined below
 
-Deaths are allocated to the deceased's usual area of residence. Where available, postcode of residence for deaths is obtained from the information collected at the time of testing. Following this, postcode of residence is obtained if available from ONS mortality records, Health Protection Team reports, and NHS summary care records. 
+Deaths are allocated to the deceased's usual area of residence.
 
 #### England
 
@@ -14,6 +14,8 @@ Data on COVID-19 associated deaths in England are produced by Public Health Engl
 Deaths are only included if the deceased had had a positive test for COVID-19 and died within 28 days of the first positive test.
 
 Regional, UTLA and LTLA death counts exclude England deaths for which the exact location of residence is unknown and therefore may not sum to the England total.
+
+Where available, postcode of residence for deaths is obtained from the information collected at the time of testing. Where this is unavailable, postcode of residence is supplemented if available from ONS mortality records, Health Protection Team reports, and NHS Digital Patient Demographic Service records.
 
 Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
