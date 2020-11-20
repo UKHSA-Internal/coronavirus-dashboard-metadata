@@ -1,6 +1,6 @@
-### Daily and cumulative number of tests processed 
+### Daily and cumulative number of lab-based tests processed 
 
-Number of positive, negative or void COVID-19 test results.
+Number of positive, negative or void lab-based COVID-19 test results (including PCR virus tests and antibody tests).
 
 {inc:base/tests_processed.md|modals}
 
