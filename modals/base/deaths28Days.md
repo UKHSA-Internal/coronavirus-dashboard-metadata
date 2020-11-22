@@ -17,6 +17,8 @@ Regional, UTLA and LTLA death counts exclude England deaths for which the exact 
 
 Where available, postcode of residence for deaths is obtained from the information collected at the time of testing. Where this is unavailable, postcode of residence is supplemented if available from ONS mortality records, Health Protection Team reports, and NHS Digital Patient Demographic Service records.
 
+Due to a processing update, 141 historical deaths within 28 days in England were excluded from the published data on 21 November. This issue was corrected for data published on 22 November, which included deaths omitted on 21 November within the total and daily number of newly reported deaths for 22 November.
+
 Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
 #### Northern Ireland
