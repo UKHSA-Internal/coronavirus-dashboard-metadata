@@ -16,7 +16,11 @@ For the four nations, initially only cases identified through pillar 1 testing w
 
 #### England
 
-Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included. A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September and 2 October.  These cases were instead reported on 3 and 4 October creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected. 
+Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included. 
+
+A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September and 2 October.  These cases were instead reported on 3 and 4 October creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected.
+
+On 27 November 2020, 1,283 historic cases were removed from the dashboard. These were void tests originally reported in error by the laboratory as positive. This affected specimen dates between 11 and 23 November in around 100 local authorities. The cumulative total number of people tested positive was revised down on 27 November 2020. Historic published date totals have not been changed.
 
 #### Northern Ireland
 
