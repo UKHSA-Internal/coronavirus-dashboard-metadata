@@ -1,4 +1,4 @@
-COVID-19 cases are identified by taking specimens from people and testing them for the presence of the COVID-19 virus. If the test is positive, this is a referred to as a case.  If a person has had more than one positive test they are only counted as one case.  
+COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive, this is a referred to as a case.  If a person has had more than one positive test they are only counted as one case.  
 
 Cases data includes all positive virus test results, even if they are not confirmed by a lab.  For example, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
 

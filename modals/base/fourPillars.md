@@ -25,7 +25,7 @@ Capacity for partner laboratories is the daily number of tests that the laborato
 
 * Lateral flow device testing
 
-Lateral flow device tests test for the presence of COVID-19 and are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020.
+Lateral flow device tests test for the presence of SARS-CoV-2 virus and are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020.
 
 **Pillar 3: Antibody testing** 
 
