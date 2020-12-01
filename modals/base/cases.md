@@ -22,6 +22,8 @@ A technical issue identified on 2 October 2020 resulted in a delay in reporting 
 
 On 27 November 2020, 1,283 historic cases were removed from the dashboard. These were void tests originally reported in error by the laboratory as positive. This affected specimen dates between 11 and 23 November in around 100 local authorities. The cumulative total number of people tested positive was revised down on 27 November 2020. Historic published date totals have not been changed.
 
+Due to their small populations, counts for City of London and Isles of Scilly are combined with Hackney and Cornwall respectively when presented at local authority level, in order to prevent disclosure control issues. 
+
 #### Northern Ireland
 
 Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included.
