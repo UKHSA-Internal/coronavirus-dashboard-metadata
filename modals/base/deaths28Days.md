@@ -19,6 +19,8 @@ Where available, postcode of residence for deaths is obtained from the informati
 
 Due to a processing update, 141 historical deaths within 28 days in England were excluded from the published data on 21 November. This issue was corrected for data published on 22 November, which included deaths omitted on 21 November within the total and daily number of newly reported deaths for 22 November.
 
+Due to their small populations, counts for City of London and Isles of Scilly are combined with Hackney and Cornwall respectively when presented at local authority level, in order to prevent disclosure control issues. 
+
 Full details of the methodology are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
 #### Northern Ireland
