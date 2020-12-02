@@ -81,11 +81,7 @@ We are no longer publishing data at LSOA level following guidance from the Offic
 {inc:base/ageCases.md|modals}
 ### Legacy CSV downloads
 
-The CSV downloads provided from the previous version of the dashboard are available on the links below.
-
-* [Cases](https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_latest.csv)
-
-* The legacy deaths download is no longer available as the data series has been discontinued.
+The CSV downloads provided from the previous version of the dashboard are available on the download data page. The legacy deaths download is no longer available as the data series has been discontinued.
 
 These files will be updated alongside the main website on a daily basis for the foreseeable future.
 However, users are strongly recommended to use the API instead, which give access to the full range of
