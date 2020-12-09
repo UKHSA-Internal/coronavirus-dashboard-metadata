@@ -27,7 +27,7 @@ via the layouts GitHub repository and not within this repo.
 
 * modal markdown files - these generally include just a title and a single sentence defining the specific metric being surfaced, followed by calling the inclusion of the relevant base markdown file(s).  The modal filename must match the headline metric name exactly and the files must be saved at the top modal directory level.
 
-* card markdown files - these define the 'About tab' definitions and generally include just a title and a single sentence defining each specific metric being surfaced, followed by calling the inclusion of the relevant base markdown file(s).  These may define two or more metrics one after another if the card presents multiple metrics. The filenames are flexible but the files must be saved at the modal/cardMetadata/<page name> directory level.
+* card markdown files - these define the 'About tab' definitions and generally include just a title and a single sentence defining each specific metric being surfaced, followed by calling the inclusion of the relevant base markdown file(s).  These may define two or more metrics one after another if the card presents multiple metrics. The filenames are flexible but the files must be saved in the modal/cardMetadata/sub-directory for the relevant page.
 
 * about markdown file - this is a single file saved at the top modal directory level using filename about.md and defines the overarching 'About the data' document.  All base files should be included here, each with its own header and, if appropriate, single sentence of introduction.  
 
