@@ -23,7 +23,7 @@ via the layouts GitHub repository and not within this repo.
 
 ### Structure of the repository
 
-* base markdown files - The main detailed definition for each metric theme is defined in a base file - this file is then re-used in many locations. Base files are not specific to an individual metric, rather a group of related metrics - so the event date and publish date, daily and cumulative versions of a metric would be defined in a single base file.  This makes the definitions more manageable and consistent by avoiding the need to duplicate text in multiple places.  base files must be saved at the modals/base directory level.
+* base markdown files - The main detailed definition for each metric theme is defined in a base file - this file is then re-used in many locations. Base files are not specific to an individual metric, rather a group of related metrics - so the event date and publish date, daily and cumulative versions of a metric would be defined in a single base file.  This makes the definitions more manageable and consistent by avoiding the need to duplicate text in multiple places.  Base files must be saved at the modals/base directory level.
 
 * modal markdown files - these generally include just a title and a single sentence defining the specific metric being surfaced, followed by calling the inclusion of the relevant base markdown file(s).  The modal filename must match the headline metric name exactly and the files must be saved at the top modal directory level.
 
