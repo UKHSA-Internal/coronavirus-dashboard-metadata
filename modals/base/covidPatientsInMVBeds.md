@@ -6,7 +6,7 @@ England figures are the numbers of patients in beds which are capable of deliver
 
 #### Northern Ireland
 
-Northern Ireland include suspected COVID-19 patients in their COVID-19 patient count. Their figures are the numbers of patients in beds which are capable of delivering mechanical ventilation.
+Northern Ireland include suspected COVID-19 patients in their COVID-19 patient count for dates prior to 13 April 2020. Their figures are the numbers of patients in beds which are capable of delivering mechanical ventilation.
 
 #### Scotland
 
@@ -14,6 +14,6 @@ Scotland include suspected COVID-19 patients in their COVID-19 patient count. Th
 
 #### Wales
 
-For Wales, mechanical ventilator beds include invasive ventilated beds in a critical care setting, plus those outside of a critical care environment. Beds in the Dragon's Heart/Ysbyty Calon y Ddraig field hospital are also included.
+Wales include suspected COVID-19 patients in their COVID-19 patient count. Their figures include invasive ventilated beds in a critical care setting, plus those outside of a critical care environment. Beds in the Dragon's Heart/Ysbyty Calon y Ddraig field hospital are also included.
 
 
