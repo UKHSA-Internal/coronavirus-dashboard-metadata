@@ -2,7 +2,7 @@
 
 #### England
 
-Data only include NHS Hospital Acute Trusts with a type 1 A&E department and are reported daily by trusts to NHS England and NHS Improvement.
+Data include all hospitals and are reported daily by trusts to NHS England and NHS Improvement. On 11 December 2020, the definition was updated to align with NHS England publications and the full series was revised.
 
 #### Northern Ireland
 
