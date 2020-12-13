@@ -36,6 +36,8 @@ Data include only pillar 1 cases until 15 June, from when pillar 2 cases are als
 
 Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
+On 13 December 2020, Wales did not report any data.
+
 {inc:base/fourPillars.md|modals}
 
 More details of the processes for counting cases in the devolved administrations are available on their websites:
