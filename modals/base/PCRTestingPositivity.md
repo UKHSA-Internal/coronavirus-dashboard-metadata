@@ -1,0 +1,2 @@
+A person receiving a PCR test has a specimen taken which is sent to laboratories around the UK for PCR swab testing. If a person has had more than one test result in the 7-day period they are only counted as one person tested. If any of their tests in the 7-day period were positive they count as one person with a positive test result. The positivity percentage is the number of people with a positive test result divided by the number of people tested, and multiplied by 100.
+
