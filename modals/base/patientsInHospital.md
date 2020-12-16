@@ -1,8 +1,8 @@
-﻿Each hospital trust reports daily on the number of confirmed COVID-19 patients in hospital at midnight the preceding night. The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day.  Caution is needed when interpreting the data as the definitions are not always consistent between the four nations.
+﻿Each hospital trust reports daily on the number of confirmed COVID-19 patients in hospital at 8am. The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.  Data are not reported by each nation every day.  Caution is needed when interpreting the data as the definitions are not always consistent between the four nations.
 
 #### England
 
-Data include all hospitals and are reported daily by trusts to NHS England and NHS Improvement. On 11 December 2020, the definition was updated to align with NHS England publications and the full series was revised.
+Data include all hospitals and are reported daily by trusts to NHS England and NHS Improvement. On 11 December 2020 the coverage of data for patients in hospital was updated to align with NHS England publications and as a result the full time series for this item was revised.  Previously the coverage had only been for Acute trusts with a type 1 A&E, this has now been extended so the time series now covers all Acute trusts, Mental Health Trusts and the Independent Sector.  This brings this metric in line with other metrics – admissions to hospital and patients in mechanical ventilation beds which have always been on this basis.
 
 #### Northern Ireland
 
