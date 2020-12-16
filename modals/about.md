@@ -31,6 +31,10 @@ Total number of lab-based tests capable of being performed by laboratories on th
 
 {inc:base/testingCapacity.md|modals}
 
+## People who received a PCR test
+
+The number of people who received a PCR test in the previous 7 days.
+
 ## PCR testing positivity
 
 The percentage of people who received a PCR test in the previous 7 days, who had at least one positive COVID-19 PCR test result.
