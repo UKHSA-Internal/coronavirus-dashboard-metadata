@@ -1,4 +1,6 @@
-﻿> 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
+﻿> The number of new UK cases reported on 17 December 2020 includes around 11,000 previously unreported cases for Wales as a result of system maintenance in the NHS Wales Laboratory Information Management System. Further information is available from [Public Health Wales](https://phw.nhs.wales/news/public-health-wales-statement/).
+
+> 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
 
 ## Table of contents
 

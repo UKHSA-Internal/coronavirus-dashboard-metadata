@@ -36,7 +36,8 @@ Data include only pillar 1 cases until 15 June, from when pillar 2 cases are als
 
 Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
-On 13 December 2020, Wales did not report any data.
+As a result of the planned maintenance of the NHS Wales Laboratory Information Management System that occurred between 11th and 12th December, there was significant under reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases (around 11,000) reported on 17th December included a very large backlog of samples processed in the lighthouse laboratories mainly collected between the 9th and 15th December.
+
 
 {inc:base/fourPillars.md|modals}
 
