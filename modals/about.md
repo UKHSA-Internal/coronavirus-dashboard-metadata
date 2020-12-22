@@ -1,10 +1,10 @@
 ﻿> During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change. 
 >
 >UK cases and deaths will be updated every day throughout the holiday period, with the following service changes: 
->  - England - data updated daily
->  - Northern Ireland - no data on 24-28 December
->  - Scotland - no data on 25-28 December and 1-4 January
->  - Wales - no data on 25 December and 1 January
+>England - data updated daily
+>Northern Ireland - no data on 24-28 December
+>Scotland - no data on 25-28 December and 1-4 January
+>Wales - no data on 25 December and 1 January
 >
 >UK totals for each day will reflect the sum of the nations which reported data. Cases and deaths that would have been reported during these periods are likely to instead be reported on the following days. As a result, any changes to published data should be interpreted with caution during this period, as they may be a result of changes to reporting schedules.
 >
