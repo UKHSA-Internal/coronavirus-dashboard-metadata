@@ -1,4 +1,18 @@
-﻿> 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
+﻿> During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change. 
+
+UK cases and deaths will be updated every day throughout the holiday period, with the following service changes: 
+•	England - data updated daily
+•	Scotland - no data on 25-28 December and 1-4 January
+•	Northern Ireland - no data on 24-28 December
+•	Wales - no data on 25 December and 1 January
+
+UK totals for each day will reflect the sum of the nations which reported data. Cases and deaths that would have been reported during these periods are likely to instead be reported on the following days. As a result, any changes to published data should be interpreted with caution during this period, as they may be a result of changes to reporting schedules.
+
+Testing and capacity metrics will be updated on working days. This means they will not be updated 25-28 December 2020, and data for this period will instead be updated on 29 December 2020.
+
+Healthcare statistics will be published when data is provided by NHS England and NHS Improvement and health authorities in the Devolved Administrations, but may experience interruptions during this period.
+
+> 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
 
 ## Table of contents
 
