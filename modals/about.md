@@ -1,5 +1,5 @@
 ﻿> During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary.
-[Full details](/about-data#holiday-season-2020-schedule) are outlined below.
+[Full details](/details/about-data#holiday-season-2020-schedule) are outlined below.
 
 > 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
 
@@ -97,7 +97,7 @@ However, users are strongly recommended to use the API instead, which give acces
 data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
 for details.
 
-### Holiday season 2020 schedule
+## Holiday season 2020 schedule
 
 During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change. 
 
