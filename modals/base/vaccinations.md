@@ -15,10 +15,9 @@ As the vaccination programme began on 8 December 2020, the number of individuals
 December 2020 only includes data from 8-13 December 2020.
 #### Scotland
 
-As the vaccination programme began on 8 December 2020, the number of individuals reported to have been vaccinated in week ending 13
+Vaccinations that were carried out in Scotland are rerported in the Vaccination Management Tool. As the vaccination programme began on 8 December 2020, the number of individuals reported to have been vaccinated in week ending 13
 December 2020 only includes data from 8-13 December 2020.
 
 #### Wales
 
-As the vaccination programme began on 8 December 2020, the number of individuals reported to have been vaccinated in week ending 13
-December 2020 only includes data from 8-13 December 2020. Data is extracted from the Welsh Immunisation System each Tuesday to reflect activity up to the close of the preceding Sunday.
+Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System, and are extracted each Tuesday to reflect activity up to the close of the preceding Sunday. As the vaccination programme began on 8 December 2020, the number of individuals reported to have been vaccinated in week ending 13 December 2020 only includes data from 8-13 December 2020.
