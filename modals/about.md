@@ -64,6 +64,12 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 
 {inc:base/covidPatientsInMVBeds.md|modals}
 
+## People who have received vaccinations
+
+Number of people who have received a COVID-19 vaccination.
+
+{inc:base/vaccinations.md|modals}
+
 ## Daily and cumulative deaths within 28 days of a positive test
 
 Total number of people who had a positive test result for COVID-19 and died within 28 days of the first
