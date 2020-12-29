@@ -1,5 +1,5 @@
 ﻿> During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary.
-[Full details](/details/about-data#holiday-season-2020-schedule) are outlined below.
+[Full details](/details/about-data#new-year-2021-schedule) are outlined below.
 
 > 20 October 2020: Read the Public Health Matters blog [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
 
@@ -103,18 +103,18 @@ However, users are strongly recommended to use the API instead, which give acces
 data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
 for details.
 
-## Holiday season 2020 schedule
+## New year 2021 schedule
 
-During the holiday period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change. 
+During the new year period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change. 
 
 UK cases and deaths will be updated every day throughout the holiday period, with the following service changes: 
 - England: data updated daily
-- Northern Ireland: no data on 24&ndash;28 December
-- Scotland: no deaths data on 25&ndash;28 December and 1&ndash;4 January
-- Wales: no data on 25 December and 1 January
+- Northern Ireland: no data on 1 January
+- Scotland: no deaths data on 1&ndash;4 January
+- Wales: no data on 1 January
 
 UK totals for each day will reflect the sum of the nations which reported data. Cases and deaths that would have been reported during these periods are likely to instead be reported on the following days. As a result, any changes to published data should be interpreted with caution during this period, as they may be a result of changes to reporting schedules.
 
-Testing and capacity metrics will be updated on working days. This means they will not be updated 25&ndash;28 December 2020, and data for this period will instead be updated on 29 December 2020.
+Testing and capacity metrics will be updated on working days. This means they will not be updated 1&ndash;3 January 2021, and data for this period will instead be updated on 4 January 2021.
 
 Healthcare statistics will be published when data are provided by NHS England and NHS Improvement and health authorities in the Devolved Administrations, but may experience interruptions during this period.
