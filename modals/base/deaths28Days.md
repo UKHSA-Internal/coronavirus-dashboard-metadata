@@ -25,14 +25,16 @@ Full details of the methodology are available on [GOV.UK](https://www.gov.uk/gov
 
 #### Northern Ireland
 
-Data for Northern Ireland include all cases reported to the Public Health Agency (PHA) where the deceased had a positive test for COVID-19 and died within 28 days.  PHA sources include reports by healthcare workers (eg Health and Social Care Trusts, GPs) and information from local laboratory reports. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
+Data for Northern Ireland include all cases reported to the Public Health Agency (PHA) where the deceased had a positive test for COVID-19 and died within 28 days.  PHA sources include reports by healthcare workers (eg Health and Social Care Trusts, GPs) and information from local laboratory reports. Deaths reported against each date cover the 24 hours up to 9:30am on the same day. 
+
+Deaths in Northern Ireland were not reported on 25 and 27 December 2020.
 
 #### Scotland
 
-Data for Scotland include deaths in all settings which have been registered with National Records of Scotland (NRS) where a laboratory confirmed report of COVID-19 in the 28 days prior to death exists. Deaths reported against each date cover the 24 hours up to 9:30am on the same day.
+Data for Scotland include deaths in all settings which have been registered with National Records of Scotland (NRS) where a laboratory confirmed report of COVID-19 in the 28 days prior to death exists. Deaths reported against each date cover the 24 hours up to 9:30am on the same day. 
 
 #### Wales
 
 Data for Wales include reports to Public Health Wales of deaths of hospitalised patients in Welsh Hospitals or care home residents where COVID-19 has been confirmed with a positive laboratory test and the clinician suspects this was a causative factor in the death.  The figures do not include individuals who may have died from COVID-19 but who were not confirmed by laboratory testing, those who died in other settings, or Welsh residents who died outside of Wales.  Deaths reported each day cover the 24 hours up to 5pm on the previous day.  The majority of deaths included occur within 28 days of a positive test result.
 
-On 13 December 2020, Wales did not report any data.
+On 13 December 2020, Wales did not report any data. Deaths in Wales were not reported on 25 December 2020.
