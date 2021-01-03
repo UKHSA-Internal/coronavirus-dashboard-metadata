@@ -28,7 +28,7 @@ Due to their small populations, counts for City of London and Isles of Scilly ar
 
 Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included. 
 
-Cases in Northern Ireland were not reported on 25 and 27 December 2020.
+Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 January 2021.
 
 #### Scotland
 
@@ -40,7 +40,7 @@ Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have 
 
 As a result of the planned maintenance of the NHS Wales Laboratory Information Management System that occurred between 11th and 12th December, there was significant under reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17th December included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between the 9th and 15th December.
 
-Cases in Wales were not reported on 25 December 2020.
+Cases in Wales were not reported on 25 December 2020 and 1 January 2021.
 
 
 {inc:base/fourPillars.md|modals}
