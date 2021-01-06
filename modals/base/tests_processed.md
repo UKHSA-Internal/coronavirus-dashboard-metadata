@@ -3,7 +3,7 @@
 There are three types of test being carried out:  
 * Lab-based virus tests that test for the presence of SARS-CoV-2 virus.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
-* Lateral flow device virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device tests have been used in trials of mass testing in schools, universities and care homes, and have been available for those who live or work in Liverpool for a two-week period from 6 November 2020. Lateral flow device test data are currently available for England only.
+* Lateral flow device (LFD) virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device test data are currently available for England only.
 
 #### UK
 
@@ -13,7 +13,7 @@ UK data are available for virus testing and antibody serology testing. UK Data a
 
 Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 lab-based tests were included. Pillar 2 lab-based tests are available from 14 July 2020.
 
-For England, lateral flow device tests are available from 21 October 2020.
+For England, lateral flow device tests are available from 21 October 2020. This data contains LFD tests reported through the existing National Testing Programme digital infrastructure and doesn't include LFD tests conducted on hauliers travelling to France where the tests were not registered digitally. LFD tests for NHS staff using a self-reporting tool have been included from 17 December 2020. Due to the change in guidance issued on 23 December 2020 to increase testing in care home staff, the requirement for care home staff to register negative LFD test results has temporarily been suspended between 31 December 2020 and 15 January 2021. As a result, a proportion of LFD tests conducted on care home staff will not be included for these dates.
 
 #### Northern Ireland
 
