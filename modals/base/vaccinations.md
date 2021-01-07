@@ -1,5 +1,6 @@
-Data are reported weekly on Thursdays, with data up to and including the previous Sunday. The vaccination programme began on 8 December 2020 with people receiving the vaccine developed
-by Pfizer/BioNTech, which requires 2 doses, at least 21 days apart, for a full vaccination course. Initially the vaccines were prioritised to be administered to the over-80s, care home residents and workers, and NHS staff. The number of people who received each dose is reported.
+Data are reported weekly on Thursdays, with data up to and including the previous Sunday. The vaccination programme began on 8 December 2020 with people receiving the vaccine developed by Pfizer/BioNTech, and people began receiving the Oxford University/AstraZeneca vaccine from 4 January 2021. Both vaccines are given as 2 doses, at least 21 days apart, for a full vaccination course. 
+
+Initially the vaccines were prioritised to be administered to the over-80s, care home residents and workers, and NHS staff. The number of people who received each dose is reported.
 
 #### UK
 
