@@ -61,11 +61,17 @@ Total number of mechanical ventilation beds that are occupied by COVID-19 patien
 
 {inc:base/covidPatientsInMVBeds.md|modals}
 
-## People who have received vaccinations
+## People who have received vaccinations, by report date (daily)
 
-Number of people who have received a COVID-19 vaccination.
+Number of people who have received a COVID-19 vaccination, by day on which the vaccine was reported.
 
-{inc:base/vaccinations.md|modals}
+{inc:base/vaccinationsDaily.md|modals}
+
+## People who have received vaccinations, by vaccination date (weekly)
+
+Number of people who have received a COVID-19 vaccination, by week in which the vaccine was administered.
+
+{inc:base/vaccinationsWeekly.md|modals}
 
 ## Daily and cumulative deaths within 28 days of a positive test
 
