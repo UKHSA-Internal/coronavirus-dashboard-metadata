@@ -14,8 +14,8 @@ Data are extracted at the end of day of the date of report.
 
 #### Scotland
 
-Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 08:30 on the day following the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
+Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
 
 #### Wales
 
-Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 22:00 on the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
+Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 10pm on the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
