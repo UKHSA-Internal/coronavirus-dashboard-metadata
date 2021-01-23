@@ -13,9 +13,9 @@ Vaccinations that were carried out in England are reported in the National Immun
 Data are extracted at the end of day of the date of report.
 
 #### Scotland
-
-Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
-
+ 
+Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021.
+ 
 #### Wales
-
-Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 10pm on the date of report. No data is reported on weekends. The newly reported number published on Mondays (with report date of the previous Sunday) will include vaccinations reported over the preceding weekend.
+ 
+Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 10pm on the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021.
