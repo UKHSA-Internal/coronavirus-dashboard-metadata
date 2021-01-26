@@ -2,7 +2,7 @@
 
 Data are published weekly by the national statistics bodies in the four nations: deaths registered up to any Friday are published 11 days later on the Tuesday.
 
-Deaths based on death certificates are presented by date of death. Coding of deaths for the latest week is incomplete. Deaths are allocated to the deceased's usual area of residence.
+Deaths based on death certificates are presented by date of death. Coding of deaths by cause for the latest week is incomplete.  These figures represent death occurrences, there can be a delay between the date a death occurred and the date a death was registered. Deaths are allocated to the deceased's usual area of residence.
 
 Bank Holidays can affect the number of registrations made within a given week.
 
