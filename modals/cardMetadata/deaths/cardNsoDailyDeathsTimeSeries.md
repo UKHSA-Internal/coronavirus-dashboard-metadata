@@ -2,4 +2,4 @@
 
 Total number of deaths of people whose death certificate mentioned COVID-19 as one of the causes, by date of occurrence.
 
-{inc:base/deathsONS.md|modals}
+{inc:base/deathsDailyNSO.md|modals}
