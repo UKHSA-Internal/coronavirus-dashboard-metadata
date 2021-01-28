@@ -14,7 +14,7 @@ Data are extracted at the end of day of the date of report.
 
 #### Scotland
  
-Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021.
+Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021. Due to an IT issue, the number of vaccinations was not reported for 27 January 2021, and the newly reported number for 28 January 2021 includes vaccinations reported on 27 January 2021.
  
 #### Wales
  
