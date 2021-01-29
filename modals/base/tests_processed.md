@@ -13,7 +13,9 @@ UK data are available for virus testing and antibody serology testing. UK Data a
 
 Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 lab-based tests were included. Pillar 2 lab-based tests are available from 14 July 2020.
 
-For England, lateral flow device tests are available from 21 October 2020. This data contains LFD tests reported through the existing National Testing Programme digital infrastructure and doesn't include LFD tests conducted on hauliers travelling to France where the tests were not registered digitally. LFD tests for NHS staff using a self-reporting tool have been included from 17 December 2020. Due to the change in guidance issued on 23 December 2020 to increase testing in care home staff, the requirement for care home staff to register negative LFD test results has temporarily been suspended between 31 December 2020 and 15 January 2021. As a result, a proportion of LFD tests conducted on care home staff will not be included for these dates.
+For England, lateral flow device tests are available from 21 October 2020. This data contains LFD tests reported through the existing National Testing Programme digital infrastructure and doesn't include LFD tests conducted where the tests were not registered digitally. In future, all LFD tests will be reported via the existing National Testing Programme digital infrastructure and will be included.
+
+Due to the change in guidance issued on 23 December 2020 to increase testing in care home staff, the requirement for care home staff to register negative LFD test results was suspended between 31 December 2020 and 15 January 2021 inclusive. As a result, a proportion of LFD tests conducted on care home staff will not be included for these dates.
 
 #### Northern Ireland
 
