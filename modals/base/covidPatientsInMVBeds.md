@@ -2,7 +2,10 @@ The UK figure is the sum of the four nations' figures and can only be calculated
 
 #### England
 
-England figures are the numbers of patients in beds which are capable of delivering mechanical ventilation and includes Nightingale hospitals. Data are reported daily by trusts to NHS England and NHS Improvement. Daily data at NHS Trust level is reported weekly on Thursdays, in line with NHS England reporting.
+England figures are the numbers of patients in beds which are capable of delivering mechanical ventilation and includes Nightingale hospitals. Data are reported daily by trusts to NHS England and NHS Improvement. The data collected is classified as management information. It has been collected on a
+daily basis with a tight turn round time. No revisions have been made to the dataset, where known errors have come to light trusts have made the appropriate correction in the following day’s data. Any analysis of the data should be undertaken with this in mind. 
+
+Daily data at NHS Trust level is reported weekly on Thursdays, in line with NHS England reporting.
 
 #### Northern Ireland
 
