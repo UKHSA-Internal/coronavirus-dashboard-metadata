@@ -8,9 +8,15 @@ Bank Holidays can affect the number of registrations made within a given week.
 
 Details of collection and further data are available on the national statistics bodies' websites, listed below.
 
+#### United Kingdom
+
+England, Wales and Northern Ireland weekly deaths run from Saturday to Friday, Scotland deaths run from Monday to Sunday. For this reason, the sum of individual days will not aggregate to the week total. 
+
 #### England and Wales
 
 [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist?filter=datasets).
+
+The number of deaths by date of occurrence are based on deaths registered up to a later registration date to take into account registration delay. More information on registration delays can be found on the [Office for National Statistics website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/impactofregistrationdelaysonmortalitystatisticsinenglandandwales/2019)
 
 #### Northern Ireland
 
