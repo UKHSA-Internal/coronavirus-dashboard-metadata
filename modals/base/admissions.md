@@ -20,5 +20,12 @@ https://beta.isdscotland.org/find-publications-and-data/population-health/covid-
 
 #### Wales
 
-Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am.  The numbers of admissions
-are not comparable with other nations.
+Wales data include confirmed and suspected cases, and are the numbers of admissions to the hospital in the previous 24 hour period up to 9am. 
+
+It was announced on 13 March that all non-urgent activity should stop to prepare for the pandemic. When elective procedures were re-introduced from June 2020, patients admitted for elective procedures suspected of having COVID-19 were initially captured in COVID-19 related admissions, even if they received a negative test later. This inflated the numbers of suspected cases amongst those admitted to hospital at the time of reporting.  
+
+From 29 June 2020, patients admitted for elective procedures were only included in COVID-19 related admissions if they received a positive COVID-19 test result on arrival at the hospital. Health boards were also asked to exclude transfers between acute and community hospitals from admissions figures. Prior to this, some transfers may have been captured as new admissions.
+
+From 3 July 2020, guidance was updated to only include emergency admissions in the COVID-19 related admissions figures.
+
+The numbers of admissions are not comparable with other nations.
