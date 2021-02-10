@@ -16,7 +16,7 @@ Data published before 12 August 2020 included suspected cases as well as confirm
 
 On 11 September 2020 the data were updated to exclude people (in larger NHS Boards) who had previously tested positive for COVID-19 but remain in hospital for another reason.  Further details about the data are available in the Trends in daily COVID-19 data spreadsheets available on the [Scottish Government website](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
 
-##### Wales
+#### Wales
 
 It was announced on 13 March 2020 that all non-urgent activity should stop to prepare for the pandemic. Following the re-introduction of elective procedures from June 2020, patients in hospital who were suspected of having COVID-19 at the time of admission for elective procedures were included, even if they received a negative test later. This inflated the numbers of suspected cases in hospital at the time of reporting.
 
