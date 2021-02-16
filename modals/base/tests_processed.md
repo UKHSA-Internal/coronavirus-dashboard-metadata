@@ -7,8 +7,8 @@ There are three types of test being carried out:
 
 The number of tests conducted counts all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab. These include tests which are negative and positive and may also include tests which were inconclusive (void). It is currently estimated that less than 1% of tests are reported as inconclusive (void). Reasons for void tests include: 
 
-•	The testing within the laboratory was unable to give an exact answer as the test gave an equivocal result (it wasn’t clearly negative or positive). 
-•	There was an issue with the sample when it is delivered to the laboratory making it impossible to return a result, such as the tube was damaged or leaked, the test could not be scanned, the instructions were not followed or the swab was not put in the tube. Due to the issue with the sample, some of these tests may not have been processed by the lab at all.
+* The testing within the laboratory was unable to give an exact answer as the test gave an equivocal result (it wasn’t clearly negative or positive). 
+* There was an issue with the sample when it is delivered to the laboratory making it impossible to return a result, such as the tube was damaged or leaked, the test could not be scanned, the instructions were not followed or the swab was not put in the tube. Due to the issue with the sample, some of these tests may not have been processed by the lab at all.
 
 Tests are counted at the time at which they were processed.
 #### UK
