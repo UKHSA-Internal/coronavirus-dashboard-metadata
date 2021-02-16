@@ -5,6 +5,12 @@ There are three types of test being carried out:
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
 * Lateral flow device (LFD) virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device test data are currently available for England only.
 
+The number of tests conducted counts all tests that have remained within the control of the programme (and were counted at the time at which processed in labs) and those that have been sent out and subsequently returned to be processed in a lab. These include tests which are negative and positive and may also include tests which were inconclusive (void). It is currently estimated that less than 1% of tests are reported as inconclusive (void). Reasons for void tests include: 
+
+* The testing within the laboratory was unable to give an exact answer as the test gave an equivocal result (it wasn’t clearly negative or positive). 
+* There was an issue with the sample when it is delivered to the laboratory making it impossible to return a result, such as the tube was damaged or leaked, the test could not be scanned, the instructions were not followed or the swab was not put in the tube. Due to the issue with the sample, some of these tests may not have been processed by the lab at all.
+
+Tests are counted at the time at which they were processed.
 #### UK
 
 UK data are available for virus testing and antibody serology testing. UK Data are not available for weekends between 4 July and 10 August 2020 because Northern Ireland did not report at weekends during this period.  
