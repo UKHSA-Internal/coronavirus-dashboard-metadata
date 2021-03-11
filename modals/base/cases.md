@@ -1,6 +1,6 @@
-COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive, this is a referred to as a case.  If a person has had more than one positive test they are only counted as one case.  
+COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive, this is referred to as a case.  If a person has more than one positive test, they are only counted as one case.  
 
-Cases data includes all positive virus test results, even if they are not confirmed by a lab.  For example, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
+Cases data includes all positive lab confirmed virus test results, plus positive tests in England that are not confirmed by a lab.  For example, in England, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
@@ -16,6 +16,8 @@ For the four nations, initially only cases identified through pillar 1 testing w
 
 #### England
 
+A positive case is defined as as an individual with at least one confirmed positive test from a polymerase chain reaction (PCR), lateral flow device (LFD) or loop-mediated isothermal amplification (LAMP) test.
+
 Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included. 
 
 A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September and 2 October.  These cases were instead reported on 3 and 4 October creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected.
@@ -26,15 +28,21 @@ Due to their small populations, counts for City of London and Isles of Scilly ar
 
 #### Northern Ireland
 
+A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an lateral flow device (LFD) test they are required to take a confirmatory PCR test in all situations. Positive LFD tests are therefore not included in the figures for positive cases for Northern Ireland.
+
 Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included. 
 
 Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 January 2021.
 
 #### Scotland
 
+A positive case is defined as an individual with at least one confirmed polymerase chain reaction (PCR) positive test. The number of lateral flow device (LFD) positive results are not included in daily case counts. 
+
 Data include only pillar 1 cases until 15 June, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
 
 #### Wales
+
+A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an lateral flow device (LFD) test they are advised to take a confirmatory PCR test, therefore positive LFD tests are not included in the figures for positive cases for Wales. 
 
 Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
