@@ -6,6 +6,8 @@ There are several different types of COVID-19 test. These include polymerase cha
 
 In certain situations, and times of low prevalence, a confirmation PCR test is recommended to those with a positive LFD result. Certain uses are always recommended to get a confirmation PCR, regardless of prevalence. These are self-reporting LFDs and cross-channel hauliers.
 
-Test types are shown as PCR (including LAMP and LamPORE tests), LFD confirmed (positive PCR result has been returned with a specimen date within 3 days of the positive LFD test) and LFD unconfirmed (positive PCR result has not been returned with a specimen date within 3 days of the positive LFD test).
+Test types are shown as PCR (including LAMP and LamPORE tests), LFD confirmed (positive PCR result has been returned with a specimen date within 2 days of the positive LFD test) and LFD unconfirmed (positive PCR result has not been returned with a specimen date within 2 days of the positive LFD test).
 
 {inc:base/cases.md|modals}
+
+{inc:base/tests_processed.md|modals}
