@@ -5,15 +5,14 @@ The government's mass testing programme includes four types of tests known as pi
 **Pillar 1: NHS and PHE Testing**
 
 
-Virus testing in Public Health England (PHE) labs and NHS hospitals for those with a clinical need, and health and care workers
-
+Virus testing in Public Health England (PHE) labs and NHS hospitals for those with a clinical need, and health and care workers. Pillar 1 data for England is provided by the NHS and PHE, and data from the devolved administrations are provided by the Department of Health of Northern Ireland, the Scottish Government, and Public Health Wales. Public Health Wales provide combined pillar 1 and partial pillar 2 data where tests are processed in NHS Wales labs.
 
 **Pillar 2: UK Government testing programme** 
 
 
 Virus testing for the wider population, as set out in government guidance.
 
-Pillar 2 uses Lighthouse laboratories and has partnership arrangements with public, private and academic sector laboratories
+Pillar 2 uses Lighthouse laboratories and has partnership arrangements with public, private and academic sector laboratories. Pillar 2 data for the UK (excluding Wales tests processed in NHS labs in Wales) is collected by commercial partners.
  
 * Lighthouse laboratories 
 
@@ -30,13 +29,13 @@ Lateral flow device tests test for the presence of SARS-CoV-2 virus and are swab
 **Pillar 3: Antibody testing** 
 
 
-Antibody serology testing to show if people have antibodies from having had COVID-19, reported from 1st June onwards
+Antibody serology testing to show if people have antibodies from having had COVID-19, reported from 1st June onwards. Pillar 3 data is provided for England by NHS England and Improvement (NHSEI).
 
 
 **Pillar 4: Surveillance testing** 
 
 
-Virus testing and antibody serology testing for national surveillance supported by PHE, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing.
+Virus testing and antibody serology testing for national surveillance supported by PHE, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing. Pillar 4 data is collected by the NHS, PHE, and individual research study leads for the UK.
 
 For pillar 4, laboratory capacity is procured based on the number of participants enrolled in a particular study and therefore any spare capacity cannot be used by other pillars.
 
