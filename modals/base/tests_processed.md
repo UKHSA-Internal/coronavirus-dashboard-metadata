@@ -1,4 +1,6 @@
-﻿**More general information on testing**
+﻿As of 21 August 2020, daily testing figures stopped being reported at weekends. Data for the three previous days (Friday, Saturday and Sunday) are updated on a Monday.
+
+**More general information on testing**
 
 There are three types of test being carried out:  
 * Lab-based virus tests that test for the presence of SARS-CoV-2 virus.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
