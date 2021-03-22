@@ -106,7 +106,9 @@ However, users are strongly recommended to use the API instead, which give acces
 data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
 for details.
 
-## Previous blogs 
+## Blogs 
+
+22 March 2021: [Behind the scenes: Expanding the COVID-19 dashboard](https://publichealthmatters.blog.gov.uk/2021/03/22/behind-the-scenes-expanding-the-covid-19-dashboard/)
 
 8 February 2021: [Counting deaths during the pandemic](https://publichealthmatters.blog.gov.uk/2021/02/08/counting-deaths-during-the-pandemic/)
 
