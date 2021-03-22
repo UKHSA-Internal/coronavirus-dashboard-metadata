@@ -109,9 +109,15 @@ for details.
 ## Previous blogs 
 
 8 February 2021: [Counting deaths during the pandemic](https://publichealthmatters.blog.gov.uk/2021/02/08/counting-deaths-during-the-pandemic/)
+
 9 December 2020: [Lateral flow testing – rapid tests to detect COVID-19](https://publichealthmatters.blog.gov.uk/2020/12/08/lateral-flow-testing-new-rapid-tests-to-detect-covid-19/)
+
 20 October 2020: [The COVID-19 dashboard: a design and feature evolution](https://publichealthmatters.blog.gov.uk/2020/10/20/covid-19-dashboard-a-design-and-feature-evolution/)
+
 4 September 2020: [The COVID-19 dashboard: bringing together data and statistics in one place](https://publichealthmatters.blog.gov.uk/2020/09/04/the-covid-19-dashboard-bringing-together-data-and-statistics-in-one-place/)
+
 12 August 2020: [Behind the headlines: Counting COVID-19 deaths](https://publichealthmatters.blog.gov.uk/2020/08/12/behind-the-headlines-counting-covid-19-deaths/)
+
 15 May 2020: [Coronavirus (COVID-19): Real-time tracking of the virus](https://publichealthmatters.blog.gov.uk/2020/05/15/coronavirus-covid-19-real-time-tracking-of-the-virus/)
+
 23 April 2020: [Coronavirus (COVID-19): Using data to track the virus](https://publichealthmatters.blog.gov.uk/2020/04/23/coronavirus-covid-19-using-data-to-track-the-virus/)
