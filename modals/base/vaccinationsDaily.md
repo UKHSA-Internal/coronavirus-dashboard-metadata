@@ -10,7 +10,8 @@ Vaccinations that were carried out in England are reported in the National Immun
 
 #### Northern Ireland
 
-Data are extracted at the end of day of the date of report.
+Data are extracted at the end of day of the date of report. Due to a processing issue, no data was reported for 22 March 2021. The newly reported number for 23
+March 2021 includes vaccinations reported on 22 to 23 March 2021.
 
 #### Scotland
  
