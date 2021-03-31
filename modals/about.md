@@ -1,4 +1,4 @@
-﻿> Easter reporting: During the Easter period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. See full details [below](details/about-data#easter-2021-schedule). 
+﻿> Easter reporting: During the Easter period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. See full details [below](/details/about-data#easter-2021-schedule). 
 
 > 22 March 2021: Read the Public Health Matters blog [Behind the scenes: Expanding the COVID-19 dashboard](https://publichealthmatters.blog.gov.uk/2021/03/22/behind-the-scenes-expanding-the-covid-19-dashboard/)
 
