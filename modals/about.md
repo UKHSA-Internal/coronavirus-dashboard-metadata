@@ -1,4 +1,6 @@
-﻿> 22 March 2021: Read the Public Health Matters blog [Behind the scenes: Expanding the COVID-19 dashboard](https://publichealthmatters.blog.gov.uk/2021/03/22/behind-the-scenes-expanding-the-covid-19-dashboard/)
+﻿> Easter reporting: During the Easter period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. See full details [below](/about-data#easter-2021-schedule). 
+
+> 22 March 2021: Read the Public Health Matters blog [Behind the scenes: Expanding the COVID-19 dashboard](https://publichealthmatters.blog.gov.uk/2021/03/22/behind-the-scenes-expanding-the-covid-19-dashboard/)
 
 ## Table of contents
 
@@ -123,3 +125,20 @@ for details.
 15 May 2020: [Coronavirus (COVID-19): Real-time tracking of the virus](https://publichealthmatters.blog.gov.uk/2020/05/15/coronavirus-covid-19-real-time-tracking-of-the-virus/)
 
 23 April 2020: [Coronavirus (COVID-19): Using data to track the virus](https://publichealthmatters.blog.gov.uk/2020/04/23/coronavirus-covid-19-using-data-to-track-the-virus/)
+
+
+## Easter 2021 schedule
+
+During the Easter period, the COVID-19 Dashboard will be updated every day, but the amount of data being updated will vary. The following information is provided to assist forward planning only and is subject to change.
+
+UK cases, deaths and vaccinations will be updated every day throughout the holiday period, with the following service changes:
+* England: data updated daily
+* Northern Ireland: no cases and deaths data on 4 April
+* Scotland: data updated daily
+* Wales: no data on 2 April and 4 April (note: cases and deaths data released on 5 April and 6 April will both cover 48 hour periods)
+
+UK totals for each day will reflect the sum of the nations which reported data. Cases and deaths that would have been reported during these periods are likely to instead be reported on the following days. As a result, any changes to published data should be interpreted with caution during this period, as they may be a result of changes to reporting schedules.
+
+Testing and capacity metrics will not be updated 2 to 6 April, and data for this period will instead be updated on 7 April.
+
+Healthcare statistics will be published when data are provided by NHS England and NHS Improvement and health authorities in the Devolved Administrations, but may experience interruptions during this period.
