@@ -22,7 +22,7 @@ Data include only pillar 1 cases until 2 July 2020, from when pillar 2 cases are
 
 A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September 2020 and 2 October 2020.  These cases were instead reported on 3 and 4 October 2020 creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected.
 
-On 27 November 2020, 1,283 historic cases were removed from the dashboard. These were void tests originally reported in error by the laboratory as positive. This affected specimen dates between 11 and 23 November in around 100 local authorities. The cumulative total number of people tested positive was revised down on 27 November 2020. Historic published date totals have not been changed.
+On 27 November 2020, 1,283 historic cases were removed from the dashboard. These were void tests originally reported in error by the laboratory as positive. This affected specimen dates between 11 and 23 November in around 100 local authorities. The cumulative total number of people tested positive was revised down on 27 November 2020. Historical published date totals have not been changed.
 
 Due to their small populations, counts for City of London and Isles of Scilly are combined with Hackney and Cornwall respectively when presented at local authority level, in order to prevent disclosure control issues. 
 
@@ -30,7 +30,7 @@ Due to their small populations, counts for City of London and Isles of Scilly ar
 On 9 April 2021, the way cases are reported was changed. Cases that have been identified through a positive rapid lateral flow 
 test will be removed for people who took Polymerase Chain Reaction (PCR) tests within 3 days that were all negative. Cases of this type that were 
 previously reported were removed from the cumulative total, reducing the total by 8,010. Newly reported numbers of cases for the UK and England on 9 April 2021
-were unaffected by the removal of these. Historic published date totals have not been changed.
+were unaffected by the removal of these. Historical published date totals have not been changed.
 
 Newly reported cases at regional and local authority level within England are calculated as the daily change in the total number of cases. 
 This means that for 9 April 2021, these show significantly lower numbers or zero, and should not be considered as the actual number of new cases reported on that date. 
