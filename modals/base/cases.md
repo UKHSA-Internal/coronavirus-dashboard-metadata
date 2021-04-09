@@ -26,6 +26,8 @@ On 27 November 2020, 1,283 historic cases were removed from the dashboard. These
 
 Due to their small populations, counts for City of London and Isles of Scilly are combined with Hackney and Cornwall respectively when presented at local authority level, in order to prevent disclosure control issues. 
 
+##### Change in cases on 9 April 2021
+Link
 #### Northern Ireland
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an lateral flow device (LFD) test they are required to take a confirmatory PCR test in all situations. Positive LFD tests are therefore not included in the figures for positive cases for Northern Ireland.
