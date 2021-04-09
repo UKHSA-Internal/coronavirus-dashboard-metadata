@@ -22,9 +22,9 @@ Capacity is the maximum number of samples the Lighthouse laboratories estimate t
 
 Capacity for partner laboratories is the daily number of tests that the laboratory has been contracted to complete.
 
-* Lateral flow device testing
+* Rapid lateral flow testing
 
-Lateral flow device tests test for the presence of SARS-CoV-2 virus and are swab tests that give results in less than an hour, without needing to go to a laboratory. 
+Rapid lateral flow tests test for the presence of SARS-CoV-2 virus and are swab tests that give results in less than an hour, without needing to go to a laboratory. 
 
 **Pillar 3: Antibody testing** 
 
