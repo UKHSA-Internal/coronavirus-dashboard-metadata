@@ -1,6 +1,6 @@
-COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive, this is referred to as a case.  If a person has more than one positive test, they are only counted as one case.  
+COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive (except for rapid lateral flow tests which have negative confirmatory lab-based polymerase chain reaction (PCR) tests taken within 72 hours), this is referred to as a case.  If a person has more than one positive test, they are only counted as one case.  
 
-Cases data includes all positive lab confirmed virus test results, plus positive tests in England that are not confirmed by a lab.  For example, in England, positive test results from swab tests performed using a lateral flow device, which do not need to go to a lab, contribute towards the cases total.
+Cases data includes all positive lab confirmed virus test results plus, in England, positive rapid lateral flow tests that do not have negative confirmatory lab-based polymerase chain reaction (PCR) tests taken within 72 hours.
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
@@ -10,25 +10,37 @@ PHE has published [a comparison of geographic allocation methodologies](https://
 
 #### UK
 
-UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July around 30,000 duplicates were found and removed from the data. This is why the number of cases reported reduced from 1 July to 2 July.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
+UK data include results from both pillar 1 and pillar 2 testing.  Up to 1 July 2020, these data were collected separately meaning that people who had tested positive via both methods were counted twice.  In combining the data for pillars 1 and 2 on 2 July 2020 around 30,000 duplicates were found and removed from the data. This is why the number of cases reported reduced from 1 July 2020 to 2 July 2020.  The technical issue affecting England reported cases on 3 and 4 October 2020 (see below) also affects the UK cases by date reported. 
 
 For the four nations, initially only cases identified through pillar 1 testing were included but cases identified through pillar 2 testing (see below) have been included, from different dates, for all nations.
 
 #### England
 
-A positive case is defined as as an individual with at least one confirmed positive test from a polymerase chain reaction (PCR), lateral flow device (LFD) or loop-mediated isothermal amplification (LAMP) test.
+A positive case is defined as as an individual with at least one confirmed positive test from a polymerase chain reaction (PCR), rapid lateral flow tests or loop-mediated isothermal amplification (LAMP) test. Positive rapid lateral flow test results can be confirmed with PCR tests taken within 72 hours. If the PCR test results are negative, these are not reported as cases.
 
-Data include only pillar 1 cases until 2 July, from when pillar 2 cases are also included. 
+Data include only pillar 1 cases until 2 July 2020, from when pillar 2 cases are also included. 
 
-A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September and 2 October.  These cases were instead reported on 3 and 4 October creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected.
+A technical issue identified on 2 October 2020 resulted in a delay in reporting of 15,841 cases between 25 September 2020 and 2 October 2020.  These cases were instead reported on 3 and 4 October 2020 creating an artificial spike in the number of cases reported on these dates.  Cases by specimen date data are not affected.
 
 On 27 November 2020, 1,283 historic cases were removed from the dashboard. These were void tests originally reported in error by the laboratory as positive. This affected specimen dates between 11 and 23 November in around 100 local authorities. The cumulative total number of people tested positive was revised down on 27 November 2020. Historic published date totals have not been changed.
 
 Due to their small populations, counts for City of London and Isles of Scilly are combined with Hackney and Cornwall respectively when presented at local authority level, in order to prevent disclosure control issues. 
 
+##### Change in cases on 9 April 2021
+On 9 April 2021, the way cases are reported was changed. Cases that have been identified through a positive rapid lateral flow 
+test will be removed for people who took Polymerase Chain Reaction (PCR) tests within 3 days that were all negative. Cases of this type that were 
+previously reported were removed from the cumulative total, reducing the total by 8,010. Newly reported numbers of cases for the UK and England on 9 April 2021
+were unaffected by the removal of these. Historic published date totals have not been changed.
+
+Newly reported cases at regional and local authority level within England are calculated as the daily change in the total number of cases. 
+This means that for 9 April 2021, these show significantly lower numbers or zero, and should not be considered as the actual number of new cases reported on that date. 
+Details of the changes and numbers of newly reported cases for 9 April 2021 are available in 
+[csv (wide format)](/downloads/miscellaneous/cases_reported_2021-04-09_unstacked.csv) and 
+[csv (long format)](/downloads/miscellaneous/cases_reported_2021-04-09_stacked.csv).
+
 #### Northern Ireland
 
-A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an lateral flow device (LFD) test they are required to take a confirmatory PCR test in all situations. Positive LFD tests are therefore not included in the figures for positive cases for Northern Ireland.
+A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are required to take a confirmatory PCR test in all situations. Positive rapid lateral flow tests are therefore not included in the figures for positive cases for Northern Ireland.
 
 Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included. 
 
@@ -36,13 +48,13 @@ Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 Ja
 
 #### Scotland
 
-A positive case is defined as an individual with at least one confirmed polymerase chain reaction (PCR) positive test. The number of lateral flow device (LFD) positive results are not included in daily case counts. 
+A positive case is defined as an individual with at least one confirmed polymerase chain reaction (PCR) positive test. The number of rapid lateral flow test positive results are not included in daily case counts. 
 
 Data include only pillar 1 cases until 15 June, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
 
 #### Wales
 
-A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an lateral flow device (LFD) test they are advised to take a confirmatory PCR test, therefore positive LFD tests are not included in the figures for positive cases for Wales. 
+A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are advised to take a confirmatory PCR test, therefore positive rapid lateral flow tests are not included in the figures for positive cases for Wales. 
 
 Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
