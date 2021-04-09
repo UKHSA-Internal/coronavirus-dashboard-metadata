@@ -5,7 +5,7 @@
 There are three types of test being carried out:  
 * Lab-based virus tests that test for the presence of SARS-CoV-2 virus.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
 * Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
-* Lateral flow device (LFD) virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Lateral flow device test data are currently available for England only.
+* Rapid lateral flow virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Rapid lateral flow test data are currently available for England only.
 
 The number of tests conducted counts all tests that have remained within the control of the programme and those that have been sent out and subsequently returned to be processed in a lab. These include tests which are negative and positive and may also include tests which were inconclusive (void). Reasons for void tests include: 
 
@@ -23,9 +23,9 @@ Data are only available from 1 April 2020. Up to 13 July 2020, only pillar 1 lab
 
 The number of tests conducted by test result in England is published as part of the weekly [NHS Test and Trace Statistics](https://www.gov.uk/government/collections/nhs-test-and-trace-statistics-england-weekly-reports).
 
-For England, lateral flow device tests are available from 21 October 2020. This data contains LFD tests reported through the existing National Testing Programme digital infrastructure and doesn't include LFD tests conducted where the tests were not registered digitally. In future, all LFD tests will be reported via the existing National Testing Programme digital infrastructure and will be included.
+For England, rapid lateral flow tests are available from 21 October 2020. This data contains rapid lateral flow tests reported through the existing National Testing Programme digital infrastructure and doesn't include tests conducted where the tests were not registered digitally. In future, all rapid lateral flow tests will be reported via the existing National Testing Programme digital infrastructure and will be included.
 
-Due to the change in guidance issued on 23 December 2020 to increase testing in care home staff, the requirement for care home staff to register negative LFD test results was suspended between 31 December 2020 and 15 January 2021 inclusive. As a result, a proportion of LFD tests conducted on care home staff will not be included for these dates.
+Due to the change in guidance issued on 23 December 2020 to increase testing in care home staff, the requirement for care home staff to register negative rapid lateral flow test results was suspended between 31 December 2020 and 15 January 2021 inclusive. As a result, a proportion of rapid lateral flow tests conducted on care home staff will not be included for these dates.
 
 #### Northern Ireland
 

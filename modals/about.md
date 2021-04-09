@@ -39,7 +39,7 @@ The number of people who received a PCR test in the previous 7 days, and the per
 
 ## Daily and cumulative numbers of cases 
 
-Number of people with a positive COVID-19 virus test (either lab-reported or lateral flow device) on or up to the specimen date or reporting date (depending on availability).
+Number of people with a positive COVID-19 virus test (either lab-reported or rapid lateral flow test) on or up to the specimen date or reporting date (depending on availability).
 
 {inc:base/cases.md|modals}
 
