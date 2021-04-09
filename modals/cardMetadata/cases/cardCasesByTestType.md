@@ -14,7 +14,7 @@ In certain situations and times of low prevalence, a confirmation PCR test is re
 Test types are shown as:
 * PCR (including LAMP and LamPORE tests)
 * LFD with positive PCR (positive PCR result has been returned with a specimen date within 3 days of the positive rapid lateral flow test) 
-* LFD without postive PCR (positive PCR result has not been returned with a specimen date within 3 days of the positive rapid lateral flow test)
+* LFD without positive PCR (positive PCR result has not been returned with a specimen date within 3 days of the positive rapid lateral flow test)
 
 {inc:base/cases.md|modals}
 
