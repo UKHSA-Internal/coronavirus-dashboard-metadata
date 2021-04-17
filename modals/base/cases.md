@@ -42,7 +42,7 @@ Details of the changes and numbers of newly reported cases for 9 April 2021 are 
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are required to take a confirmatory PCR test in all situations. Positive rapid lateral flow tests are therefore not included in the figures for positive cases for Northern Ireland.
 
-Data include only pillar 1 cases until 26 June, from when pillar 2 cases are also included. 
+Data include only pillar 1 cases until 26 June 2020, from when pillar 2 cases are also included. 
 
 Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 January 2021.
 
@@ -50,15 +50,15 @@ Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 Ja
 
 A positive case is defined as an individual with at least one confirmed polymerase chain reaction (PCR) positive test. The number of rapid lateral flow test positive results are not included in daily case counts. 
 
-Data include only pillar 1 cases until 15 June, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April. These samples were assigned a specimen date in the midpoint within this range (20 April) causing the artificial spike in the chart.
+Data include only pillar 1 cases until 15 June 2020, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April 2020. These samples were assigned a specimen date in the midpoint within this range (20 April 2020) causing the artificial spike in the chart.
 
 #### Wales
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are advised to take a confirmatory PCR test, therefore positive rapid lateral flow tests are not included in the figures for positive cases for Wales. 
 
-Data include mainly pillar 1 cases until 14 July, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
+Data include mainly pillar 1 cases until 14 July 2020, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
-As a result of the planned maintenance of the NHS Wales Laboratory Information Management System that occurred between 11th and 12th December, there was significant under reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17th December included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between the 9th and 15th December.
+As a result of the planned maintenance of the NHS Wales Laboratory Information Management System that occurred between 11th and 12th December 2020, there was significant under reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17th December 2020 included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between the 9th and 15th December 2020.
 
 Cases in Wales were not reported on 25 December 2020 and 1 January 2021.
 

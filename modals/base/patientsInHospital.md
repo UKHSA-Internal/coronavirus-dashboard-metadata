@@ -10,7 +10,7 @@ Daily data at NHS Trust level is reported weekly on Thursdays, in line with NHS 
 
 #### Northern Ireland
 
-Data published before 12 August 2020 included suspected cases as well as confirmed cases.  The full series was revised on 12 August.
+Data published before 12 August 2020 included suspected cases as well as confirmed cases.  The full series was revised on 12 August 2020.
 
 #### Scotland
 
