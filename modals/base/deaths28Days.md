@@ -5,14 +5,14 @@ Death data can be presented by when death occurred (date of death) or when the d
 * Deaths by date of death - each death is assigned to the date that the person died irrespective of how long it took for the death to be reported.  Previously reported data are therefore continually updated
 * Deaths by date reported - each death is assigned to the date when it was first included in the published totals.  The specific 24 hour periods reported against each date vary by nation and are defined below
 
-Deaths can be removed and reallocated, which can create apparent discrepancies. 
+Deaths can be removed or reallocated as records are regularly updated with new information, which can create apparent discrepancies. 
 If numbers for an area are low, these changes can result in negative numbers, which are shown as 0.
 However, the changes would be included for areas where a negative number would not be created. 
 
 For example:
-Local authority 1 reports 2 deaths.
-Local authority 2 reports no new deaths, but 1 death is reallocated. This shows as 0 deaths.
-These local authorities form a larger area. 1 death is shown in this area (2 deaths in local authority 1, minus 1 death in local authority 2).
+Local authority A reports 2 new deaths. Local authority B reports no new deaths, but 1 previously reported death is reallocated to another local authority. This shows as 0 new deaths reported for local authority B.
+
+These local authorities form a larger area. 1 death is shown in this larger area (2 deaths in local authority A, minus 1 death in local authority B).
 
 Deaths are allocated to the deceased's usual area of residence.
 
