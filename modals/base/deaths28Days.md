@@ -7,7 +7,7 @@ Death data can be presented by when death occurred (date of death) or when the d
 
 Deaths can be removed and reallocated, which can create apparent discrepancies. 
 If numbers for an area are low, these changes can result in negative numbers, which are shown as 0.
-However, the change would be included for areas where a negative number would not be created. 
+However, the changes would be included for areas where a negative number would not be created. 
 
 For example:
 Local authority 1 reports 2 deaths.
