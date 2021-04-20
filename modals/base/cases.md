@@ -4,6 +4,15 @@ Cases data includes all positive lab confirmed virus test results plus, in Engla
 
 Data can be presented by specimen date (the date when the sample was taken from the person being tested) or by reporting date (the date the case was first included in the published totals).  The availability of each of these time series varies by area.  
 
+Cases can be removed and reallocated, which can create apparent discrepancies. 
+If numbers for an area are low, these changes can result in negative numbers, which are shown as 0.
+However, the change would be included for areas where a negative number would not be created. 
+
+For example:
+Local authority 1 reports 2 cases.
+Local authority 2 reports no new cases, but 1 case is reallocated. This shows as 0 cases.
+These local authorities form a larger area. 1 case is shown in this area (2 cases in local authority 1, minus 1 case in local authority 2).
+
 Cases are allocated to the person's area of residence. From 16 November 2020, PHE has updated the way it records the location of people who test positive or negative for COVID-19 in England. It now prioritises addresses given at the point of testing over the details registered on a patient’s record in the NHS Digital Patient Demographic Service. This better reflects the distribution of cases and testing. However, it may give rise to differences in previously reported numbers of cases and rates in some areas. The change has been retrospectively applied to tests carried out from 1 September 2020, and data in the dashboard was updated to reflect this change on 16 November 2020. Due to reallocation of cases in this way, the number of cases reported by local authority may be artificially high or low on 16 November 2020.
 
 PHE has published [a comparison of geographic allocation methodologies](https://www.gov.uk/government/publications/covid-19-comparison-of-geographic-allocation-of-cases-in-england-by-lower-tier-local-authority) for cases by specimen date at lower tier local authority level.
