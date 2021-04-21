@@ -44,6 +44,10 @@ Data for Scotland include deaths in all settings which have been registered with
 
 #### Wales
 
+From 12 April 2021, Public Health Wales moved to a 6-day reporting period for COVID-19 surveillance. There is no reporting of the daily figures for Wales on Saturdays. Figures reported on Mondays for Wales are for a 48-hour period and will probably be around double the usual 24-hour figure.
+ 
+Figures for Wales reported on Sundays will be for the 24-hour period up to 9am on Friday, and figures reported on Mondays will be for a 48-hour period up to 9am on Sunday.
+
 Data for Wales include reports to Public Health Wales of deaths of hospitalised patients in Welsh Hospitals or care home residents where COVID-19 has been confirmed with a positive laboratory test and the clinician suspects this was a causative factor in the death.  The figures do not include individuals who may have died from COVID-19 but who were not confirmed by laboratory testing, those who died in other settings, or Welsh residents who died outside of Wales.  Deaths reported each day cover the 24 hours up to 5pm on the previous day.  The majority of deaths included occur within 28 days of a positive test result.
 
 On 13 December 2020, Wales did not report any data. Deaths in Wales were not reported on 25 December 2020 and 1 January 2021.
