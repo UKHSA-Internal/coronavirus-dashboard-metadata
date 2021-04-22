@@ -63,6 +63,10 @@ Data include only pillar 1 cases until 15 June 2020, from when pillar 2 cases ar
 
 #### Wales
 
+From 12 April 2021, Public Health Wales moved to a 6-day reporting period for COVID-19 surveillance. There is no reporting of the daily figures for Wales on Saturdays. Figures reported on Mondays for Wales are for a 48-hour period and will probably be around double the usual 24-hour figure.
+ 
+Figures for Wales reported on Sundays will be for the 24-hour period up to 9am on Friday, and figures reported on Mondays will be for a 48-hour period up to 9am on Sunday.
+
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are advised to take a confirmatory PCR test, therefore positive rapid lateral flow tests are not included in the figures for positive cases for Wales. 
 
 Data include mainly pillar 1 cases until 14 July 2020, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
