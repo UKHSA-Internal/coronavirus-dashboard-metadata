@@ -4,7 +4,7 @@
 
 There are three types of test being carried out:  
 * Lab-based virus tests that test for the presence of SARS-CoV-2 virus.  These include lab-based pillar 1 and 2 tests and virus tests undertaken in pillar 4.
-* Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is reported as England by DHSC.
+* Antibody serology tests that test for the presence of COVID-19 antibodies.  These include pillar 3 tests and antibody serology tests undertaken in pillar 4.  All pillar 4 antibody testing is included in reported UK totals only.
 * Rapid lateral flow virus tests that test for the presence of SARS-CoV-2 virus.  These are swab tests that give results in less than an hour, without needing to go to a laboratory. Rapid lateral flow test data are currently available for England only.
 
 The number of tests conducted counts all tests that have remained within the control of the programme and those that have been sent out and subsequently returned to be processed in a lab. These include tests which are negative and positive and may also include tests which were inconclusive (void). Reasons for void tests include: 
