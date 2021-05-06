@@ -53,7 +53,23 @@ A positive case is defined as an individual who has received a positive polymera
 
 Data include only pillar 1 cases until 26 June 2020, from when pillar 2 cases are also included. 
 
-Cases in Northern Ireland were not reported on 25 and 27 December 2020, and 1 January 2021.
+Cases in Northern Ireland were not reported because of public holidays on these dates:
+* 25 and 27 December 2020
+* 1 January 2021
+* 4 April 2021 
+
+Data for local authorities in Northern Ireland were not reported at weekends up to and including 24 January 2021, and from 1 May 2021.
+
+Due to public holidays, data for local authorities in Northern Ireland were not reported on these dates:
+* 31 August 2020
+* 26 and 28 December 2020
+* 17 March 2021
+* 5 to 6 April 2021
+* 3 May 2021
+
+Because of processing issues, data for local authorities in Northern Ireland were not published on 15 December 2020 and 20 February 2021.
+
+Because of these gaps in reporting, the numbers reported on the following days are higher.
 
 #### Scotland
 
@@ -61,19 +77,35 @@ A positive case is defined as an individual with at least one confirmed polymera
 
 Data include only pillar 1 cases until 15 June 2020, from when pillar 2 cases are also included. Scotland's data include a batch of cases for which specimen date was not available over a 10 day period between 15 and 25 April 2020. These samples were assigned a specimen date in the midpoint within this range (20 April 2020) causing the artificial spike in the chart.
 
-#### Wales
+Data for local authorities in Scotland were not published because of public holidays on these dates:
+* 25 to 28 December 2020
+* 1 to 4 January 2021
+* 2 to 4 April 2021
+* 3 May 2021
 
-From 12 April 2021, Public Health Wales moved to a 6-day reporting period for COVID-19 surveillance. There is no reporting of the daily figures for Wales on Saturdays. Figures reported on Mondays for Wales are for a 48-hour period and will probably be around double the usual 24-hour figure.
- 
-Figures for Wales reported on Sundays will be for the 24-hour period up to 9am on Friday, and figures reported on Mondays will be for a 48-hour period up to 9am on Sunday.
+Because of processing issues, data for local authorities in Scotland were not published on 26 November 2020 and 25 April 2021.
+
+Because of these gaps in reporting, the numbers reported on the following days are higher.
+
+#### Wales
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are advised to take a confirmatory PCR test, therefore positive rapid lateral flow tests are not included in the figures for positive cases for Wales. 
 
 Data include mainly pillar 1 cases until 14 July 2020, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 
-As a result of the planned maintenance of the NHS Wales Laboratory Information Management System that occurred between 11th and 12th December 2020, there was significant under reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17th December 2020 included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between the 9th and 15th December 2020.
+From 12 April 2021, Public Health Wales moved to a 6-day reporting period for COVID-19 surveillance. There is no reporting of the daily figures for Wales on Saturdays. Figures for Wales reported on Sundays will be for the 24-hour period up to 9am on Friday, and figures reported on Mondays will be for a 48-hour period up to 9am on Sunday and will probably be around double the usual 24-hour figure.
 
-Cases in Wales were not reported on 25 December 2020 and 1 January 2021.
+Cases in Wales were not reported because of public holidays on these dates:
+* 25 December 2020
+* 1 January 2021
+* 2 and 4 April 2021
+* 3 May 2021
+
+Planned maintenance of the NHS Wales Laboratory Information Management System between 11th and 12th December 2020 meant there was significant under-reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17 December 2020 included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between 9 and 15 December 2020.
+
+Because of processing issues, data for local authorities in Wales were not published on 13 April 2021.
+
+Because of these gaps in reporting, the numbers reported on the following days are higher.
 
 
 {inc:base/fourPillars.md|modals}
