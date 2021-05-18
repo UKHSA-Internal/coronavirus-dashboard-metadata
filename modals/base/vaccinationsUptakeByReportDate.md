@@ -1,3 +1,0 @@
-Percentage uptake by report date is calculated by dividing the total number of vaccinations given by the mid-year 2019 population estimate for people aged 18 and over, published by the Office for National Statistics.
-
-The percentage uptake published here for the nations of the UK may differ from those reported by the nations individually. In particular, figures published by Public Health Wales use denominators of those registered with NHS Wales rather than mid-year population estimates.

@@ -1,8 +1,7 @@
-### Cumulative COVID-19 vaccination uptake
+### Vaccination uptake
 
-Number of people and percentage of the population aged 18 and over who have received a COVID-19 vaccination, by report date.
+Number of people and percentage of the population aged 18 and over who have received a COVID-19 vaccination.
 
-{inc:base/vaccinationsUptakeByReportDate.md|modals}
+{inc:base/vaccinationsUptake.md|modals}
 
-{inc:base/vaccinationsDaily.md|modals}
 
