@@ -1,8 +1,8 @@
 Data are reported daily, and include all vaccination events that are entered on the relevant system at the time of extract. Data are presented for vaccinations carried out up to and including the end of the report date.
 
-The vaccination programme began on 8 December 2020 with people receiving the vaccine developed by Pfizer/BioNTech, and people began receiving the Oxford University/AstraZeneca vaccine from 4 January 2021. Both vaccines are given as 2 doses, at least 21 days apart, for a full vaccination course. 
+The vaccination programme began on 8 December 2020 with people receiving the vaccine developed by Pfizer/BioNTech. People began receiving the Oxford University/AstraZeneca vaccine from 4 January 2021, and the Moderna vaccine from 7 April 2021. All 3 vaccines are given as 2 doses, at least 21 days apart, for a full vaccination course.
 
-Initially the vaccines were prioritised to be administered to the over-80s, care home residents and workers, and NHS staff. The number of people who received each dose is reported.
+Initially the vaccines were prioritised to be administered to the over-80s, care home residents and workers, and NHS staff. The number of people of all ages who received each dose is reported.
 
 #### England
 

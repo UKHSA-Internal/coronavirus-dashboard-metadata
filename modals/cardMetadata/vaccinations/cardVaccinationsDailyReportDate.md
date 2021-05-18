@@ -2,4 +2,4 @@
 
 Number of people who have received a COVID-19 vaccination, by report date.
 
-{inc:base/vaccinationsDaily.md|modals}
+{inc:base/vaccinationsDailyReportDate.md|modals}

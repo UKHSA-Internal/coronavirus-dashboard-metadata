@@ -67,6 +67,8 @@ Cases in Northern Ireland were not reported because of public holidays on these 
 * 1 January 2021
 * 4 April 2021 
 
+Because of processing issues, data for Northern Ireland were not reported on 15 May 2021.
+
 Data for local authorities in Northern Ireland were not reported at weekends up to and including 24 January 2021, and from 1 May 2021.
 
 Due to public holidays, data for local authorities in Northern Ireland were not reported on these dates:
