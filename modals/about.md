@@ -77,7 +77,7 @@ Number of people who have received a COVID-19 vaccination, by day on which the v
 
 The percentage of the population aged 18 and over who have received a COVID-19 vaccination.
 
-{inc:base/vaccinationsDailyUptake.md|modals}
+{inc:base/vaccinationsUptake.md|modals}
 
 ## Daily and cumulative deaths within 28 days of a positive test
 
