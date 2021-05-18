@@ -47,6 +47,15 @@ Details of the changes and numbers of newly reported cases for 9 April 2021 are 
 [csv (wide format)](/downloads/miscellaneous/cases_reported_2021-04-09_unstacked.csv) and 
 [csv (long format)](/downloads/miscellaneous/cases_reported_2021-04-09_stacked.csv).
 
+##### Revision to cases on 18 May 2021
+
+On 18 May 2021, 4,776 previously reported cases were removed. These cases were identified through a positive rapid lateral flow test but followed by polymerase chain reaction (PCR) tests within 3 days that were all negative. The removal of these cases was also disrupted by the introduction of a new system, so a higher number of cases were removed on this date. They were removed from the cumulative total, reducing it by 4,776. Newly-reported cases for the UK and England on 18 May 2021 were unaffected. Historical published date totals have not been changed.
+
+Newly-reported cases at regional and local authority level within England are calculated as the daily change in the total number of cases. This means that for 18 May 2021, these show significantly lower numbers or zero, and do not reflect the actual number of new cases reported on that date. Details of the changes and numbers of newly-reported cases for 18 May 2021 are available in 
+[csv (wide format)](/downloads/miscellaneous/cases_reported_2021-05-18_unstacked.csv) and 
+[csv (long format)](/downloads/miscellaneous/cases_reported_2021-05-18_stacked.csv).
+
+
 #### Northern Ireland
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are required to take a confirmatory PCR test in all situations. Positive rapid lateral flow tests are therefore not included in the figures for positive cases for Northern Ireland.
