@@ -1,4 +1,4 @@
-# Coronavirus Dashboard Metadata
+# Coronavirus (COVID-19) in the UK - Metadata
 
 This repository is used to manage the metric definitions and metric availability text used in the website.  The definitions are written using basic markdown syntax.  When the repository is published each markdown is created with its own url and these are called and surfaced as required within the website pages.  
 
@@ -32,3 +32,22 @@ via the layouts GitHub repository and not within this repo.
 * about markdown file - this is a single file saved at the top modal directory level using filename about.md and defines the overarching 'About the data' document.  All base files should be included here, each with its own header and, if appropriate, single sentence of introduction.  
 
 
+## Other repositories
+
+Different parts of the Coronavirus dashboard service are maintained in their respective 
+repositories, itemised as follows:
+ 
+- [API v.1](https://github.com/publichealthengland/coronavirus-dashboard-api-v1) - Main API service for the data, lookup tables, CMS, and metadata.
+- [API v.2.0](https://github.com/publichealthengland/coronavirus-dashboard-api-v2) - Batch downloads service [DEPRECATED in favour of v2.1]
+- [API v.2.1](https://github.com/publichealthengland/coronavirus-dashboard-api-v2-server) - Batch downloads service
+- [Generic APIs](https://github.com/publichealthengland/coronavirus-dashboard-generic-apis) - APIs that power the map, navigation, hierarchy, and relations
+- [Coronavirus Dashboard](https://github.com/publichealthengland/coronavirus-dashboard) - Details pages
+- [Frontend Server](https://github.com/publichealthengland/coronavirus-dashboard-frontend-server) - Home and Postcode pages
+- [Easy-Read Server](https://github.com/publichealthengland/coronavirus-dashboard-easy-read) - Easy-read pages and PDF generator
+- [Layout CMS](https://github.com/publichealthengland/coronavirus-dashboard-layouts) - Definition of contents
+- [ETL Service](https://github.com/publichealthengland/coronavirus-dashboard-pipeline-etl) - Post-pipeline data processing and deployment
+- [Terraform](https://github.com/publichealthengland/coronavirus-dashboard-terraform) - Infrastructure as Code [DEPRECATED in favour of ARM templates]
+
+
+## Credits
+This service is developed and maintained by [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
