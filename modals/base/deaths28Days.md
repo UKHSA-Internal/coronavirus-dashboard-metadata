@@ -24,7 +24,9 @@ Deaths are only included if the deceased had had a positive test for COVID-19 an
 
 Regional, UTLA and LTLA death counts exclude England deaths for which the exact location of residence is unknown and therefore may not sum to the England total.
 
-Where available, postcode of residence for deaths is obtained from the information collected at the time of testing. Where this is unavailable, postcode of residence is supplemented if available from ONS mortality records, Health Protection Team reports, and NHS Digital Patient Demographic Service records.
+Postcode of residence for deaths is obtained from the information collected at the time of testing and is supplemented, where available, with information from ONS mortality records, Health Protection Team reports, and NHS Digital Patient Demographic Service records.
+
+On 16 June 2021 the way deaths are allocated to local authorities and regions in England changed to take account of the address at death registration first. Because of this, the cumulative number of deaths in each affected local authority and region changed. This improvement means that there will be fewer changes to the geographical allocation of historical death counts in future.
 
 Due to a processing update, 141 historical deaths within 28 days in England were excluded from the published data on 21 November 2020. This issue was corrected for data published on 22 November 2020, which included deaths omitted on 21 November 2020 within the total and daily number of newly reported deaths for 22 November 2020.
 
