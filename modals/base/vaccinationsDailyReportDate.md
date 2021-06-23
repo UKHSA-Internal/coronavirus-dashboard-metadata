@@ -8,6 +8,8 @@ Initially the vaccines were prioritised to be administered to the over-80s, care
 
 Vaccinations that were carried out in England are reported in the National Immunisation Management Service which is the system of record for the vaccination programme in England, including both hospital hubs and local vaccination services. Data are extracted at midnight on the date of report.
 
+Following an IT issue reported to the NHS on 21 June, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June cover a 48 hour period.
+
 #### Northern Ireland
 
 Data are extracted at the end of day of the date of report. Due to a processing issue, no data was reported for 22 March 2021. The newly reported number for 23
