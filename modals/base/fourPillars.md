@@ -34,12 +34,13 @@ Antibody serology testing to show if people have antibodies from having had COVI
 
 **Pillar 4: Surveillance testing** 
 
+*Data from 12 July 2021 includes antibody serology testing data generated from the SIREN (Sarscov2 Immunity & REinfection EvaluatioN) study. SIREN is investigating whether healthcare workers who have previously been infected with COVID-19 and/or have been vaccinated are protected from the virus. 
 
 Virus testing and antibody serology testing for national surveillance supported by PHE, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing. Pillar 4 data is collected by the NHS, PHE, and individual research study leads for the UK.
 
 For pillar 4, laboratory capacity is procured based on the number of participants enrolled in a particular study and therefore any spare capacity cannot be used by other pillars.
 
-Previously pillar 4 laboratory capacity was the total amount of capacity procured based on the number of participants enrolled in a particular surveillance study, averaged across a testing period. Because Pillar 4 studies are dependent on participants sending back test kits, it is hard to accurately forecast daily expected demand. Pillar 4 have a flexible agreement with the laboratories to account for variability in returns across the testing period and are not restricted by a daily limit. Since 21 September 2020 therefore, the reported pillar 4 capacity on a given date is the same as the number of tests actually processed by pillar 4 on that same day. 
+Previously pillar 4 laboratory capacity was the total amount of capacity procured based on the number of participants enrolled in a particular surveillance study, averaged across a testing period. Because Pillar 4 studies are dependent on participants sending back test kits or having blood samples taken, it is hard to accurately forecast daily expected demand. Pillar 4 have a flexible agreement with the laboratories to account for variability in returns across the testing period and are not restricted by a daily limit. Since 21 September 2020 therefore, the reported pillar 4 capacity on a given date is the same as the number of tests actually processed by pillar 4 on that same day. 
 
 More information on the government’s national testing strategy, and the methodology used to report numbers of tests, is available on the Department for Health and Social Care website:
 
