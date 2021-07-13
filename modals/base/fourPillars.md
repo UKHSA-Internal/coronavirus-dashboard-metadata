@@ -34,7 +34,7 @@ Antibody serology testing to show if people have antibodies from having had COVI
 
 **Pillar 4: Surveillance testing** 
 
-Data from 12 July 2021 includes antibody serology testing data generated from the SIREN (Sarscov2 Immunity & REinfection EvaluatioN) study. SIREN is investigating whether healthcare workers who have previously been infected with COVID-19 and/or have been vaccinated are protected from the virus. 
+Data from 12 July 2021 includes antibody serology testing data from the SIREN (Sarscov2 Immunity & REinfection EvaluatioN) study. SIREN is investigating whether healthcare workers who have previously been infected with COVID-19 and/or have been vaccinated are protected from the virus. 
 
 Virus testing and antibody serology testing for national surveillance supported by PHE, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing. Pillar 4 data is collected by the NHS, PHE, and individual research study leads for the UK.
 
