@@ -12,6 +12,10 @@ Details of collection and further data are available on the national statistics 
 
 [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist?filter=datasets).
 
+The number of deaths by date of occurrence are based on deaths registered up to a later registration date to take into account registration delay. More information on registration delays can be found on the [Office for National Statistics website](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/impactofregistrationdelaysonmortalitystatisticsinenglandandwales/2019)
+
+Because of changes to local authority boundaries in 2020 and 2021, data are no longer published by ONS and therefore unavailable on the dashboard for former districts within Buckinghamshire (Aylesbury Vale, Chiltern, South Bucks and Wycombe) and Northamptonshire (Corby, Daventry, East Northamptonshire, Kettering, Northampton, South Northamptonshire and Wellingborough).
+
 #### Northern Ireland
 
 [Northern Ireland Statistics and Research Agency](https://www.nisra.gov.uk/statistics/ni-summary-statistics/coronavirus-covid-19-statistics)
