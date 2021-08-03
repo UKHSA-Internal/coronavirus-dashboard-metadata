@@ -2,4 +2,4 @@
 
 Total number of people who have received the first dose of COVID-19 vaccination.
 
-{inc:base/vaccinationsDaily.md|modals}
+{inc:base/vaccinationsDailyReportDate.md|modals}

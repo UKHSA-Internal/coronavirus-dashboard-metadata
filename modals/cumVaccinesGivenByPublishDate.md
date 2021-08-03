@@ -2,4 +2,4 @@
 
 Total number of COVID-19 vaccinations given.
 
-{inc:base/vaccinationsDaily.md|modals}
+{inc:base/vaccinationsDailyReportDate.md|modals}
