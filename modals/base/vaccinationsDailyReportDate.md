@@ -4,21 +4,30 @@ The vaccination programme began on 8 December 2020 with people receiving the vac
 
 Initially the vaccines were prioritised to be administered to the over-80s, care home residents and workers, and NHS staff. The number of people of all ages who received each dose is reported.
 
+#### UK
+
+The UK numbers by report date are the sum of the numbers reported individually by the four nations. Due to differing criteria for inclusion, some individuals may be counted in more than one nation's total. 
 #### England
 
-Vaccinations that were carried out in England are reported in the National Immunisation Management Service which is the system of record for the vaccination programme in England, including both hospital hubs and local vaccination services. Data are extracted at midnight on the date of report.
+Vaccinations that were carried out in England are reported in the National Immunisation Management Service which is the system of record for the vaccination programme in England, including both hospital hubs and local vaccination services. Data are extracted at midnight on the date of report. 
+
+Reported totals at nation level include all vaccinations given in England only.
 
 Following an IT issue reported to the NHS on 21 June, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June cover a 48-hour period.
 
 #### Northern Ireland
 
-Data are extracted at the end of day of the date of report. Due to a processing issue, no data was reported for 22 March 2021. The newly reported number for 23
-March 2021 includes vaccinations reported on 22 to 23 March 2021.
+Data are extracted at the end of day of the date of report. Due to a processing issue, no data was reported for 22 March 2021. The newly reported number for 23 March 2021 includes vaccinations reported on 22 to 23 March 2021.
 
+Reported totals include all vaccinations given in Northern Ireland only.
 #### Scotland
  
 Vaccinations that were carried out in Scotland are reported in the Vaccination Management Tool. Data is extracted at 8:30am on the day following the date of report.
+
+Reported totals include all vaccinations given in Scotland plus Scottish residents vaccinated elsewhere that have been recorded within the Vaccination Management Tool.
  
 #### Wales
  
 Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 10pm on the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021.
+
+Reported totals include all vaccinations given in Wales only.
