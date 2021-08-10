@@ -6,9 +6,14 @@ Initially the vaccines were prioritised to be administered to the over-80s, care
 
 #### England
 
-Vaccinations that were carried out in England are reported in the National Immunisation Management Service which is the system of record for the vaccination programme in England. Only people who have an NHS number and are currently alive are included.
+Vaccinations that were carried out in England are reported in the National Immunisation Management Service (NIMS) which is the system of record for the vaccination programme in England. Only people who have an NHS number and are currently alive are included.
+
+Vaccinations to England residents that were given outside of England are included if they have been recorded in NIMS.
 
 These are provided for population surveillance purposes, and will differ from NHS England daily outputs, which provide operational data for the management of the vaccination programme.
+
 #### Scotland
  
 Vaccinations that were carried out in Scotland are reported to Public Health Scotland through the Vaccination Management Tool and General Practice IT systems.
+
+Vaccinations to Scottish residents that were given outside of Scotland are included if they have been recorded in the Vaccination Management Tool.
