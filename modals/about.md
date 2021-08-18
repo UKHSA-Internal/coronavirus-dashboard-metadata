@@ -13,9 +13,9 @@ To ensure high public value and quality, the statistics are presented in line wi
 
 Full definitions for the metrics presented in the dashboard are provided below.
 
-## R number and growth rate
+## R value and growth rate
 
-Estimated COVID-19 R number and growth rate on the reporting date, expressed as ranges.
+Estimated COVID-19 R value and growth rate on the reporting date, expressed as ranges.
 
 {inc:base/rNumberRate.md|modals}
 
