@@ -75,7 +75,7 @@ Number of people who have received a COVID-19 vaccination, by day on which the v
 
 ## Vaccination uptake
 
-The percentage of the population aged 18 and over who have received a COVID-19 vaccination.
+The percentage of the adult population who have received a COVID-19 vaccination.
 
 {inc:base/vaccinationsUptake.md|modals}
 
