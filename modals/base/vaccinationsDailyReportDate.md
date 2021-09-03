@@ -13,7 +13,7 @@ Vaccinations that were carried out in England are reported in the National Immun
 
 Reported totals at nation level include all vaccinations given in England only. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 18 and over who have an NHS number and are currently alive are included. 
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over who have an NHS number and are currently alive are included. 
 
 Following an IT issue reported to the NHS on 21 June, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June cover a 48-hour period.
 
@@ -28,7 +28,7 @@ Vaccinations that were carried out in Scotland are reported in the Vaccination M
 
 Reported totals at nation level include all vaccinations given in Scotland plus Scottish residents vaccinated elsewhere that have been recorded within the Vaccination Management Tool. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 18 and over are included.
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over are included.
 
 #### Wales
  
