@@ -28,7 +28,7 @@ Vaccinations that were carried out in Scotland are reported in the Vaccination M
 
 Reported totals at nation level include all vaccinations given in Scotland plus Scottish residents vaccinated elsewhere that have been recorded within the Vaccination Management Tool. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over are included. Age is defined as a person's age at 31 March 2021.
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over are included. Age is defined as a person's age at 31 August 2021.
 
 #### Wales
  
