@@ -55,6 +55,7 @@ Due to public holidays, data for local authorities in Northern Ireland were not 
 * 3 May 2021
 * 31 May 2021
 * 12 to 13 July 2021
+* 30 August 2021
 
 Because of processing issues, data for local authorities in Northern Ireland were not published on 15 December 2020 and 20 February 2021.
 
@@ -88,6 +89,7 @@ Deaths in Wales were not reported because of public holidays on these dates:
 * 2 and 4 April 2021
 * 3 May 2021
 * 31 May 2021
+* 30 August 2021
 
 Because of planned maintenance of the NHS Wales Laboratory Information Management System, Wales did not report any data on 13 December 2020. 
 
