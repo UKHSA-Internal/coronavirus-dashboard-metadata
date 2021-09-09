@@ -89,6 +89,7 @@ Due to public holidays, data for local authorities in Northern Ireland were not 
 * 3 May 2021
 * 31 May 2021
 * 12 to 13 July 2021
+* 30 August 2021
 
 Because of processing issues, data for local authorities in Northern Ireland were not published on 15 December 2020 and 20 February 2021.
 
@@ -124,6 +125,7 @@ Cases in Wales were not reported because of public holidays on these dates:
 * 2 and 4 April 2021
 * 3 May 2021
 * 31 May 2021
+* 30 August 2021
 
 Planned maintenance of the NHS Wales Laboratory Information Management System between 11th and 12th December 2020 meant there was significant under-reporting of lighthouse laboratory testing. On 13 December 2020, Wales did not report any data. The new cases reported on 17 December 2020 included a backlog of around 11,000 samples processed in the lighthouse laboratories mainly collected between 9 and 15 December 2020.
 
