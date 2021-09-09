@@ -13,7 +13,7 @@ Vaccinations that were carried out in England are reported in the National Immun
 
 Reported totals at nation level include all vaccinations given in England only. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over who have an NHS number and are currently alive are included. 
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over who have an NHS number and are currently alive are included. Age is defined as a person's age at 31 March 2021.
 
 Following an IT issue reported to the NHS on 21 June, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June cover a 48-hour period.
 
@@ -28,10 +28,12 @@ Vaccinations that were carried out in Scotland are reported in the Vaccination M
 
 Reported totals at nation level include all vaccinations given in Scotland plus Scottish residents vaccinated elsewhere that have been recorded within the Vaccination Management Tool. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over are included.
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 16 and over are included. Age is defined as a person's age at 31 August 2021.
 
 #### Wales
  
 Vaccinations that were carried out in Wales are reported in the Welsh Immunisation System. Data is extracted at 10pm on the date of report. No data was reported for 15 and 16 January 2021. The newly reported number for 17 January 2021 includes vaccinations reported on 15 to 17 January 2021.
+
+From 12 April 2021, Public Health Wales moved to a 6-day reporting period for COVID-19 surveillance, with no reporting of the daily figures for Wales on Saturdays. From 22 August 2021, Public Health Wales moved to a 5-day reporting period for vaccinations. There is no reporting of the daily figures at weekends. Where possible, the numbers for the days where reporting did not take place are added in subsequent releases.
 
 Reported totals include all vaccinations given in Wales only. People of all ages are included.
