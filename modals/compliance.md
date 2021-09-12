@@ -1,4 +1,4 @@
-# UK COVID-19 dashboard – statement of voluntary application of the Code of Practice for Statistics
+## Statement of voluntary application of the Code of Practice for Statistics
 
 The government’s coronavirus dashboard publishes daily statistics about the coronavirus (COVID-19) pandemic in the UK.
 
@@ -14,7 +14,7 @@ It is also not possible to meet some other requirements of official statistics. 
 
 We have therefore voluntarily applied the [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/the-code/) as follows:
 
-## Trustworthiness
+### Trustworthiness
 
 The coronavirus dashboard is produced by Public Health England (PHE), an executive agency
 of the Department of Health and Social Care (DHSC). From September 2021, it will be produced
@@ -49,7 +49,7 @@ We try to limit these changes, but sometimes they are necessary.
 We measure user trust in the dashboard and it has grown over time. Our latest survey (of 37,730 users
 in February 2021) found that 90.3% said they trusted the dashboard data.
 
-## Quality
+### Quality
 
 Data are compiled from several appropriate sources:
 
@@ -91,7 +91,7 @@ may not always meet all the quality standards you would expect from finalised of
 a long time after the event. The data are subject to daily revision in some cases and so it would not be
 appropriate to badge the dashboard as official statistics.
 
-## Value
+### Value
 
 The dashboard was created in response to strong public interest in COVID-19 data. It receives around 750,000
 users a day, and at its peak has had over one million daily users.
