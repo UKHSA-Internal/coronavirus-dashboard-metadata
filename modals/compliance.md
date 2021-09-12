@@ -1,3 +1,5 @@
+## Table of contents
+
 ## Statement of voluntary application of the Code of Practice for Statistics
 
 The government’s coronavirus dashboard publishes daily statistics about the coronavirus (COVID-19) pandemic in the UK.
