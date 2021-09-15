@@ -76,7 +76,7 @@ dashboard steering group.
 The COVID-19 dashboard team has 5 sub-teams, who are responsible for maintaining
 quality in different areas of work:
 
-* dashboard development team – makes sure the visualisation of data is displayed correctly and on time; looks after the code, the repositories, the ETL service (the process of combining the data from different sources) and the Application Programming Interfaces (APIs)
+* software development team – makes sure the visualisation of data is displayed correctly and on time, provides technical support, and ensures compliance with regulations for data protection and accessibility. The team also looks after the code, the repositories, the ETL service, the Application Programming Interfaces (APIs), service infrastructure, database, analytics, logs, resilience, consistency, performance, and security.
 * data pipeline team – receives COVID-19 data from various different sources and transforms the different datasets into calculations that feed into the dashboard
 * data analysis team – leads the development of the metrics, data and metadata that are fed into the data pipeline; updates the data, quality assures it and draws up reports for relevant stakeholders
 * user research and design team – consults users of the dashboard to identify their needs and translates these into content and design improvements and additions
@@ -122,11 +122,12 @@ We present data in several ways, to suit different users and help aid understand
 data is of value both to people looking at it for personal interest, and to those using it for professional
 reasons. We provide:
 
-* visualisations, including graphs, maps, and arrows to indicate trends
-* simple headline figures
+* visualisations, including graphs, maps (choropleths), and arrows to indicate trends
+* simple headline figures in web and PDF formats
 * full data tables
-* data downloads
-* an Application Programming Interface (API)
+* data downloads in 4 different formats (CSV, JSON, JSONL, and XML)
+* multiple Application Programming Interfaces (APIs)
+* supplementary downloads - e.g. population denominators
 
 We have conducted an accessibility audit of the site and provide an [accessibility statement](https://coronavirus.data.gov.uk/details/accessibility). We
 are always trying to improve the accessibility of our data.
