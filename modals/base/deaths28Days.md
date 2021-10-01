@@ -18,7 +18,7 @@ Deaths are allocated to the deceased's usual area of residence.
 
 #### England
 
-Data on COVID-19 associated deaths in England are produced by Public Health England (PHE) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day.
+Data on COVID-19 associated deaths in England are produced by UK Health Security Agency (UKHSA) from multiple sources linked to confirmed case data.  Deaths newly reported each day cover the 24 hours up to 5pm on the previous day.
 
 Deaths are only included if the deceased had had a positive test for COVID-19 and died within 28 days of the first positive test.
 

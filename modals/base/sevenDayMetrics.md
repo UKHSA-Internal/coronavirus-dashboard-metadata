@@ -9,4 +9,3 @@ Where the change in the seven day count is displayed, this shows the difference 
 Where the case rate is shown on a scale compared to an average, the average used is the median of all areas.
 
 Where seven day rates are displayed, these are crude rates expressed per 100,000 population and are calculated by dividing the seven day count by the area population and multiplying by 100,000.
-

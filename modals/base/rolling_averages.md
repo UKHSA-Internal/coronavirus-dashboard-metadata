@@ -13,4 +13,3 @@ the mean of all seven days' figures is presented.
 
 For indicators where the most recent days' data are incomplete, the final few points in the rolling
 average series will not be displayed, as the averages will increase when data are complete.
-

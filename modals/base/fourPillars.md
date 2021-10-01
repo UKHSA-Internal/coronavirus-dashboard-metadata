@@ -2,10 +2,10 @@
 
 The government's mass testing programme includes four types of tests known as pillars:
 
-**Pillar 1: NHS and PHE Testing**
+**Pillar 1: NHS and UKHSA Testing**
 
 
-Virus testing in Public Health England (PHE) labs and NHS hospitals for those with a clinical need, and health and care workers. Pillar 1 data for England is provided by the NHS and PHE, and data from the devolved administrations are provided by the Department of Health of Northern Ireland, the Scottish Government, and Public Health Wales. Public Health Wales provide combined pillar 1 and partial pillar 2 data where tests are processed in NHS Wales labs.
+Virus testing in UK Health Security Agency (UKHSA) labs and NHS hospitals for those with a clinical need, and health and care workers. Pillar 1 data for England is provided by the NHS and UKHSA, and data from the devolved administrations are provided by the Department of Health of Northern Ireland, the Scottish Government, and Public Health Wales. Public Health Wales provide combined pillar 1 and partial pillar 2 data where tests are processed in NHS Wales labs.
 
 **Pillar 2: UK Government testing programme** 
 
@@ -36,7 +36,7 @@ Antibody serology testing to show if people have antibodies from having had COVI
 
 Data from 12 July 2021 includes antibody serology testing data from the SIREN (Sarscov2 Immunity & REinfection EvaluatioN) study. SIREN is investigating whether healthcare workers who have previously been infected with COVID-19 and/or have been vaccinated are protected from the virus. 
 
-Virus testing and antibody serology testing for national surveillance supported by PHE, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing. Pillar 4 data is collected by the NHS, PHE, and individual research study leads for the UK.
+Virus testing and antibody serology testing for national surveillance supported by UKHSA, ONS, Biobank, universities and other partners to learn more about the prevalence and spread of the virus and for other testing research purposes, for example on the accuracy and ease of use of home testing. Pillar 4 data is collected by the NHS, UKHSA, and individual research study leads for the UK.
 
 For pillar 4, laboratory capacity is procured based on the number of participants enrolled in a particular study and therefore any spare capacity cannot be used by other pillars.
 
