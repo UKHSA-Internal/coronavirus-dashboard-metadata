@@ -4,7 +4,7 @@
 
 This accessibility statement applies to [coronavirus.data.gov.uk](https://coronavirus.data.gov.uk).
 
-This website is run by Public Health England. We want as many people as possible to be able to use this website. For example, that means you should be able to:
+This website is run by UK Health Security Agency. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
 * change colours, contrast levels and fonts
 * zoom in up to 300% without the text spilling off the screen
@@ -16,7 +16,7 @@ This website is run by Public Health England. We want as many people as possible
 
 ## Reporting accessibility problems with this website
 
-We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact Public Health England at coronavirus-tracker@phe.gov.uk.
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact UK Health Security Agency at coronavirus-tracker@phe.gov.uk.
 
 ## Enforcement procedure
 
@@ -24,7 +24,7 @@ The Equality and Human Rights Commission (EHRC) is responsible for enforcing the
 
 ## Technical information about this website’s accessibility
 
-Public Health England is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+UK Health Security Agency is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
 
 ## Compliance status
 
