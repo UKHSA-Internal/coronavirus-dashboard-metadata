@@ -21,6 +21,4 @@ Wales include suspected COVID-19 patients in their COVID-19 patient count. Their
 
 From 19 October 2020, specialist critical care beds have been included in these figures. From 13 November 2020, only critical care beds that could be staffed are included as available. 
 
-From 18 January 2021, no patients occupying an invasive ventilated bed (critical care bed) should be counted as “recovering” COVID-19 patients as they are still requiring a high level of care. Any patient previously reported as “recovering” will now be counted under “confirmed”. This will result in an increase in the number of invasive ventilated beds occupied by “confirmed” COVID-19 patients (an increase of around 14 patients at the point of implementation) and no invasive ventilated beds showing as occupied by “recovering” patients. This change will have no impact on the total number of COVID-19 related patients.  
-
-
+From 18 January 2021, no patients occupying an invasive ventilated bed (critical care bed) should be counted as “recovering” COVID-19 patients as they are still requiring a high level of care. Any patient previously reported as “recovering” will now be counted under “confirmed”. This will result in an increase in the number of invasive ventilated beds occupied by “confirmed” COVID-19 patients (an increase of around 14 patients at the point of implementation) and no invasive ventilated beds showing as occupied by “recovering” patients. This change will have no impact on the total number of COVID-19 related patients.

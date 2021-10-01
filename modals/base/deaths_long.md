@@ -4,15 +4,15 @@ Deaths of people who have tested positively for COVID-19 could in some cases be 
 
 #### England
 
-Data on COVID-19 deaths in England are produced by Public Health England (PHE). These data are taken from 3 different sources:
+Data on COVID-19 deaths in England are produced by UK Health Security Agency (UKHSA). These data are taken from 3 different sources:
 
 * NHS England: deaths are reported by NHS Trusts using the [COVID-19 Patient Notification System (CPNS)](https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/04/C0389-update-to-cpns-reporting-letter-27-april-2020.pdf) (this includes only deaths in hospitals)
 
-* PHE Health Protection Teams: the local teams report deaths notified to them (mainly deaths not in hospitals)
+* UKHSA Health Protection Teams: the local teams report deaths notified to them (mainly deaths not in hospitals)
 
-* Linking data on confirmed positive cases (identified through testing by NHS and PHE laboratories and commercial partners) to the NHS Demographic Batch Service: when a patient dies, the NHS central register of patients is notified (this is not limited to deaths in hospitals). The list of all lab-confirmed cases is checked against the NHS central register each day, to check if any of the patients have died.
+* Linking data on confirmed positive cases (identified through testing by NHS and UKHSA laboratories and commercial partners) to the NHS Demographic Batch Service: when a patient dies, the NHS central register of patients is notified (this is not limited to deaths in hospitals). The list of all lab-confirmed cases is checked against the NHS central register each day, to check if any of the patients have died.
 
-Data on deaths from these 3 sources are linked to the list of people who have had a diagnosis of COVID-19 confirmed by a PHE or NHS laboratory (pillar 1 of the government's mass testing strategy) or through testing in commercial labs (pillar 2). This is to identify as many people with a confirmed diagnosis who have died as possible.
+Data on deaths from these 3 sources are linked to the list of people who have had a diagnosis of COVID-19 confirmed by a UKHSA or NHS laboratory (pillar 1 of the government's mass testing strategy) or through testing in commercial labs (pillar 2). This is to identify as many people with a confirmed diagnosis who have died as possible.
 
 Deaths will often appear in 2 or 3 different sources, so the records are checked and merged into one database and duplicates are removed so there is no double counting. Automated processes are used to ensure that the data are as complete as possible. Full details of the process of producing the data are available on [GOV.UK](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary).
 
