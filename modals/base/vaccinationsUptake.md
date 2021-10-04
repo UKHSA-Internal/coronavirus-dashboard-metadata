@@ -2,7 +2,7 @@ Data are reported daily, and include all vaccination events that are entered on 
 
 #### UK and nations headline uptake
 
-Headline uptake percentages for the UK and nations are presented by report date. Percentage uptake by report date is calculated by dividing the total number of vaccinations given to people of all ages, by the mid-year 2020 population estimate for people aged 16 and over, published by the Office for National Statistics.
+Headline uptake percentages for the UK and nations are presented by report date. Percentage uptake by report date is calculated by dividing the total number of vaccinations given to people of all ages, by the mid-year 2020 population estimate for people aged 12 and over, published by the Office for National Statistics.
 
 The percentage uptake published here for the nations of the UK may differ from those reported by the nations individually. In particular, figures published by Public Health Wales use denominators of those registered with NHS Wales rather than mid-year population estimates.
 
