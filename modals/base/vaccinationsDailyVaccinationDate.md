@@ -2,7 +2,7 @@ Data are reported daily, and can be updated for historical dates as vaccinations
 
 The vaccination programme began on 8 December 2020 with people receiving the vaccine developed by Pfizer/BioNTech. People began receiving the Oxford University/AstraZeneca vaccine from 4 January 2021, and the Moderna vaccine from 7 April 2021. All 3 vaccines are given as 2 doses, at least 21 days apart, for a full vaccination course. 
 
-The booster vaccination programme began on 16 September 2021. Booster doses are currently offered to people at highest risk from COVID-19 who received their second dose at least 6 months ago, to give them longer-term protection. 
+The booster vaccination programme began on 16 September 2021. Booster doses are currently offered to people at highest risk from COVID-19 who received their second dose at least 6 months earlier, to give them longer-term protection. 
 
 Third dose vaccinations are offered to people over 12 with severely weakened immune systems. Unlike boosters, third doses are considered part of a full vaccination course.
 
