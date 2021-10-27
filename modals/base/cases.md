@@ -1,4 +1,4 @@
-COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive (except for rapid lateral flow tests which have negative confirmatory lab-based polymerase chain reaction (PCR) tests taken within 72 hours), this is referred to as a case.  If a person has more than one positive test, they are only counted as one case.  
+COVID-19 cases are identified by taking specimens from people and testing them for the presence of the SARS-CoV-2 virus. If the test is positive (except for rapid lateral flow tests which have negative confirmatory lab-based polymerase chain reaction (PCR) tests taken within 72 hours), this is referred to as a case.  If a person has more than one positive test, they are only counted as one case for all nations with the exception of Wales.  
 
 Cases data includes all positive lab confirmed virus test results plus, in England, positive rapid lateral flow tests that do not have negative confirmatory lab-based polymerase chain reaction (PCR) tests taken within 72 hours.
 
@@ -114,6 +114,8 @@ Because of these gaps in reporting, the numbers reported on the following days a
 #### Wales
 
 A positive case is defined as an individual who has received a positive polymerase chain reaction (PCR) test result. If an individual tests positive via an rapid lateral flow test they are advised to take a confirmatory PCR test, therefore positive rapid lateral flow tests are not included in the figures for positive cases for Wales. 
+
+Confirmed cases for Wales are calculated using six-week episode periods, with individuals who are tested multiple times in that period only being counted once. Any tests that occur more than six weeks after the initial test will trigger a new testing period.
 
 Data include mainly pillar 1 cases until 14 July 2020, from when pillar 2 cases have been included. This included 842 historic pillar 2 cases that had not previously been reported in the UK total, causing an increase in the UK total.
 

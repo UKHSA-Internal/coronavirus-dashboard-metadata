@@ -2,22 +2,24 @@ Data are reported daily, and include all vaccination events that are entered on 
 
 #### UK and nations headline uptake
 
-Headline uptake percentages for the UK and nations are presented by report date. Percentage uptake by report date is calculated by dividing the total number of vaccinations given to people of all ages, by the mid-year 2020 population estimate for people aged 12 and over, published by the Office for National Statistics.
+Uptake percentages for the UK and nations are shown by report date. Percentage uptake by report date is calculated by dividing the total number of vaccinations given to people of all ages by the mid-year 2020 population estimate for people aged 12 and over, published by the Office for National Statistics. 
 
-The percentage uptake published here for the nations of the UK may differ from those reported by the nations individually. In particular, figures published by Public Health Wales use denominators of those registered with NHS Wales rather than mid-year population estimates.
+For booster or third dose vaccinations, the proportion of eligible people who have received their vaccination will be higher than shown. Not all of the population aged 12 and over are eligible to receive a booster or third dose. Criteria for eligibility are complicated and change on a daily basis. It is not possible to create specific denominators for different doses.
 
-Percentage uptake for age groups in England is calculated on a different basis, and presented for the purposes of population surveillance and comparison with regional and local authority data (see below).
+The percentage uptake published here for the nations of the UK may differ from those reported by the nations individually. In particular, figures published by Public Health Wales use denominators of people registered with NHS Wales rather than mid-year population estimates. 
 
-#### Local areas and age breakdowns in England
+Percentage uptake for age groups in England is calculated on a different basis. It is shown for the purposes of population surveillance and comparison with regional and local authority data. 
 
-Uptake percentages for regions and local authorities, along with age breakdowns for England and local areas within England, are presented by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the number of people aged 12 and over on the National Immunisation Management Service (NIMS). Age is defined as a person's age at 31 March 2021.
+#### England local areas and age breakdowns
 
-Vaccinations that were carried out in England are reported in NIMS which is the system of record for the vaccination programme in England. Only people who have an NHS number and are currently alive are included. Vaccinations to England residents that were given outside of England are included if they have been recorded in NIMS.
+Uptake percentages for regions and local authorities, along with age breakdowns for England and local areas within England, are shown by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the number of people aged 12 and over on the National Immunisation Management Service (NIMS). Age is defined as a person's age at 31 March 2021.
 
-These are provided for population surveillance purposes, and will differ from NHS England daily outputs, which provide operational data for the management of the vaccination programme.
+Vaccinations carried out in England are reported in NIMS, the system of record for the vaccination programme in England. Only people who have an NHS number and are currently alive are included. Vaccinations to England residents that were given outside of England are included if they have been recorded in NIMS. 
 
-#### Local areas in Scotland
+These are provided for population surveillance purposes, and will differ from NHS England daily outputs, which provide operational data for the management of the vaccination programme. 
 
-Uptake percentages for local authorities are presented by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the mid-year 2020 population estimate for people aged 12 and over. Age is defined as a person's age at 31 August 2021.
+#### Scotland local areas
 
-Vaccinations to Scottish residents that were given outside of Scotland are included if they have been recorded in the Vaccination Management Tool.
+Uptake percentages for local authorities are presented by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the mid-year 2020 population estimate for people aged 12 and over. Age is defined as a person's age at 31 August 2021. 
+
+Vaccinations to Scottish residents that were given outside of Scotland are included if they have been recorded in the Vaccination Management Tool. 
