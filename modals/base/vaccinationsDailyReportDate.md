@@ -21,11 +21,11 @@ Vaccinations that were carried out in England are reported in the National Immun
 
 Reported totals at nation level include all vaccinations given in England only. People of all ages are included.
 
-Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 12 and over who have an NHS number and are currently alive are included. Age is defined as a person's age at 31 March 2021.
+Reported totals at sub-national level include all vaccinations given to residents of the area, irrespective of where the vaccination was given. Only people aged 12 and over who have an NHS number and are currently alive are included. Age is defined as a person's age at 31 August 2021.
 
 Reporting of booster or third dose vaccinations started on 1 October 2021 in England.
 
-Following an IT issue reported to the NHS on 21 June, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June cover a 48-hour period.
+Following an IT issue reported to the NHS on 21 June 2021, it was not possible to update vaccination figures for England. Vaccination figures reported for 22 June 2021 cover a 48-hour period.
 
 #### Northern Ireland
 
