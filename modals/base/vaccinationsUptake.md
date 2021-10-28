@@ -12,7 +12,7 @@ Percentage uptake for age groups in England is calculated on a different basis. 
 
 #### England local areas and age breakdowns
 
-Uptake percentages for regions and local authorities, along with age breakdowns for England and local areas within England, are shown by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the number of people aged 12 and over on the National Immunisation Management Service (NIMS). Age is defined as a person's age at 31 March 2021.
+Uptake percentages for regions and local authorities, along with age breakdowns for England and local areas within England, are shown by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the number of people aged 12 and over on the National Immunisation Management Service (NIMS). Age is defined as a person's age at 31 August 2021.
 
 Vaccinations carried out in England are reported in NIMS, the system of record for the vaccination programme in England. Only people who have an NHS number and are currently alive are included. Vaccinations to England residents that were given outside of England are included if they have been recorded in NIMS. 
 
