@@ -22,4 +22,6 @@ These are provided for population surveillance purposes, and will differ from NH
 
 Uptake percentages for local authorities are presented by vaccination date. Percentage uptake by vaccination date is calculated by dividing the total number of vaccinations given to people aged 12 and over by the mid-year 2020 population estimate for people aged 12 and over. Age is defined as a person's age at 31 August 2021. 
 
+People who have died are not removed from the numerator when calculating uptake for Scotland and Scottish local authorities, whereas in England they are removed. Therefore uptake should not be compared between England and Scotland.
+
 Vaccinations to Scottish residents that were given outside of Scotland are included if they have been recorded in the Vaccination Management Tool. 
