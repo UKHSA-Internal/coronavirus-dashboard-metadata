@@ -14,7 +14,7 @@ This website is run by UK Health Security Agency. We want as many people as poss
 
 [AbilityNet](https://mcmw.abilitynet.org.uk/) has advice on making your device easier to use if you have a disability.
 
-#### Simple summaries 
+**Simple summaries**
 
 Simple summaries of some of the information are available to view online or download as a PDF. You can read:
 
@@ -98,7 +98,7 @@ Alternative formats
 
 The homepage and postcode search pages are static HTML pages. These pages have a less hierarchical structure, making them easier to navigate. 
 
-[Some information is also available to download as a simple summary document](#Simple-summaries).
+Some information is also available to download as a [simple summary document](https://coronavirus.data.gov.uk/easy_read).
 
 ## Preparation of this accessibility statement
 
