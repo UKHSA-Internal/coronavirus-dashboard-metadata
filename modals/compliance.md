@@ -19,8 +19,8 @@ We have therefore voluntarily applied the [Code of Practice for Statistics](http
 ### Trustworthiness
 
 The coronavirus dashboard is produced by UK Health Security Agency (UKHSA), an executive agency
-of the Department of Health and Social Care (DHSC). From September 2021, it will be produced
-by the UK Health Security Agency (UK HSA), the successor organisation to UKHSA.
+of the Department of Health and Social Care (DHSC). Prior to September 2021, it was produced
+by Public Health England, the predecessor organisation of UKHSA.
 
 These statistics contribute to the government’s response to the coronavirus pandemic. In the
 interests of openness and transparency, we want to make this data available to everyone.
