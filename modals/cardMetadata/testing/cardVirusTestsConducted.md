@@ -1,6 +1,8 @@
 ### Daily and cumulative number of virus tests conducted 
 
-Number of positive, negative or void COVID-19 virus test results by test type (including PCR and LFD tests).
+Number of positive, negative or void COVID-19 virus test results (including PCR and LFD tests).
+
+Data are shown by the date the figures appeared in the published totals.
 
 {inc:base/tests_processed.md|modals}
 

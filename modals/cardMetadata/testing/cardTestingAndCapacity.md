@@ -1,6 +1,6 @@
 ### Daily and cumulative number of lab-based tests processed 
 
-Number of positive, negative or void lab-based COVID-19 test results (including PCR virus tests and antibody tests).
+Number of positive, negative or void lab-based COVID-19 test results (including PCR virus tests and antibody tests). Data are shown by the date the figures appeared in the published totals.
 
 {inc:base/tests_processed.md|modals}
 

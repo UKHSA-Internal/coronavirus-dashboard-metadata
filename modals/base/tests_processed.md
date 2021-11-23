@@ -12,7 +12,7 @@ The number of tests conducted counts all tests that have remained within the con
 * The testing within the laboratory was unable to give an exact answer as the test gave an equivocal result (it wasn’t clearly negative or positive). 
 * There was an issue with the sample when it is delivered to the laboratory making it impossible to return a result, such as the tube was damaged or leaked, the test could not be scanned, the instructions were not followed or the swab was not put in the tube. Due to the issue with the sample, some of these tests may not have been processed by the lab at all.
 
-Tests are counted at the time at which they were processed.
+Data are shown by either the date the figures appeared in the published totals or the date the sample was taken from the person being tested.
 #### UK
 
 UK data are available for virus testing and antibody serology testing. UK Data are not available for weekends between 4 July and 10 August 2020 because Northern Ireland did not report at weekends during this period.  
