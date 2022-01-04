@@ -1,8 +1,9 @@
-﻿> 16 December 2021: Read the UK Health Security Agency blog [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
+
+16 December 2021: Read the UK Health Security Agency blog [What does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
 ## Table of contents
 
-## Introduction
+# About the coronavirus (COVID-19) in the UK dashboard
 
 The dashboard presents progress of the coronavirus pandemic as an up to date and authoritative summary of key information. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  It presents a dynamic contemporary picture and is updated daily. 
 
@@ -11,90 +12,11 @@ It meets a strongly expressed need from the public for timely updates at nationa
 The dashboard provides a tool for developers and analysts by supporting reuse of data through access to the results in machine readable files and via an API.
 To ensure high public value and quality, the statistics are presented in line with the Code of Practice for Statistics. Information is provided on the strengths and weaknesses of the data to help users to interpret them correctly. 
 
-Full definitions for the metrics presented in the dashboard are provided below.
+## About the data
 
-## R value and growth rate
+Full definitions for the metrics presented in the dashboard are provided in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics)
 
-Estimated COVID-19 R value and growth rate on the reporting date, expressed as ranges.
-
-{inc:base/rNumberRate.md|modals}
-
-## Daily and cumulative numbers of tests
-
-Number of positive, negative or void COVID-19 test results, across all types of testing, reported on or up to the reporting date.
-
-{inc:base/tests_processed.md|modals}
-
-## Testing capacity
-
-Total number of lab-based tests capable of being performed by laboratories on the reporting date.
-
-{inc:base/testingCapacity.md|modals}
-
-## Weekly number of people receiving a PCR test and positivity
-
-The number of people who received a PCR test in the previous 7 days, and the percentage of people who received a PCR test in the previous 7 days, who had at least one positive COVID-19 PCR test result.
-
-{inc:base/PCRTestingPositivity.md|modals}
-
-## Daily and cumulative numbers of cases 
-
-Number of people with a positive COVID-19 virus test (either lab-reported or rapid lateral flow test) on or up to the specimen date or reporting date (depending on availability).
-
-{inc:base/cases.md|modals}
-
-## Daily and cumulative numbers of patients admitted to hospital
-
-Numbers of patients admitted to hospital with COVID-19 on or up to the reporting date. 
-
-{inc:base/admissions.md|modals}
-
-## Patients in hospital
-
-Total number of confirmed COVID-19 patients in hospital on the reporting date.
-
-{inc:base/patientsInHospital.md|modals}
-
-## Patients in mechanical ventilation beds
-
-Total number of mechanical ventilation beds that are occupied by COVID-19 patients on the reporting date.
-
-{inc:base/covidPatientsInMVBeds.md|modals}
-
-## People who have received vaccinations, by report date
-
-Number of people who have received a COVID-19 vaccination, by day on which the vaccine was reported.
-
-{inc:base/vaccinationsDailyReportDate.md|modals}
-
-## People who have received vaccinations, by vaccination date
-
-Number of people who have received a COVID-19 vaccination, by day on which the vaccine was administered.
-
-{inc:base/vaccinationsDailyVaccinationDate.md|modals}
-
-## Vaccination uptake
-
-The percentage of the population aged 12 and over who have received a COVID-19 vaccination.
-
-{inc:base/vaccinationsUptake.md|modals}
-
-## Daily and cumulative deaths within 28 days of a positive test
-
-Total number of people who had a positive test result for COVID-19 and died within 28 days of the first
-positive test, reported on or up to the date of death or reporting date (depending on availability).
-
-{inc:base/deaths28Days.md|modals}
-
-## Methodologies
-
-{inc:base/sevenDayMetrics.md|modals}
-
-{inc:base/rates.md|modals}
-
-{inc:base/rolling_averages.md|modals}
-
-## Downloads
+### Downloading the data
 
 {inc:base/msoaCases.md|modals}
 
@@ -112,7 +34,8 @@ However, users are strongly recommended to use the API instead, which give acces
 data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
 for details.
 
-## Blogs 
+## Developing the dashboard
+### Blogs 
 
 16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
@@ -135,3 +58,7 @@ for details.
 15 May 2020: [Coronavirus (COVID-19): Real-time tracking of the virus](https://publichealthmatters.blog.gov.uk/2020/05/15/coronavirus-covid-19-real-time-tracking-of-the-virus/)
 
 23 April 2020: [Coronavirus (COVID-19): Using data to track the virus](https://publichealthmatters.blog.gov.uk/2020/04/23/coronavirus-covid-19-using-data-to-track-the-virus/)
+
+## Compliance with the Code of Practice for Statistics
+
+[Statement of voluntary application of the Code of Practice for Statistics](https://coronavirus.data.gov.uk/details/compliance)
