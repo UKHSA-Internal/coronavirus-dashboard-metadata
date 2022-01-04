@@ -1,4 +1,5 @@
-﻿> 16 December 2021: Read the UK Health Security Agency blog [What does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
+
+16 December 2021: Read the UK Health Security Agency blog [What does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
 ## Table of contents
 
@@ -35,6 +36,12 @@ for details.
 
 ## Developing the dashboard
 ### Blogs 
+
+16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
+
+15 December 2021: [Statistics are vital: An interview with Clare Griffiths](https://rss.org.uk/news-publication/news-publications/2021/general-news/statistics-are-vital-an-interview-with-clare-griff/)
+
+11 December 2021: [UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
 
 22 March 2021: [Behind the scenes: Expanding the COVID-19 dashboard](https://publichealthmatters.blog.gov.uk/2021/03/22/behind-the-scenes-expanding-the-covid-19-dashboard/)
 
