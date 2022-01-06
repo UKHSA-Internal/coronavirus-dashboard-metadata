@@ -34,7 +34,7 @@ However, users are strongly recommended to use the API instead, which give acces
 data in the live site. See the [Developer's guide](https://coronavirus-staging.data.gov.uk/developers-guide)
 for details.
 
-### Blogs tacking dashboard development
+### Blogs tracking dashboard development
 
 16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
