@@ -29,7 +29,7 @@ These are shown for:
 - the whole UK
 - nations (England, Northern Ireland, Scotland and Wales)
 - English regions
-- local authorities in all 4 nations (where available)
+- local authorities in England, Northern Ireland, Scotland and Wales
 
 ### Healthcare data
 
