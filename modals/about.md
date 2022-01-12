@@ -17,11 +17,11 @@ To ensure high public value and quality, the statistics are presented in line wi
 
 Full definitions for the metrics presented in the dashboard are provided in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics)
 
-## Data availability by area
+### Data availability by area
 
 Different data is shown for different geographical areas.
 
-### Cases, testing, deaths and vaccinations data
+#### Cases, testing, deaths and vaccinations data
 
 These are shown for:
 - the whole UK
@@ -29,7 +29,7 @@ These are shown for:
 - English regions
 - local authorities in England, Northern Ireland, Scotland and Wales
 
-### Healthcare data
+#### Healthcare data
 
 These are shown for:
 - the whole UK
