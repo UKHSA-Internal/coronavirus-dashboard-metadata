@@ -9,7 +9,7 @@ The dashboard meets a strong public need for timely updates at national and loca
 - interactive maps
 - trends over time of key measures relating to testing capacity and activity, newly-confirmed cases, hospital admissions and deaths
 
-The dashboard supports developers and analysts to reuse of data through access to the results in machine-readable files and via an API.
+The dashboard supports developers and analysts to reuse data through access to the results in machine-readable files and via an API.
 
 To ensure high public value and quality, the statistics are presented in line with the Code of Practice for Statistics. We provide information on the strengths and weaknesses of the data to help users to interpret them correctly. 
 
