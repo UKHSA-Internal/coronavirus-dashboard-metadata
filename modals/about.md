@@ -1,7 +1,7 @@
 ﻿
 ## Table of contents
 
-# About the coronavirus (COVID-19) in the UK dashboard
+## About the coronavirus (COVID-19) in the UK dashboard
 
 The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it daily to present a dynamic contemporary picture. 
 
@@ -13,7 +13,7 @@ The dashboard supports developers and analysts to reuse of data through access t
 
 To ensure high public value and quality, the statistics are presented in line with the Code of Practice for Statistics. We provide information on the strengths and weaknesses of the data to help users to interpret them correctly. 
 
-# About the data
+## About the data
 
 Full definitions for the metrics presented in the dashboard are provided in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics)
 
@@ -43,7 +43,7 @@ Cases by specimen date and vaccination uptake data are also available for middle
 
 We are no longer publishing data at lower super output area (LSOA) level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
 
-# Blogs about the COVID-19 dashboard
+## Blogs about the COVID-19 dashboard
 
 16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
@@ -67,6 +67,6 @@ We are no longer publishing data at lower super output area (LSOA) level followi
 
 23 April 2020: [Coronavirus (COVID-19): Using data to track the virus](https://publichealthmatters.blog.gov.uk/2020/04/23/coronavirus-covid-19-using-data-to-track-the-virus/)
 
-# Compliance with the Code of Practice for Statistics
+## Compliance with the Code of Practice for Statistics
 
 [Statement of voluntary application of the Code of Practice for Statistics](https://coronavirus.data.gov.uk/details/compliance)
