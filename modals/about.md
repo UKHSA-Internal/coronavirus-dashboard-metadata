@@ -1,4 +1,4 @@
-
+﻿
 ## Table of contents
 
 # About the coronavirus (COVID-19) in the UK dashboard
@@ -42,7 +42,6 @@ The availability of data for different areas varies between metrics. Some metric
 Cases by specimen date and vaccination uptake data are also available for middle layer super output areas (MSOA) in England. These areas are smaller than local authorities, so show data at the most local level. These data are shown on the interactive maps and when using the postcode search.
 
 We are no longer publishing data at lower super output area (LSOA) level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
-
 
 # Blogs about the COVID-19 dashboard
 
