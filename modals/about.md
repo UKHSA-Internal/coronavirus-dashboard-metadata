@@ -1,5 +1,3 @@
-﻿
-16 December 2021: Read the UK Health Security Agency blog [What does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
 ## Table of contents
 
@@ -45,7 +43,8 @@ Cases by specimen date and vaccination uptake data are also available for middle
 
 We are no longer publishing data at lower super output area (LSOA) level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
 
-# Blogs 
+
+# Blogs about the COVID-19 dashboard
 
 16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
 
