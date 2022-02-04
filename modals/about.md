@@ -45,6 +45,8 @@ We are no longer publishing data at lower super output area (LSOA) level followi
 
 ## Blogs about the COVID-19 dashboard
 
+4 February 2022: [Changing the COVID-19 Case Definition](https://ukhsa.blog.gov.uk/2022/02/04/changing-the-covid-19-case-definition/)
+
 20 January 2022: [Reporting the vital statistics - how data management has been central to the handling of the pandemic](https://ukhsa.blog.gov.uk/2022/01/20/reporting-the-vital-statistics-how-data-management-has-been-central-to-the-handling-of-the-pandemic/)
 
 16 December 2021: [What Does COVID-19 look like in your area?](https://ukhsa.blog.gov.uk/2021/12/16/what-does-covid-19-look-like-in-your-area/)
