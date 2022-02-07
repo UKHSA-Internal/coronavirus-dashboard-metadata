@@ -74,3 +74,45 @@ We are no longer publishing data at lower super output area (LSOA) level followi
 ## Compliance with the Code of Practice for Statistics
 
 [Statement of voluntary application of the Code of Practice for Statistics](https://coronavirus.data.gov.uk/details/compliance)
+
+## Other Government Statistics on COVID-19 
+
+### COVID-19 Health Inequalities Monitoring in England tool (CHIME) 
+
+[The national CHIME tool](https://www.gov.uk/government/statistics/covid-19-health-inequalities-monitoring-in-england-tool-chime) from the Office for Health Improvement and Disparities brings together data to monitor the direct impacts of COVID-19 on health inequalities. This includes data on mortality rates, hospital admissions, confirmed cases and vaccinations. 
+
+The CHIME tool presents inequality breakdowns, including by: 
+
+- age 
+- sex 
+- ethnic group 
+- level of deprivation 
+- geographical area 
+
+The CHIME tool: 
+
+- shows how inequalities have changed through the pandemic and what the current cumulative picture is 
+- brings together data so that users can access and use the intelligence more easily 
+- provides indicators with a consistent methodology across different data sets to help understanding 
+- supports users to identify and address inequalities within their areas and identify priority areas for recovery 
+
+### Coronavirus (COVID-19) latest insights
+
+A live roundup of the latest data and trends about the pandemic from the Office for National Statistics and other sources.
+
+[The COVID-19 latest insights tool](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights) brings together the latest information from government sources including:
+
+- the COVID-19 Infection Survey (CIS) –contains high-level estimates on infection for England, Wales, Northern Ireland and Scotland.
+- the Opinions and Lifestyle Survey – aims to understand the impact of the pandemic on people, households and communities in Great Britain
+- deaths registered weekly – provides provisional counts of deaths registered in England and Wales, including deaths involving COVID-19, in the latest weeks for which data are available. These figures lag behind the daily figures published on the dashboard by at least 11 days.
+
+### Wider Impacts of COVID-19 on Health monitoring tool (WICH)
+
+[The national WICH monitoring tool](https://www.gov.uk/government/statistics/wider-impacts-of-covid-19-on-health-monitoring-tool) from the Office for Health Improvement and Disparities brings together metrics to assess the wider impacts of COVID-19 on health. 
+
+It collates metrics across a range of wider impacts to provide a single point of access. This will help people to:
+
+- monitor changes over time or against an agreed point in time
+- make timely, informed decisions
+- intervene early to mitigate against poor outcomes
+- understand the wider context on population health
