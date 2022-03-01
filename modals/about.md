@@ -3,9 +3,9 @@
 
 ## About the coronavirus (COVID-19) in the UK dashboard
 
-The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it daily to present a dynamic contemporary picture. 
+The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it every weekday to present a dynamic contemporary picture. 
 
-The dashboard meets a strong public need for timely updates at national and local level to ensure good understanding of the day-to-day progress of the pandemic. We show how the pandemic is changing through: 
+The dashboard meets a strong public need for timely updates at national and local level to ensure good understanding of the progress of the pandemic. We show how the pandemic is changing through: 
 - interactive maps
 - trends over time of key measures relating to testing capacity and activity, newly-confirmed cases, hospital admissions and deaths
 
@@ -44,6 +44,8 @@ Cases by specimen date and vaccination uptake data are also available for middle
 We are no longer publishing data at lower super output area (LSOA) level following guidance from the Office for National Statistics published by the Department for Health and Social Care: [Office for National Statistics recommendation for publishing data at small geographies for NHS Test and Trace](https://www.gov.uk/government/publications/office-for-national-statistics-recommendation-for-publishing-data-at-small-geographies-for-nhs-test-and-trace)
 
 ## Blogs about the COVID-19 dashboard
+
+28 February 2022: [Voluntary Application: Demonstrating the value of the COVID-19 Dashboard through the Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/case-studies/voluntary-application-demonstrating-the-value-of-the-covid-19-dashboard-through-the-code-of-practice-for-statistics/)
 
 4 February 2022: [Changing the COVID-19 Case Definition](https://ukhsa.blog.gov.uk/2022/02/04/changing-the-covid-19-case-definition/)
 
