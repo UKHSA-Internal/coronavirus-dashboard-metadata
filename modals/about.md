@@ -45,6 +45,8 @@ We are no longer publishing data at lower super output area (LSOA) level followi
 
 ## Blogs about the COVID-19 dashboard
 
+28 June 2022: [The COVID-19 Dashboard Moves to Weekly Updates](https://ukhsa.blog.gov.uk/2022/06/28/the-covid-19-dashboard-moves-to-weekly-updates/)
+
 28 February 2022: [Voluntary Application: Demonstrating the value of the COVID-19 Dashboard through the Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/case-studies/voluntary-application-demonstrating-the-value-of-the-covid-19-dashboard-through-the-code-of-practice-for-statistics/)
 
 4 February 2022: [Changing the COVID-19 Case Definition](https://ukhsa.blog.gov.uk/2022/02/04/changing-the-covid-19-case-definition/)
