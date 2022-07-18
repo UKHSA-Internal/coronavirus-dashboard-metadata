@@ -3,7 +3,7 @@
 
 ## About the coronavirus (COVID-19) in the UK dashboard
 
-The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it every weekday to present a dynamic contemporary picture. 
+The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it every Wednesday at 4pm to present a dynamic contemporary picture. 
 
 The dashboard meets a strong public need for timely updates at national and local level to ensure good understanding of the progress of the pandemic. We show how the pandemic is changing through: 
 - interactive maps
@@ -15,13 +15,27 @@ To ensure high public value and quality, the statistics are presented in line wi
 
 ## About the data
 
+All data are updated weekly on Wednesdays at 4pm.
+
+For cases by specimen date and for deaths by date of death, every Wednesday we update the daily numbers of new and cumulative cases and deaths for all previous days for which data are available.
+
+For cases and deaths by report date, we report the number of new cases or deaths as the total number newly reported since the previous week. Previous week’s figures by report date are not revised as they are a record of what was reported at the time. 
+
 Full definitions for the metrics presented in the dashboard are provided in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics)
 
 ### Data availability by area
 
 Different data is shown for different geographical areas.
 
-#### Cases, testing, deaths and vaccinations data
+#### Cases, testing and deaths data
+
+These are shown for:
+- the whole UK up to 19/05/2022 when Northern Ireland stopped reporting these data
+- nations (England, Northern Ireland (up to 19/05/2022), Scotland and Wales)
+- English regions
+- local authorities in England, Northern Ireland (up to 19/05/2022), Scotland and Wales
+
+#### Vaccinations data
 
 These are shown for:
 - the whole UK
