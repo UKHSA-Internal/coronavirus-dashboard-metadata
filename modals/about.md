@@ -15,7 +15,7 @@ To ensure high public value and quality, the statistics are presented in line wi
 
 ## About the data
 
-All data are updated weekly on Wednesdays at 4pm.
+All data are updated weekly on Thursdays at 4pm.
 
 For cases by specimen date and for deaths by date of death, every Wednesday we update the daily numbers of new and cumulative cases and deaths for all previous days for which data are available.
 
