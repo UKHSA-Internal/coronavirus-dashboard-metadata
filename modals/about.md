@@ -59,6 +59,10 @@ We are no longer publishing data at lower super output area (LSOA) level followi
 
 ## Blogs about the COVID-19 dashboard
 
+29 November 2022: [Changes to the COVID-19 dashboard and COVID-19 vaccination surveillance report](https://ukhsa.blog.gov.uk/2022/11/29/changes-to-the-covid-19-dashboard-and-covid-19-vaccination-surveillance-report/?_ga=2.240456003.1770260184.1669889785-595865933.1645545809)
+
+September 2022: [Dashboard Confessional: Civil Service World interview with Clare Griffiths](https://www.civilserviceworld.com/in-depth/article/read-the-september-2022-issue-of-civil-service-world)
+
 28 June 2022: [The COVID-19 Dashboard Moves to Weekly Updates](https://ukhsa.blog.gov.uk/2022/06/28/the-covid-19-dashboard-moves-to-weekly-updates/)
 
 28 February 2022: [Voluntary Application: Demonstrating the value of the COVID-19 Dashboard through the Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/case-studies/voluntary-application-demonstrating-the-value-of-the-covid-19-dashboard-through-the-code-of-practice-for-statistics/)
