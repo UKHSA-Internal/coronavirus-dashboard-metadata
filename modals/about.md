@@ -15,13 +15,113 @@ To ensure high public value and quality, the statistics are presented in line wi
 
 ## About the data
 
+The coronavirus (COVID-19) in the UK dashboard provides information about the COVID-19 pandemic. The main topics covered are:
+-	cases
+-	deaths
+-	healthcare
+-	testing
+-	vaccinations
+
 All data are updated weekly on Thursdays at 4pm.
 
-For cases by specimen date and for deaths by date of death, every Wednesday we update the daily numbers of new and cumulative cases and deaths for all previous days for which data are available.
+For cases by specimen date and for deaths by date of death, every Thursday we update the daily numbers of new and cumulative cases and deaths for all previous days for which data are available.
 
-For cases and deaths by report date, we report the number of new cases or deaths as the total number newly reported since the previous week. Previous week’s figures by report date are not revised as they are a record of what was reported at the time. 
+For cases and deaths by report date, we report the number of new cases or deaths as the total number newly reported since the previous week. Previous week’s figures by report date are not revised as they are a record of what was reported at the time.
+Full definitions for the metrics presented in the dashboard are provided in the 
 
 Full definitions for the metrics presented in the dashboard are provided in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics)
+
+### Cases
+A case is when someone is confirmed as having COVID-19 through a positive test. People can be counted as a case more than once if they test positive for COVID-19 again after a certain time period. The time period varies across the different UK nations.
+
+We show cases by specimen date – the date the sample was taken from the person that identified the infection.
+
+At the height of the pandemic, we showed cases by date reported – the date the case was first included in the published totals. Cases by report date are no longer shown on the dashboard but are still available to download via the API.
+
+#### Case rates
+To compare numbers of cases across different areas which have different numbers of people living in them, we also show case rates. We calculate these by dividing the total number of cases in the period by the number of people living in the area and multiplying by 100,000.
+
+You can see case rates for the latest 7 days from the last update on the interactive map, for example.
+
+#### Allocating cases to areas
+Cases are allocated to where the person usually lives. This is normally the address they provide when they are tested.
+
+#### Tests used to identify cases
+Cases are identified by testing for the SARS CoV-2 virus. Tests can be either:
+-	laboratory-based polymerase chain reaction (PCR) tests
+-	rapid lateral flow tests – swab tests that don’t need to be sent to a laboratory.
+The different UK nations vary in how they use these to count positive cases. For example, Wales does not count positive results from lateral flow tests as cases.
+ 
+### Deaths
+The dashboard shows 2 main types of death data:
+-	deaths where COVID-19 is mentioned on the death certificate as one of the causes (deaths from COVID)
+-	deaths within 28 days of a positive COVID-19 test (deaths with COVID)
+
+Data are shown by the date someone died (date of death).
+
+We previously also showed deaths by when the death was reported (date reported). Deaths by report date are no longer shown on the dashboard but are still available to download via the API.
+
+The different UK nations vary in how they count COVID-19 deaths. Find out more information on this in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics).
+
+#### Deaths with COVID-19 on the death certificate
+Deaths with COVID-19 on the death certificate (deaths from COVID-19) data are updated weekly by national statistics bodies in the 4 UK nations. The data represents represent people who have died from COVID-19, as decided by the clinician registering the death. There is a time delay of around 11 days between the occurrence, registration and reporting of a death.
+
+#### Deaths within 28 days of a positive test 
+Deaths within 28 days of a positive COVID-19 test are included whether or not COVID-19 was a cause of death shown on the death certificate.
+
+People who died more than 28 days after a positive COVID-19 test are not included in these figures, whether or not COVID-19 was a cause of death on the death certificate.
+
+#### Allocating deaths to areas
+Deaths are allocated to the area the person usually lived in. If more than one address is identified, the address given in the death registration from the Office for National Statistics (ONS) is used.
+
+### Healthcare
+The healthcare section contains data about COVID-19 patients in hospital:
+-	patients admitted to hospital with COVID-19
+-	patients currently in hospital with COVID-19
+-	COVID-19 patients in hospital beds with a mechanical ventilator to help them breathe.
+
+The different UK nations vary in how they collect data about COVID-19 patients in hospitals. Find out more information on this in the [Metrics documentation](https://coronavirus.data.gov.uk/metrics).
+
+### Tests
+We report data on tests being carried out for COVID-19. These include:
+-	tests for the SARS-CoV-2 virus – these test if a person currently has COVID-19 and include rapid lateral flow and polymerase chain reaction (PCR) tests
+-	tests for COVID-19 antibodies – these test if a person has had COVID-19 in the past and now has antibodies against the virus (proteins the immune system makes to fight infection).
+
+We show tests by either:
+-	date reported – the date the test was included in the published totals
+-	specimen date – the date the sample was taken from the person being tested.
+
+We include data on positive, negative and inconclusive (void) COVID-19 virus test results.
+
+The most common types of test are PCR and lateral flow tests.
+
+#### Lateral flow tests 
+Swab tests that give results in less than an hour, without needing to go to a laboratory.
+
+#### PCR tests
+PCR tests are sent to a laboratory to be analysed. They are sometimes used to confirm cases suspected after a positive lateral flow test.
+
+### Vaccinations
+We show data on the number of people who have been vaccinated against COVID-19 since the UK vaccination programme began in December 2020. Data are shown by either:
+-	when someone was vaccinated (vaccination date)
+-	when the vaccination was reported (date reported).
+
+#### Vaccine doses
+COVID-19 vaccines are given in several doses. We include data on:
+-	first doses
+-	second doses
+-	third or booster doses.
+Booster doses were offered from September 2021 to everyone aged 16 and over (and some children aged 12 to 15) who had been given a second dose of the vaccine at least 3 months ago. Extra booster doses were also offered to specific groups, such as people with severely weakened immune systems, called spring and autumn boosters. 
+
+#### Percentage vaccinated
+We include data on the percentage of people vaccinated for some areas.
+For the UK, we divide the total number of vaccinations given to people of all ages by the mid-year 2020 population estimate for people aged 12 and over, published by the Office for National Statistics.
+
+The different UK nations vary in how they calculate percentage vaccinated.
+
+#### Allocating vaccinations to areas
+The different UK nations vary in how they allocate vaccinations to areas.
+At a national level, England, Northern Ireland and Wales include all vaccinations given in that country. Scotland includes all vaccinations given in Scotland, plus Scottish residents vaccinated elsewhere if recorded within the Vaccination Management Tool.
 
 ### Data availability by area
 
