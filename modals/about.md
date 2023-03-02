@@ -50,6 +50,7 @@ Cases are allocated to where the person usually lives. This is normally the addr
 Cases are identified by testing for the SARS CoV-2 virus. Tests can be either:
 -	laboratory-based polymerase chain reaction (PCR) tests
 -	rapid lateral flow tests – swab tests that don’t need to be sent to a laboratory.
+
 The different UK nations vary in how they use these to count positive cases. For example, Wales does not count positive results from lateral flow tests as cases.
  
 ### Deaths
@@ -111,6 +112,7 @@ COVID-19 vaccines are given in several doses. We include data on:
 -	first doses
 -	second doses
 -	third or booster doses.
+
 Booster doses were offered from September 2021 to everyone aged 16 and over (and some children aged 12 to 15) who had been given a second dose of the vaccine at least 3 months ago. Extra booster doses were also offered to specific groups, such as people with severely weakened immune systems, called spring and autumn boosters. 
 
 #### Percentage vaccinated
