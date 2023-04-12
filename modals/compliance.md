@@ -11,7 +11,7 @@ These statistics are not classed as official statistics because:
 
 It is also not possible to meet some other requirements of official statistics. For example, we cannot:
 
-* pre-announce the release time of data (usually 4pm every Thursday, except at weekends from 21 February 2022) via the release calendar
+* pre-announce the release time of data (usually 4pm every Thursday) via the release calendar
 * restrict early access to the data to a small number of people, although access to the weekly update in its final form is limited to the dashboard team
 
 We have therefore voluntarily applied the [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/the-code/) as follows:
