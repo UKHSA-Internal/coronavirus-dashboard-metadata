@@ -18,7 +18,7 @@ This website is run by UK Health Security Agency. We want as many people as poss
 
 Simple summaries of some of the information are available to view online or download as a PDF. You can read:
 
-* [a UK summary](https://coronavirus.data.gov.uk/easy_read) – also available from the homepage
+* [a summary for England](https://coronavirus.data.gov.uk/easy_read) – also available from the homepage
 * reports on cases, deaths, vaccinations, healthcare and testing for a specific postcode – find these by using the postcode search and clicking on the links under the ‘Additional relevant data’ subheading
 
 **How accessible this website is**
