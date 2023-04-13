@@ -11,8 +11,8 @@ These statistics are not classed as official statistics because:
 
 It is also not possible to meet some other requirements of official statistics. For example, we cannot:
 
-* pre-announce the release time of data (usually 4pm daily, except at weekends from 21 February 2022) via the release calendar
-* restrict early access to the data to a small number of people, although access to the daily update in its final form is limited to the dashboard team
+* pre-announce the release time of data (usually 4pm every Thursday) via the release calendar
+* restrict early access to the data to a small number of people, although access to the weekly update in its final form is limited to the dashboard team
 
 We have therefore voluntarily applied the [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/the-code/) as follows:
 
@@ -34,8 +34,8 @@ The steering group feed into discussions about which statistics we include on th
 The majority of decisions about the content are made in discussion with the Head of Profession
 for Statistics, but on some occasions the final sign-off rests with ministers.
 
-Data are updated daily (except at weekends after 21 February 2022). We know timely information is important to our users, so we commit to
-update the data at 4pm each day. On the rare occasions when delays are unavoidable, we announce
+Data are updated weekly. We know timely information is important to our users, so we commit to
+update the data at 4pm every Thursday. On the rare occasions when delays are unavoidable, we announce
 this on our homepage and explain the reasons.
 
 We announce any unexpected changes to the data we release on the homepage and add an explanation
