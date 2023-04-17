@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\modals"
+  ],
+  "SelectedNode": "\\.github\\workflows\\deploy_to_staging.yml",
+  "PreviewInSolutionExplorer": false
+}
