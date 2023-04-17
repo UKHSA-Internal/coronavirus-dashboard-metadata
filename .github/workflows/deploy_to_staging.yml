@@ -11,8 +11,6 @@ jobs:
 
     steps:
 
-      - run: echo ${{ secrets.STAGINGPUBLISHPROFILE }} | sed 's/./& /g'
-
       - uses: UKHSA-Internal/webhook-action@v1.0.0
         with:
           url: ${{ secrets.STAGINGPUBLISHPROFILE }}
