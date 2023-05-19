@@ -3,7 +3,7 @@
 
 ## About the coronavirus (COVID-19) in the UK dashboard
 
-The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it every Thursday at 4pm to present a dynamic contemporary picture. 
+The dashboard is an up-to-date and authoritative summary of key information about the COVID-19 pandemic. This includes levels of infections, the impact on health in the UK and on measures taken to respond.  We update it every Thursday at 6pm to present a dynamic contemporary picture. 
 
 The dashboard meets a strong public need for timely updates at national and local level to ensure good understanding of the progress of the pandemic. We show how the pandemic is changing through: 
 - interactive maps
@@ -22,7 +22,7 @@ The coronavirus (COVID-19) in the UK dashboard provides information about the CO
 -	testing
 -	vaccinations
 
-All data are updated weekly on Thursdays at 4pm.
+All data are updated weekly on Thursdays at 6pm.
 
 For cases by specimen date and for deaths by date of death, every Thursday we update the daily numbers of new and cumulative cases and deaths for all previous days for which data are available.
 
